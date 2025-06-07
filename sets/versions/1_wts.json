@@ -63,7 +63,7 @@
             "card_name": "Schmooze",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Sorcery",
+            "type": "Instant",
             "number": 104,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -85,7 +85,7 @@
             "number": 273,
             "color_identity": "UG",
             "cost": "",
-            "rules_text": "Gensus Laboratory District enters tapped.\n{T}: Add {G} or {U}.\n{2}, {T}, Sacrifice Gensus Laboratory District: You get +3 power until end of turn. Activate only as a sorcery. [i](As long as a player has power, they may attack and one creature may block them.)[/i]",
+            "rules_text": "Gensus Laboratory District enters tapped.\n{T}: Add {G} or {U}.\n{2}, {T}, Sacrifice Gensus Laboratory District: If it's your turn, you get +3 power until end of turn. [i](As long as a player has power, they may attack and one creature may block them.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -93,7 +93,7 @@
             "set": "WTS",
             "loyalty": "",
             "artist": "Andreas Rocha",
-            "notes": ""
+            "notes": "landslot"
         },
         {
             "card_name": "Leaping Ambusher",
@@ -265,7 +265,7 @@
             "number": 222,
             "color_identity": "WB",
             "cost": "{1}{WB}",
-            "rules_text": "Prehistoric Pocket Knife enters tapped.\n{1}, {T}: You get +2 power and gain lifelink until end of turn. Activate only as a sorcery. [i](As long as a player has power, they may attack and one creature may block them.)[/i]",
+            "rules_text": "Prehistoric Pocket Knife enters tapped.\n{1}, {T}: If it's your turn, you get +2 power and gain lifelink until end of turn. [i](As long as a player has power, they may attack and one creature may block them.)[/i]",
             "flavor_text": "[i]It's an ancient, simple thing. You feel a strange impulse to hold on to it.[/i]",
             "pt": "",
             "special_text": "",
@@ -427,7 +427,7 @@
             "number": 120,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "Choose one \u2014\n\u2022 Create two 2/2 Mercenary artifact creature tokens with \u201cThis creature can't block.\u201d\n\u2022 Destroy target artifact. If that artifact wasn't a creature, draw a card.",
+            "rules_text": "Choose one \u2014\n\u2022 Create two 2/2 Mercenary artifact creature tokens that can't block.\n\u2022 Destroy target artifact. If that artifact wasn't a creature, draw a card.",
             "flavor_text": "[i]They're professionals, if only in the sense that they accept money for services rendered.[/i]",
             "pt": "",
             "special_text": "",
@@ -931,7 +931,7 @@
             "number": 57,
             "color_identity": "U",
             "cost": "{1}{U}{U}",
-            "rules_text": "Flash\nHacker's Headset enters tapped. When it enters, if it was cast, counter target spell.\n{T}: Until end of turn, you get +1 power and can't be blocked by artifacts. Activate only as a sorcery. [i](As long as a player has power, they may attack and one creature may block them.)[/i]",
+            "rules_text": "Flash\nHacker's Headset enters tapped. When it enters, if it was cast, counter target spell.\n{T}: If it's your turn, until end of turn, you get +1 power and can't be blocked by artifacts. [i](As long as a player has power, they may attack and one creature may block them.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1057,7 +1057,7 @@
             "number": 246,
             "color_identity": "G",
             "cost": "{2}",
-            "rules_text": "Prosthetic Arm enters tapped. As it enters, return a land you control to its owner's hand.\n{T}: Add {G}{G}.\n{1}{G}, {T}, Pay 2 life: Until end of turn, prevent all damage that would be dealt to you and you get +3 power. Activate only as a sorcery. [i](As long as a player has power, they may attack and one creature may block them.)[/i]",
+            "rules_text": "Prosthetic Arm enters tapped. As it enters, return a land you control to its owner's hand.\n{T}: Add {G}{G}.\n{1}{G}, {T}, Pay 2 life: If it's your turn, until end of turn, prevent all damage that would be dealt to you and you get +3 power. [i](As long as a player has power, they may attack and one creature may block them.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1615,7 +1615,7 @@
             "number": 172,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "Multifunction Hand enters tapped. When it enters, you may return target permanent card from your graveyard to your hand.\n{T}: You get +2 power until end of turn. Activate only as a sorcery. [i](As long as a player has power, they may attack and one creature may block them.)[/i]",
+            "rules_text": "Multifunction Hand enters tapped. When it enters, you may return target permanent card from your graveyard to your hand.\n{T}: If it's your turn, you get +2 power until end of turn. [i](As long as a player has power, they may attack and one creature may block them.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1903,7 +1903,7 @@
             "number": 37,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Tyflonaut Wings enters tapped. When it enters, you gain 1 life and draw a card.\n{1}, {T}: You get +1 power and gain flying until end of turn. Activate only as a sorcery. [i](As long as a player has power, they may attack and one creature may block them.)[/i]",
+            "rules_text": "Tyflonaut Wings enters tapped. When it enters, you gain 1 life and draw a card.\n{1}, {T}: If it's your turn, you get +1 power and gain flying until end of turn. [i](As long as a player has power, they may attack and one creature may block them.)[/i]",
             "flavor_text": "[i]Far above and below Altimuth, the air thins out into aether at the border of the Blind Eternities.[/i]",
             "pt": "",
             "special_text": "",
@@ -2191,8 +2191,8 @@
             "number": 254,
             "color_identity": "C",
             "cost": "{4}",
-            "rules_text": "{T}: Add two mana of any one color.\n{T}, Discard your hand: Draw that many cards. If you would draw from an empty library this way, you win the game.",
-            "flavor_text": "[i]ft | you get a bunch of money and\nft | go mad with power literally immediately\nft | great ending, dingus[/i]",
+            "rules_text": "{T}: Add two mana of any one color.\n{T}, Discard your hand: Draw that many cards.\nIf you would draw a card while your library has no cards in it, instead create a 4/3 Mercenary artifact creature token.",
+            "flavor_text": "[i]Your meteoric rise to power has brought the city to its knees. Nothing is left beyond your reach.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -2415,7 +2415,7 @@
             "set": "WTS",
             "loyalty": "",
             "artist": "Samuele Bandini",
-            "notes": ""
+            "notes": "landslot"
         },
         {
             "card_name": "Basement Apartment",
@@ -2433,7 +2433,7 @@
             "set": "WTS",
             "loyalty": "",
             "artist": "Duncan Halleck",
-            "notes": ""
+            "notes": "landslot"
         },
         {
             "card_name": "Raven, Untouchable Killer",
@@ -2595,7 +2595,7 @@
             "set": "WTS",
             "loyalty": "",
             "artist": "Jaaziah Chan",
-            "notes": ""
+            "notes": "landslot"
         },
         {
             "card_name": "Customized Sidearm",
@@ -2605,7 +2605,7 @@
             "number": 233,
             "color_identity": "C",
             "cost": "{2}",
-            "rules_text": "When Customized Sidearm enters, surveil 1.\n{1}, {T}: Until end of turn, you gain first strike and get +1 power for each card type among cards in your graveyard. Activate only as a sorcery. [i](As long as a player has power, they may attack and one creature may block them.)[/i]",
+            "rules_text": "When Customized Sidearm enters, surveil 1.\n{1}, {T}: If it's your turn, until end of turn, you gain first strike and get +1 power for each card type among cards in your graveyard. [i](As long as a player has power, they may attack and one creature may block them.)[/i]",
             "flavor_text": "[i]It's a pistol like any other, but it's your own.[/i]",
             "pt": "",
             "special_text": "",
@@ -2991,7 +2991,7 @@
             "set": "WTS",
             "loyalty": "",
             "artist": "Nagafujiriku",
-            "notes": ""
+            "notes": "landslot"
         },
         {
             "card_name": "Penthouse Apartment",
@@ -3009,13 +3009,13 @@
             "set": "WTS",
             "loyalty": "",
             "artist": "Tarmo Juhola",
-            "notes": ""
+            "notes": "landslot"
         },
         {
             "card_name": "Gas Leak",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Sorcery",
+            "type": "Instant",
             "number": 91,
             "color_identity": "B",
             "cost": "{4}{B}{B}",
@@ -3198,8 +3198,8 @@
             "type": "Legendary Enchantment \u2014 Aura",
             "number": 63,
             "color_identity": "U",
-            "cost": "{4}{U}{U}{U}",
-            "rules_text": "Improvise [i](Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for {1}.)[/i]\nEnchant creature\nYou control enchanted creature.",
+            "cost": "{3}{U}{U}{U}",
+            "rules_text": "Improvise [i](Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for {1}.)[/i]\nEnchant creature or artifact\nYou control enchanted permanent.",
             "flavor_text": "[i]You have made yourself into something to be deeply afraid of. The city moves at your whim.[/i]",
             "pt": "",
             "special_text": "",
@@ -3325,7 +3325,7 @@
             "number": 206,
             "color_identity": "UR",
             "cost": "{U}{R}",
-            "rules_text": "When Vacuum-Sealed Reliquary enters, if it was cast, create two Mission tokens. [i](They're 2-defense battle opponents protect with \u201cWhen this battle is defeated, draw a card.\u201d)[/i]\n{1}, {T}: Until end of turn, target creature gains haste, menace, and trample over battles. [i](It can deal excess combat damage to the protector of defeated battles.)[/i]",
+            "rules_text": "When Vacuum-Sealed Reliquary enters, if it was cast, create two Mission tokens. [i](They're 2-defense battles opponents protect with \u201cWhen this battle is defeated, draw a card.\u201d)[/i]\n{1}, {T}: Until end of turn, target creature gains haste, menace, and trample over battles. [i](It can deal excess combat damage to the protector of defeated battles.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3649,7 +3649,7 @@
             "number": 24,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "Flash\nHandheld Railcannon enters tapped. When it enters, it deals 5 damage to target attacking, blocking, or artifact creature.\n{3}, {T}, Sacrifice an artifact: You get +5 power until end of turn. Activate only as a sorcery. [i](As long as a player has power, they may attack and one creature may block them.)[/i]",
+            "rules_text": "Flash\nHandheld Railcannon enters tapped. When it enters, it deals 5 damage to target attacking, blocking, or artifact creature.\n{3}, {T}, Sacrifice an artifact: If it's your turn, you get +5 power until end of turn. [i](As long as a player has power, they may attack and one creature may block them.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3667,7 +3667,7 @@
             "number": 18,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "Electrosword enters tapped. When it enters, destroy up to one target tapped creature.\n{1}, {T}: You get +2 power until end of turn. Activate only as a sorcery. [i](As long as a player has power, they may attack and one creature may block them.)[/i]",
+            "rules_text": "Electrosword enters tapped. When it enters, destroy up to one target tapped creature.\n{1}, {T}: If it's your turn, you get +2 power until end of turn. [i](As long as a player has power, they may attack and one creature may block them.)[/i]",
             "flavor_text": "[i]In an age of gunfire, swords persist as high-skill tools for taking on heavily armored opponents.[/i]",
             "pt": "",
             "special_text": "",
@@ -3685,7 +3685,7 @@
             "number": 50,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "Whenever you draw a card, put a charge counter on Ermetico Facility Guard.\n{2}, Remove X charge counters from Ermetico Facility Guard: You get +X power until end of turn. Activate only as a sorcery. [i](As long as a player has power, they may attack and one creature may block them.)[/i]",
+            "rules_text": "Whenever you draw a card, put a charge counter on Ermetico Facility Guard.\n{2}, Remove X charge counters from Ermetico Facility Guard: If it's your turn, you get +X power until end of turn. [i](As long as a player has power, they may attack and one creature may block them.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -3703,7 +3703,7 @@
             "number": 44,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "As Blackout Mastermind enters, choose artifact or nonartifact. \nYou and Blackout Mastermind can't be blocked by creatures of the chosen quality.\n{1}, {T}: You get +2 power until end of turn. Activate only as a sorcery. [i](As long as a player has power, they may attack and one creature may block them.)[/i]",
+            "rules_text": "As Blackout Mastermind enters, choose artifact or nonartifact. \nYou and Blackout Mastermind can't be blocked by creatures of the chosen quality.\n{1}, {T}: If it's your turn, you get +2 power until end of turn. [i](As long as a player has power, they may attack and one creature may block them.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -3757,7 +3757,7 @@
             "number": 97,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "During your turn, you get +2 power. [i](As long as a player has power, they may attack and one creature may block them.)[/i]\nWhenever an opponent loses life during your turn, you may have target player mill two cards.",
+            "rules_text": "During your turn, you get +2 power. [i](As long as a player has power, they may attack and one creature may block them.)[/i]\nWhenever an opponent is dealt combat damage during your turn, you may have target player mill two cards.",
             "flavor_text": "[i][/i]",
             "pt": "1/2",
             "special_text": "",
@@ -4549,14 +4549,14 @@
             "number": 263,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "{T}: Add {C}.\nWhen you discard Rusting Monument, you may pay {2}. If you do, choose one \u2014\n\u2022 Put it onto the battlefield tapped.\n\u2022 Draw a card.",
+            "rules_text": "{T}: Add {C}.\nWhen you discard this card, you may pay {1} and 2 life. If you do, choose one \u2014\n\u2022 Put it onto the battlefield tapped.\n\u2022 Draw a card.",
             "flavor_text": "[i]\u201cTo the people of [illegible], lost to the clouds.\u201d\n\u2014Corroded plaque, engravers unknown[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "WTS",
             "loyalty": "",
-            "artist": "Daniel Novillo",
+            "artist": "Alessandro Paviolo",
             "notes": ""
         },
         {
@@ -4603,7 +4603,7 @@
             "number": 244,
             "color_identity": "C",
             "cost": "{3}",
-            "rules_text": "{T}: Choose one. Activate only as a sorcery. \n\u2022 Target noncreature artifact you control becomes a 3/3 Drone creature in addition to its other types until end of turn.\n\u2022 Target artifact creature you control gets +3/+3 until end of turn.\n{3}: Untap Mechanical Masks.",
+            "rules_text": "{T}: Choose one. Activate only during your turn.\n\u2022 Target noncreature artifact you control becomes a 3/3 Drone creature in addition to its other types until end of turn.\n\u2022 Target artifact creature you control gets +3/+3 until end of turn.\n{3}: Untap Mechanical Masks.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4945,7 +4945,7 @@
             "number": 268,
             "color_identity": "WR",
             "cost": "",
-            "rules_text": "Backstreets Marketplace enters tapped.\n{T}: Add {R} or {W}.\n{2}, {T}, Sacrifice Backstreets Marketplace: You get +3 power until end of turn. Activate only as a sorcery. [i](As long as a player has power, they may attack and one creature may block them.)[/i]",
+            "rules_text": "Backstreets Marketplace enters tapped.\n{T}: Add {R} or {W}.\n{2}, {T}, Sacrifice Backstreets Marketplace: If it's your turn, you get +3 power until end of turn. [i](As long as a player has power, they may attack and one creature may block them.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4953,7 +4953,7 @@
             "set": "WTS",
             "loyalty": "",
             "artist": "Ron Adrian Balacase",
-            "notes": ""
+            "notes": "landslot"
         },
         {
             "card_name": "Backstreets Canal",
@@ -4963,7 +4963,7 @@
             "number": 266,
             "color_identity": "UB",
             "cost": "",
-            "rules_text": "Backstreets Canal enters tapped.\n{T}: Add {U} or {B}.\n{2}, {T}, Sacrifice Backstreets Canal: You get +3 power until end of turn. Activate only as a sorcery. [i](As long as a player has power, they may attack and one creature may block them.)[/i]",
+            "rules_text": "Backstreets Canal enters tapped.\n{T}: Add {U} or {B}.\n{2}, {T}, Sacrifice Backstreets Canal: If it's your turn, you get +3 power until end of turn. [i](As long as a player has power, they may attack and one creature may block them.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4971,7 +4971,7 @@
             "set": "WTS",
             "loyalty": "",
             "artist": "Jeremy Lim",
-            "notes": ""
+            "notes": "landslot"
         },
         {
             "card_name": "Aero-Merai Factory",
@@ -4981,7 +4981,7 @@
             "number": 264,
             "color_identity": "BR",
             "cost": "",
-            "rules_text": "Aero-Merai Factory enters tapped.\n{T}: Add {B} or {R}.\n{2}, {T}, Sacrifice Aero-Merai Factory: You get +3 power until end of turn. Activate only as a sorcery. [i](As long as a player has power, they may attack and one creature may block them.)[/i]",
+            "rules_text": "Aero-Merai Factory enters tapped.\n{T}: Add {B} or {R}.\n{2}, {T}, Sacrifice Aero-Merai Factory: If it's your turn, you get +3 power until end of turn. [i](As long as a player has power, they may attack and one creature may block them.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4989,7 +4989,7 @@
             "set": "WTS",
             "loyalty": "",
             "artist": "Adriano Grasso",
-            "notes": ""
+            "notes": "landslot"
         },
         {
             "card_name": "Backstreets Generator",
@@ -4999,7 +4999,7 @@
             "number": 267,
             "color_identity": "RG",
             "cost": "",
-            "rules_text": "Backstreets Generator enters tapped.\n{T}: Add {R} or {G}.\n{2}, {T}, Sacrifice Backstreets Generator: You get +3 power until end of turn. Activate only as a sorcery. [i](As long as a player has power, they may attack and one creature may block them.)[/i]",
+            "rules_text": "Backstreets Generator enters tapped.\n{T}: Add {R} or {G}.\n{2}, {T}, Sacrifice Backstreets Generator: If it's your turn, you get +3 power until end of turn. [i](As long as a player has power, they may attack and one creature may block them.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5007,7 +5007,7 @@
             "set": "WTS",
             "loyalty": "",
             "artist": "Augustas Krivelas",
-            "notes": ""
+            "notes": "landslot"
         },
         {
             "card_name": "Twelvepoint Residence Villa",
@@ -5017,7 +5017,7 @@
             "number": 279,
             "color_identity": "WG",
             "cost": "",
-            "rules_text": "Twelvepoint Residence Villa enters tapped.\n{T}: Add {G} or {W}.\n{2}, {T}, Sacrifice Twelvepoint Residence Villa: You get +3 power until end of turn. Activate only as a sorcery. [i](As long as a player has power, they may attack and one creature may block them.)[/i]",
+            "rules_text": "Twelvepoint Residence Villa enters tapped.\n{T}: Add {G} or {W}.\n{2}, {T}, Sacrifice Twelvepoint Residence Villa: If it's your turn, you get +3 power until end of turn. [i](As long as a player has power, they may attack and one creature may block them.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5025,7 +5025,7 @@
             "set": "WTS",
             "loyalty": "",
             "artist": "Yasmina Roy",
-            "notes": ""
+            "notes": "landslot"
         },
         {
             "card_name": "Lensqi Megastructure",
@@ -5035,7 +5035,7 @@
             "number": 274,
             "color_identity": "WB",
             "cost": "",
-            "rules_text": "Lensqi Megastructure enters tapped.\n{T}: Add {W} or {B}.\n{2}, {T}, Sacrifice Lensqi Megastructure: You get +3 power until end of turn. Activate only as a sorcery. [i](As long as a player has power, they may attack and one creature may block them.)[/i]",
+            "rules_text": "Lensqi Megastructure enters tapped.\n{T}: Add {W} or {B}.\n{2}, {T}, Sacrifice Lensqi Megastructure: If it's your turn, you get +3 power until end of turn. [i](As long as a player has power, they may attack and one creature may block them.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5043,7 +5043,7 @@
             "set": "WTS",
             "loyalty": "",
             "artist": "Pengzhen Zhang",
-            "notes": ""
+            "notes": "landslot"
         },
         {
             "card_name": "Scrap Pit Tenements",
@@ -5053,7 +5053,7 @@
             "number": 276,
             "color_identity": "BG",
             "cost": "",
-            "rules_text": "Scrap Pit Tenements enters tapped.\n{T}: Add {B} or {G}.\n{2}, {T}, Sacrifice Scrap Pit Tenements: You get +3 power until end of turn. Activate only as a sorcery. [i](As long as a player has power, they may attack and one creature may block them.)[/i]",
+            "rules_text": "Scrap Pit Tenements enters tapped.\n{T}: Add {B} or {G}.\n{2}, {T}, Sacrifice Scrap Pit Tenements: If it's your turn, you get +3 power until end of turn. [i](As long as a player has power, they may attack and one creature may block them.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5061,7 +5061,7 @@
             "set": "WTS",
             "loyalty": "",
             "artist": "Rostyslav Zagornov",
-            "notes": ""
+            "notes": "landslot"
         },
         {
             "card_name": "Argonet Headquarters",
@@ -5071,7 +5071,7 @@
             "number": 265,
             "color_identity": "WU",
             "cost": "",
-            "rules_text": "Argonet Headquarters enters tapped.\n{T}: Add {W} or {U}.\n{2}, {T}, Sacrifice Argonet Headquarters: You get +3 power until end of turn. Activate only as a sorcery. [i](As long as a player has power, they may attack and one creature may block them.)[/i]",
+            "rules_text": "Argonet Headquarters enters tapped.\n{T}: Add {W} or {U}.\n{2}, {T}, Sacrifice Argonet Headquarters: If it's your turn, you get +3 power until end of turn. [i](As long as a player has power, they may attack and one creature may block them.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5079,7 +5079,7 @@
             "set": "WTS",
             "loyalty": "",
             "artist": "Job Menting",
-            "notes": ""
+            "notes": "landslot"
         },
         {
             "card_name": "Edgeside Tyfloport",
@@ -5089,7 +5089,7 @@
             "number": 271,
             "color_identity": "UR",
             "cost": "",
-            "rules_text": "Edgeside Tyfloport enters tapped.\n{T}: Add {U} or {R}.\n{2}, {T}, Sacrifice Edgeside Tyfloport: You get +3 power until end of turn. Activate only as a sorcery. [i](As long as a player has power, they may attack and one creature may block them.)[/i]",
+            "rules_text": "Edgeside Tyfloport enters tapped.\n{T}: Add {U} or {R}.\n{2}, {T}, Sacrifice Edgeside Tyfloport: If it's your turn, you get +3 power until end of turn. [i](As long as a player has power, they may attack and one creature may block them.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5097,7 +5097,7 @@
             "set": "WTS",
             "loyalty": "",
             "artist": "Tarmo Juloha",
-            "notes": ""
+            "notes": "landslot"
         },
         {
             "card_name": "Beloved of Bellabellum",
