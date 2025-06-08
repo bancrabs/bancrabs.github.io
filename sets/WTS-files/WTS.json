@@ -35,11 +35,11 @@
             "flavor_text": "[i]Many assume her to be an unfeeling brute. You know they're wrong, but she doesn't care to challenge their assumptions.[/i]",
             "pt": "3/4",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "WTS",
             "loyalty": "",
             "artist": "Christoph Huet",
-            "notes": "!tokens Player Power"
+            "notes": ""
         },
         {
             "card_name": "Ear to the Streets",
@@ -89,11 +89,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "WTS",
             "loyalty": "",
             "artist": "Andreas Rocha",
-            "notes": "landslot\n!tapped\n!tokens Player Power"
+            "notes": "landslot\n!tapped"
         },
         {
             "card_name": "Leaping Ambusher",
@@ -107,11 +107,11 @@
             "flavor_text": "[i]\u201cIf you have a problem, throw yourself through a window at it. Works every time.\u201d [/i]",
             "pt": "1/2",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "WTS",
             "loyalty": "",
             "artist": "Stu Harrington",
-            "notes": "!tokens Player Power"
+            "notes": ""
         },
         {
             "card_name": "Tyfloport Captain",
@@ -143,11 +143,11 @@
             "flavor_text": "[i]\u201cAny idiot can fire a gun. You see someone with a sword, you know they can use it well.\u201d\n\u2014Krendel, owner of Krendel Electroswords[/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "WTS",
             "loyalty": "",
             "artist": "Dan Milligan",
-            "notes": "!tokens Player Power"
+            "notes": ""
         },
         {
             "card_name": "Altimuth Archives",
@@ -269,11 +269,11 @@
             "flavor_text": "[i]It's an ancient, simple thing. You feel a strange impulse to hold on to it.[/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "WTS",
             "loyalty": "",
             "artist": "Aeolian",
-            "notes": "!tapped\n!tokens Player Power"
+            "notes": "!tapped"
         },
         {
             "card_name": "Stare Down",
@@ -395,11 +395,11 @@
             "flavor_text": "[i]Hidden-Brick as a style is ruthlessly optimized to defeat armed and armored opponents. [/i]",
             "pt": "1/3",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "WTS",
             "loyalty": "",
             "artist": "Jordan Thomas",
-            "notes": "!tokens Player Power"
+            "notes": ""
         },
         {
             "card_name": "Ace Operator",
@@ -521,11 +521,11 @@
             "flavor_text": "[i]ft[/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "WTS",
             "loyalty": "",
             "artist": "Adrian Cuevas",
-            "notes": "!tokens Player Power"
+            "notes": ""
         },
         {
             "card_name": "Thriving Scrapper",
@@ -935,11 +935,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "WTS",
             "loyalty": "",
             "artist": "Oliver Wetter",
-            "notes": "!tapped\n!tokens Player Power"
+            "notes": "!tapped"
         },
         {
             "card_name": "Aero-Merai Cratermaker",
@@ -1025,11 +1025,11 @@
             "flavor_text": "[i]Genuine friends are hard to come by in Altimuth, and this one is worth her weight in gold.[/i]",
             "pt": "0/1",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "WTS",
             "loyalty": "",
             "artist": "Nacho Malter",
-            "notes": "!tokens Player Power"
+            "notes": ""
         },
         {
             "card_name": "Concuss",
@@ -1043,11 +1043,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "WTS",
             "loyalty": "",
             "artist": "Project Moon",
-            "notes": "!tokens Player Power"
+            "notes": ""
         },
         {
             "card_name": "Prosthetic Arm",
@@ -1061,11 +1061,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "WTS",
             "loyalty": "",
             "artist": "Sergey Kritinsky",
-            "notes": "!tapped\n!tokens Player Power"
+            "notes": "!tapped"
         },
         {
             "card_name": "Prosthetic Spine",
@@ -1295,11 +1295,11 @@
             "flavor_text": "[i]ft[/i]",
             "pt": "4/3",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "WTS",
             "loyalty": "",
             "artist": "Laney",
-            "notes": "enabler\n!tokens Player Power"
+            "notes": "enabler"
         },
         {
             "card_name": "The Bellatrine Bomb",
@@ -1619,11 +1619,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "WTS",
             "loyalty": "",
             "artist": "Luca Pascal",
-            "notes": "!tapped\n!tokens Player Power"
+            "notes": "!tapped"
         },
         {
             "card_name": "Backup Battery",
@@ -1763,11 +1763,11 @@
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "WTS",
             "loyalty": "",
             "artist": "Kevin Jick",
-            "notes": "!tokens Player Power"
+            "notes": ""
         },
         {
             "card_name": "Data Core Cracker",
@@ -1781,11 +1781,11 @@
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "WTS",
             "loyalty": "",
             "artist": "Soundhunter",
-            "notes": "!tokens Player Power"
+            "notes": ""
         },
         {
             "card_name": "Money Engineer",
@@ -1835,11 +1835,11 @@
             "flavor_text": "[i]ft[/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "WTS",
             "loyalty": "",
             "artist": "Steven Stone",
-            "notes": "!tokens Player Power"
+            "notes": ""
         },
         {
             "card_name": "Ironskull Executioner",
@@ -1907,11 +1907,11 @@
             "flavor_text": "[i]Far above and below Altimuth, the air thins out into aether at the border of the Blind Eternities.[/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "WTS",
             "loyalty": "",
             "artist": "Eldar Zarikov",
-            "notes": "!tapped\n!tokens Player Power"
+            "notes": "!tapped"
         },
         {
             "card_name": "Energy Beam",
@@ -2609,11 +2609,11 @@
             "flavor_text": "[i]It's a pistol like any other, but it's your own.[/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "WTS",
             "loyalty": "",
             "artist": "Kit GranDe",
-            "notes": "!tokens Player Power"
+            "notes": ""
         },
         {
             "card_name": "Electric Knuckleduster",
@@ -2627,11 +2627,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "WTS",
             "loyalty": "",
             "artist": "BX Moon",
-            "notes": "!tokens Player Power"
+            "notes": ""
         },
         {
             "card_name": "Argonet Detonator",
@@ -3401,11 +3401,11 @@
             "flavor_text": "[i]ft\nft\nft[/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "WTS",
             "loyalty": "",
             "artist": "Mohamed Salem",
-            "notes": "!tokens Player Power"
+            "notes": ""
         },
         {
             "card_name": "Dynamic Tactics",
@@ -3455,11 +3455,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "WTS",
             "loyalty": "",
             "artist": "Sebastian Szymd",
-            "notes": "!tokens Player Power"
+            "notes": ""
         },
         {
             "card_name": "Piston Fist Prizefighter",
@@ -3599,11 +3599,11 @@
             "flavor_text": "[i][/i]",
             "pt": "1/3",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "WTS",
             "loyalty": "",
             "artist": "Chengwei Pan",
-            "notes": "!tokens Player Power"
+            "notes": ""
         },
         {
             "card_name": "Baltrice, Between Jobs",
@@ -3617,11 +3617,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "Whenever an opponent is dealt damage, put a loyalty counter on Baltrice.\n[0]: If it's your turn, you get +1 power and gain double strike until end of turn. [i](As long as a player has power, they may attack and one creature may block them.)[/i]\n[-5]: Discard your hand, then draw three cards.",
-            "shape": "token",
+            "shape": "planeswalker",
             "set": "WTS",
             "loyalty": "3",
             "artist": "TJ Geisen",
-            "notes": "!tokens Player Power"
+            "notes": ""
         },
         {
             "card_name": "Skyline Sniper",
@@ -3635,11 +3635,11 @@
             "flavor_text": "[i][/i]",
             "pt": "1/2",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "WTS",
             "loyalty": "",
             "artist": "Andrea de dominicis",
-            "notes": "!tokens Player Power"
+            "notes": ""
         },
         {
             "card_name": "Handheld Railcannon",
@@ -3653,11 +3653,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "WTS",
             "loyalty": "",
             "artist": "Ivan Khomenko",
-            "notes": "!tapped\n!tokens Player Power"
+            "notes": "!tapped"
         },
         {
             "card_name": "Electrosword",
@@ -3671,11 +3671,11 @@
             "flavor_text": "[i]In an age of gunfire, swords persist as high-skill tools for taking on heavily armored opponents.[/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "WTS",
             "loyalty": "",
             "artist": "Maxim Urgotsov",
-            "notes": "!tapped\n!tokens Player Power"
+            "notes": "!tapped"
         },
         {
             "card_name": "Ermetico Facility Guard",
@@ -3689,11 +3689,11 @@
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "WTS",
             "loyalty": "",
             "artist": "Alex Bosoy",
-            "notes": "!tokens Player Power"
+            "notes": ""
         },
         {
             "card_name": "Blackout Mastermind",
@@ -3707,11 +3707,11 @@
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "WTS",
             "loyalty": "",
             "artist": "Sebastian Szymd",
-            "notes": "!tokens Player Power"
+            "notes": ""
         },
         {
             "card_name": "Shoot",
@@ -3725,11 +3725,11 @@
             "flavor_text": "[i]You aim at their head and pull the trigger.[/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "WTS",
             "loyalty": "",
             "artist": "Anton Valiukonis",
-            "notes": "!tokens Player Power"
+            "notes": ""
         },
         {
             "card_name": "Skull Crush",
@@ -3743,11 +3743,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "WTS",
             "loyalty": "",
             "artist": "Jesus Blones",
-            "notes": "!tokens Player Power"
+            "notes": ""
         },
         {
             "card_name": "Malware Mobilizer",
@@ -3761,11 +3761,11 @@
             "flavor_text": "[i][/i]",
             "pt": "1/2",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "WTS",
             "loyalty": "",
             "artist": "BX Moon",
-            "notes": "!tokens Player Power"
+            "notes": ""
         },
         {
             "card_name": "Tactical Handler",
@@ -3779,11 +3779,11 @@
             "flavor_text": "[i][/i]",
             "pt": "3/4",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "WTS",
             "loyalty": "",
             "artist": "Christina Wu",
-            "notes": "!tokens Player Power"
+            "notes": ""
         },
         {
             "card_name": "Backstreets Boss",
@@ -3797,11 +3797,11 @@
             "flavor_text": "[i]ft[/i]",
             "pt": "4/4",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "WTS",
             "loyalty": "",
             "artist": "Valeriy Vegera",
-            "notes": "!tokens Player Power"
+            "notes": ""
         },
         {
             "card_name": "Awles, Spadefront Protector",
@@ -3833,11 +3833,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "WTS",
             "loyalty": "",
             "artist": "Olesia Hoiko",
-            "notes": "!tokens Player Power"
+            "notes": ""
         },
         {
             "card_name": "Immovable Object",
@@ -3851,11 +3851,11 @@
             "flavor_text": "[i]ft | hearhtsone reference??[/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "WTS",
             "loyalty": "",
             "artist": "eiv Calvis",
-            "notes": "!tokens Player Power"
+            "notes": ""
         },
         {
             "card_name": "Aero-Merai Light Security",
@@ -4337,11 +4337,11 @@
             "flavor_text": "[i]\u201cYou're a \u2018walker [/i]too[i]? That's wild...\u201d [/i]",
             "pt": "0/2",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "WTS",
             "loyalty": "",
             "artist": "Kan Liu",
-            "notes": "!tokens Player Power"
+            "notes": ""
         },
         {
             "card_name": "One on One",
@@ -4355,11 +4355,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "WTS",
             "loyalty": "",
             "artist": "Patrick Prosik",
-            "notes": "!tokens Player Power"
+            "notes": ""
         },
         {
             "card_name": "Ritual Pit Brawl",
@@ -4629,7 +4629,7 @@
             "set": "WTS",
             "loyalty": "2",
             "artist": "Sebastian Szymd",
-            "notes": ""
+            "notes": "!related Return to Service;Messy Accident;Industrial Sabotage;Hack the Mainframe;"
         },
         {
             "card_name": "Distraction",
@@ -4715,11 +4715,11 @@
             "flavor_text": "[i]ft\nft[/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "WTS",
             "loyalty": "",
             "artist": "Benjamin Ee",
-            "notes": "!tokens Player Power"
+            "notes": ""
         },
         {
             "card_name": "Argonet Oracle Harness",
@@ -4949,11 +4949,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "WTS",
             "loyalty": "",
             "artist": "Ron Adrian Balacase",
-            "notes": "landslot\n!tapped\n!tokens Player Power"
+            "notes": "landslot\n!tapped"
         },
         {
             "card_name": "Backstreets Canal",
@@ -4967,11 +4967,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "WTS",
             "loyalty": "",
             "artist": "Jeremy Lim",
-            "notes": "landslot\n!tapped\n!tokens Player Power"
+            "notes": "landslot\n!tapped"
         },
         {
             "card_name": "Aero-Merai Factory",
@@ -4985,11 +4985,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "WTS",
             "loyalty": "",
             "artist": "Adriano Grasso",
-            "notes": "landslot\n!tapped\n!tokens Player Power"
+            "notes": "landslot\n!tapped"
         },
         {
             "card_name": "Backstreets Generator",
@@ -5003,11 +5003,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "WTS",
             "loyalty": "",
             "artist": "Augustas Krivelas",
-            "notes": "landslot\n!tapped\n!tokens Player Power"
+            "notes": "landslot\n!tapped"
         },
         {
             "card_name": "Twelvepoint Residence Villa",
@@ -5021,11 +5021,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "WTS",
             "loyalty": "",
             "artist": "Yasmina Roy",
-            "notes": "landslot\n!tapped\n!tokens Player Power"
+            "notes": "landslot\n!tapped"
         },
         {
             "card_name": "Lensqi Megastructure",
@@ -5039,11 +5039,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "WTS",
             "loyalty": "",
             "artist": "Pengzhen Zhang",
-            "notes": "landslot\n!tapped\n!tokens Player Power"
+            "notes": "landslot\n!tapped"
         },
         {
             "card_name": "Scrap Pit Tenements",
@@ -5057,11 +5057,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "WTS",
             "loyalty": "",
             "artist": "Rostyslav Zagornov",
-            "notes": "landslot\n!tapped\n!tokens Player Power"
+            "notes": "landslot\n!tapped"
         },
         {
             "card_name": "Argonet Headquarters",
@@ -5075,11 +5075,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "WTS",
             "loyalty": "",
             "artist": "Job Menting",
-            "notes": "landslot\n!tapped\n!tokens Player Power"
+            "notes": "landslot\n!tapped"
         },
         {
             "card_name": "Edgeside Tyfloport",
@@ -5093,11 +5093,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "WTS",
             "loyalty": "",
             "artist": "Tarmo Juloha",
-            "notes": "landslot\n!tapped\n!tokens Player Power"
+            "notes": "landslot\n!tapped"
         },
         {
             "card_name": "Beloved of Bellabellum",
@@ -5111,11 +5111,11 @@
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "WTS",
             "loyalty": "",
             "artist": "Guillem H. Ponglupi",
-            "notes": "!tokens Player Power"
+            "notes": ""
         },
         {
             "card_name": "Mountain",
@@ -5241,7 +5241,7 @@
             "set": "WTS",
             "loyalty": "",
             "artist": "Chris Tulloch",
-            "notes": ""
+            "notes": "!token\n!related Leaping Ambusher;Malware Mobilizer;Skyline Sniper;Ermetico Facility Guard;Customized Sidearm;Electrosword;Hacker's Headset;Handheld Railcannon;Immovable Object;Multifunction Hand;Prehistoric Pocket Knife;Prosthetic Arm;Tyflonaut Wings;Electric Knuckleduster;Scrap Pit Sledgehammer;Tyflonaut Daredevil;Blackout Mastermind;Beloved of Bellabellum;Planebound Enthusiast;Tactical Handler;Backstreets Boss;Data Core Cracker;Ride-or-Die;Hidden-Brick Style Mentor;Anonymous Assailant;Backstreets Brutalizer; Fight Dirty;Aero-Merai Factory;Argonet Headquarters;Backstreets Canal;Backstreets Generator;Backstreets Marketplace;Edgeside Tyfloport;Gensus Laboratory District;Lensqi Megastructure;Scrap Pit Tenements;Twelvepoint Residence Villa;The Biggest Gun You Can Carry;Arlington Knifefight;One on One;Baltrice, Between Jobs;Bar Brawl;Bludgeon;Concuss;Shoot;Skull Crush;Slice;Unstoppable Force"
         },
         {
             "card_name": "Copy",
@@ -5278,6 +5278,24 @@
             "loyalty": "",
             "artist": "Habib Uddin",
             "notes": "BG"
+        },
+        {
+            "card_name": "Stash",
+            "color": "",
+            "rarity": "common",
+            "type": "Artifact",
+            "number": 8,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "{T}, Sacrifice this artifact: Draw a card.\n[i]A face-down card with stash can be cast from the battlefield for its stash cost.[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "WTS",
+            "loyalty": "",
+            "artist": "Rigdhi",
+            "notes": "!token\n!related Scrap Pit Trawler's Stilts;Lensqi Mk. II Covert Sniper;Ermetico Protofission Bomb;Argonet Oracle Harness;Lensqi Pocket Disintegrator;Gensus Stimulant Booster;Gensus Anaesthetic Rounds;Argonet Pinpoint Vaporizer;Argonet Detonator;Aero-Merai Cratermaker;Ductwork Deathmacht;Argonet Scrambler;Twelvepoint Servitor"
         }
     ],
     "version": 1
