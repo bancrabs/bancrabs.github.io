@@ -35,11 +35,11 @@
             "flavor_text": "[i]Many assume her to be an unfeeling brute. You know they're wrong, but she doesn't care to challenge their assumptions.[/i]",
             "pt": "3/4",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "WTS",
             "loyalty": "",
             "artist": "Christoph Huet",
-            "notes": ""
+            "notes": "!tokens Player Power"
         },
         {
             "card_name": "Ear to the Streets",
@@ -82,18 +82,18 @@
             "color": "",
             "rarity": "common",
             "type": "Land",
-            "number": 273,
+            "number": 274,
             "color_identity": "UG",
             "cost": "",
             "rules_text": "Gensus Laboratory District enters tapped.\n{T}: Add {G} or {U}.\n{2}, {T}, Sacrifice Gensus Laboratory District: If it's your turn, you get +3 power until end of turn. [i](As long as a player has power, they may attack and one creature may block them.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "WTS",
             "loyalty": "",
             "artist": "Andreas Rocha",
-            "notes": "landslot"
+            "notes": "landslot\n!tapped\n!tokens Player Power"
         },
         {
             "card_name": "Leaping Ambusher",
@@ -107,11 +107,11 @@
             "flavor_text": "[i]\u201cIf you have a problem, throw yourself through a window at it. Works every time.\u201d [/i]",
             "pt": "1/2",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "WTS",
             "loyalty": "",
             "artist": "Stu Harrington",
-            "notes": ""
+            "notes": "!tokens Player Power"
         },
         {
             "card_name": "Tyfloport Captain",
@@ -143,11 +143,11 @@
             "flavor_text": "[i]\u201cAny idiot can fire a gun. You see someone with a sword, you know they can use it well.\u201d\n\u2014Krendel, owner of Krendel Electroswords[/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "WTS",
             "loyalty": "",
             "artist": "Dan Milligan",
-            "notes": ""
+            "notes": "!tokens Player Power"
         },
         {
             "card_name": "Altimuth Archives",
@@ -269,11 +269,11 @@
             "flavor_text": "[i]It's an ancient, simple thing. You feel a strange impulse to hold on to it.[/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "WTS",
             "loyalty": "",
             "artist": "Aeolian",
-            "notes": "enabler"
+            "notes": "!tapped\n!tokens Player Power"
         },
         {
             "card_name": "Stare Down",
@@ -395,11 +395,11 @@
             "flavor_text": "[i]Hidden-Brick as a style is ruthlessly optimized to defeat armed and armored opponents. [/i]",
             "pt": "1/3",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "WTS",
             "loyalty": "",
             "artist": "Jordan Thomas",
-            "notes": ""
+            "notes": "!tokens Player Power"
         },
         {
             "card_name": "Ace Operator",
@@ -521,11 +521,11 @@
             "flavor_text": "[i]ft[/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "WTS",
             "loyalty": "",
             "artist": "Adrian Cuevas",
-            "notes": ""
+            "notes": "!tokens Player Power"
         },
         {
             "card_name": "Thriving Scrapper",
@@ -935,11 +935,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "WTS",
             "loyalty": "",
             "artist": "Oliver Wetter",
-            "notes": ""
+            "notes": "!tapped\n!tokens Player Power"
         },
         {
             "card_name": "Aero-Merai Cratermaker",
@@ -993,7 +993,7 @@
             "set": "WTS",
             "loyalty": "",
             "artist": "Andrey Hromyk",
-            "notes": ""
+            "notes": "!tapped"
         },
         {
             "card_name": "Prosthetic Heart",
@@ -1011,7 +1011,7 @@
             "set": "WTS",
             "loyalty": "",
             "artist": "Jasper Mix",
-            "notes": ""
+            "notes": "!tapped"
         },
         {
             "card_name": "Ride-or-Die",
@@ -1025,11 +1025,11 @@
             "flavor_text": "[i]Genuine friends are hard to come by in Altimuth, and this one is worth her weight in gold.[/i]",
             "pt": "0/1",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "WTS",
             "loyalty": "",
             "artist": "Nacho Malter",
-            "notes": ""
+            "notes": "!tokens Player Power"
         },
         {
             "card_name": "Concuss",
@@ -1043,11 +1043,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "WTS",
             "loyalty": "",
             "artist": "Project Moon",
-            "notes": ""
+            "notes": "!tokens Player Power"
         },
         {
             "card_name": "Prosthetic Arm",
@@ -1061,11 +1061,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "WTS",
             "loyalty": "",
             "artist": "Sergey Kritinsky",
-            "notes": ""
+            "notes": "!tapped\n!tokens Player Power"
         },
         {
             "card_name": "Prosthetic Spine",
@@ -1083,7 +1083,7 @@
             "set": "WTS",
             "loyalty": "",
             "artist": "Jasper Mix",
-            "notes": ""
+            "notes": "!tapped"
         },
         {
             "card_name": "Prosthetic Face",
@@ -1101,7 +1101,7 @@
             "set": "WTS",
             "loyalty": "",
             "artist": "Wesley Gardner",
-            "notes": ""
+            "notes": "!tapped"
         },
         {
             "card_name": "Automation Engineering",
@@ -1173,7 +1173,7 @@
             "set": "WTS",
             "loyalty": "",
             "artist": "Leonel Calpito",
-            "notes": ""
+            "notes": "UG"
         },
         {
             "card_name": "Mealtime Ambush",
@@ -1295,11 +1295,11 @@
             "flavor_text": "[i]ft[/i]",
             "pt": "4/3",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "WTS",
             "loyalty": "",
             "artist": "Laney",
-            "notes": "enabler"
+            "notes": "enabler\n!tokens Player Power"
         },
         {
             "card_name": "The Bellatrine Bomb",
@@ -1396,7 +1396,7 @@
             "color": "",
             "rarity": "common",
             "type": "Land",
-            "number": 278,
+            "number": 279,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Sacrifice Subway Station: Search your library for two basic land cards and reveal them. Put one of them onto the battlefield tapped. Then put the other on top of your library or into your graveyard. Then shuffle.",
@@ -1619,11 +1619,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "WTS",
             "loyalty": "",
             "artist": "Luca Pascal",
-            "notes": ""
+            "notes": "!tapped\n!tokens Player Power"
         },
         {
             "card_name": "Backup Battery",
@@ -1763,11 +1763,11 @@
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "WTS",
             "loyalty": "",
             "artist": "Kevin Jick",
-            "notes": ""
+            "notes": "!tokens Player Power"
         },
         {
             "card_name": "Data Core Cracker",
@@ -1781,11 +1781,11 @@
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "WTS",
             "loyalty": "",
             "artist": "Soundhunter",
-            "notes": ""
+            "notes": "!tokens Player Power"
         },
         {
             "card_name": "Money Engineer",
@@ -1835,11 +1835,11 @@
             "flavor_text": "[i]ft[/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "WTS",
             "loyalty": "",
             "artist": "Steven Stone",
-            "notes": ""
+            "notes": "!tokens Player Power"
         },
         {
             "card_name": "Ironskull Executioner",
@@ -1907,11 +1907,11 @@
             "flavor_text": "[i]Far above and below Altimuth, the air thins out into aether at the border of the Blind Eternities.[/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "WTS",
             "loyalty": "",
             "artist": "Eldar Zarikov",
-            "notes": ""
+            "notes": "!tapped\n!tokens Player Power"
         },
         {
             "card_name": "Energy Beam",
@@ -2109,7 +2109,7 @@
             "set": "WTS",
             "loyalty": "",
             "artist": "Emilio de Pietro",
-            "notes": "arcun payoff"
+            "notes": "arcun payoff\n!tapped"
         },
         {
             "card_name": "Interminable Instrument",
@@ -2223,12 +2223,12 @@
             "card_name": "Morelyn, Social Engineer",
             "color": "UR",
             "rarity": "uncommon",
-            "type": "Legendary Creature \u2014 Human Rogue",
+            "type": "Legendary Creature \u2014 Human Merchant",
             "number": 219,
             "color_identity": "UR",
             "cost": "{1}{UR}{UR}",
-            "rules_text": "Ward\u2014Discard a card.\nAt the beginning of each combat, choose up to one target creature. Whenever that creature attacks this turn, you draw a card.",
-            "flavor_text": "[i][/i]",
+            "rules_text": "Flash\n{2}, Sacrifice a permanent: Draw a card. This ability costs {2} less to activate if it's been activated exactly once this turn.",
+            "flavor_text": "[i]ft\nft\nft[/i]",
             "pt": "2/3",
             "special_text": "",
             "shape": "normal",
@@ -2404,7 +2404,7 @@
             "color": "",
             "rarity": "common",
             "type": "Land",
-            "number": 272,
+            "number": 273,
             "color_identity": "B",
             "cost": "",
             "rules_text": "Fortified Apartment enters tapped. \nWhen Fortified Apartment enters, return a land you control to its owner's hand. If that land was basic, you gain 2 life.\n{T}: Add {B}{B}.",
@@ -2415,14 +2415,14 @@
             "set": "WTS",
             "loyalty": "",
             "artist": "Samuele Bandini",
-            "notes": "landslot"
+            "notes": "landslot\n!tapped"
         },
         {
             "card_name": "Basement Apartment",
             "color": "",
             "rarity": "common",
             "type": "Land",
-            "number": 269,
+            "number": 270,
             "color_identity": "G",
             "cost": "",
             "rules_text": "Basement Apartment enters tapped. \nWhen Basement Apartment enters, return a land you control to its owner's hand. If that land was basic, you gain 2 life.\n{T}: Add {G}{G}.",
@@ -2433,7 +2433,7 @@
             "set": "WTS",
             "loyalty": "",
             "artist": "Duncan Halleck",
-            "notes": "landslot"
+            "notes": "landslot\n!tapped"
         },
         {
             "card_name": "Raven, Untouchable Killer",
@@ -2584,7 +2584,7 @@
             "color": "",
             "rarity": "common",
             "type": "Land",
-            "number": 270,
+            "number": 271,
             "color_identity": "R",
             "cost": "",
             "rules_text": "Crowded Apartment enters tapped. \nWhen Crowded Apartment enters, return a land you control to its owner's hand. If that land was basic, you gain 2 life.\n{T}: Add {R}{R}.",
@@ -2595,7 +2595,7 @@
             "set": "WTS",
             "loyalty": "",
             "artist": "Jaaziah Chan",
-            "notes": "landslot"
+            "notes": "landslot\n!tapped"
         },
         {
             "card_name": "Customized Sidearm",
@@ -2609,11 +2609,11 @@
             "flavor_text": "[i]It's a pistol like any other, but it's your own.[/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "WTS",
             "loyalty": "",
             "artist": "Kit GranDe",
-            "notes": ""
+            "notes": "!tokens Player Power"
         },
         {
             "card_name": "Electric Knuckleduster",
@@ -2627,11 +2627,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "WTS",
             "loyalty": "",
             "artist": "BX Moon",
-            "notes": ""
+            "notes": "!tokens Player Power"
         },
         {
             "card_name": "Argonet Detonator",
@@ -2811,7 +2811,7 @@
             "set": "WTS",
             "loyalty": "",
             "artist": "Hethe Srodawa",
-            "notes": ""
+            "notes": "RB"
         },
         {
             "card_name": "Grapple with the Future",
@@ -2980,7 +2980,7 @@
             "color": "",
             "rarity": "common",
             "type": "Land",
-            "number": 277,
+            "number": 278,
             "color_identity": "U",
             "cost": "",
             "rules_text": "Skyline Apartment enters tapped. \nWhen Skyline Apartment enters, return a land you control to its owner's hand. If that land was basic, you gain 2 life.\n{T}: Add {U}{U}.",
@@ -2991,14 +2991,14 @@
             "set": "WTS",
             "loyalty": "",
             "artist": "Nagafujiriku",
-            "notes": "landslot"
+            "notes": "landslot\n!tapped"
         },
         {
             "card_name": "Penthouse Apartment",
             "color": "",
             "rarity": "common",
             "type": "Land",
-            "number": 275,
+            "number": 276,
             "color_identity": "W",
             "cost": "",
             "rules_text": "Penthouse Apartment enters tapped. \nWhen Penthouse Apartment enters, return a land you control to its owner's hand. If that land was basic, you gain 2 life.\n{T}: Add {W}{W}.",
@@ -3009,7 +3009,7 @@
             "set": "WTS",
             "loyalty": "",
             "artist": "Tarmo Juhola",
-            "notes": "landslot"
+            "notes": "landslot\n!tapped"
         },
         {
             "card_name": "Gas Leak",
@@ -3217,7 +3217,7 @@
             "number": 166,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "When Hydroponics Technician enters, create a Food token. [i](It's an artifact with \u201c{2}, {T}, Sacrifice this token: You gain 3 life.\u201d)[/i]\nArtifacts and lands you control have \u201c{T}: Add one mana of any color.\u201d",
+            "rules_text": "When Hydroponics Technician enters, create a Food token. [i](It's an artifact with \u201c{2}, {T}, Sacrifice this artifact: You gain 3 life.\u201d)[/i]\nArtifacts and lands you control have \u201c{T}: Add one mana of any color.\u201d",
             "flavor_text": "[i]ft\nft[/i]",
             "pt": "1/3",
             "special_text": "",
@@ -3401,11 +3401,11 @@
             "flavor_text": "[i]ft\nft\nft[/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "WTS",
             "loyalty": "",
             "artist": "Mohamed Salem",
-            "notes": ""
+            "notes": "!tokens Player Power"
         },
         {
             "card_name": "Dynamic Tactics",
@@ -3455,11 +3455,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "WTS",
             "loyalty": "",
             "artist": "Sebastian Szymd",
-            "notes": ""
+            "notes": "!tokens Player Power"
         },
         {
             "card_name": "Piston Fist Prizefighter",
@@ -3469,7 +3469,7 @@
             "number": 221,
             "color_identity": "WRG",
             "cost": "{2}{RW}{G}",
-            "rules_text": "Haste, vigilance\nAt the beginning of your end step, you may return Piston Fist Prizefighter to its owner's hand. If you do, draw a card.",
+            "rules_text": "Haste, vigilance\nAt the beginning of your end step, you may return Piston Fist Prizefighter to its owner's hand. If you do, draw a card and gain 4 life.",
             "flavor_text": "[i]ft | fed up with performing for the rich\nft\nft[/i]",
             "pt": "4/4",
             "special_text": "",
@@ -3599,11 +3599,11 @@
             "flavor_text": "[i][/i]",
             "pt": "1/3",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "WTS",
             "loyalty": "",
             "artist": "Chengwei Pan",
-            "notes": ""
+            "notes": "!tokens Player Power"
         },
         {
             "card_name": "Baltrice, Between Jobs",
@@ -3617,11 +3617,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "Whenever an opponent is dealt damage, put a loyalty counter on Baltrice.\n[0]: If it's your turn, you get +1 power and gain double strike until end of turn. [i](As long as a player has power, they may attack and one creature may block them.)[/i]\n[-5]: Discard your hand, then draw three cards.",
-            "shape": "planeswalker",
+            "shape": "token",
             "set": "WTS",
             "loyalty": "3",
             "artist": "TJ Geisen",
-            "notes": ""
+            "notes": "!tokens Player Power"
         },
         {
             "card_name": "Skyline Sniper",
@@ -3635,11 +3635,11 @@
             "flavor_text": "[i][/i]",
             "pt": "1/2",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "WTS",
             "loyalty": "",
             "artist": "Andrea de dominicis",
-            "notes": ""
+            "notes": "!tokens Player Power"
         },
         {
             "card_name": "Handheld Railcannon",
@@ -3653,11 +3653,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "WTS",
             "loyalty": "",
             "artist": "Ivan Khomenko",
-            "notes": ""
+            "notes": "!tapped\n!tokens Player Power"
         },
         {
             "card_name": "Electrosword",
@@ -3671,11 +3671,11 @@
             "flavor_text": "[i]In an age of gunfire, swords persist as high-skill tools for taking on heavily armored opponents.[/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "WTS",
             "loyalty": "",
             "artist": "Maxim Urgotsov",
-            "notes": ""
+            "notes": "!tapped\n!tokens Player Power"
         },
         {
             "card_name": "Ermetico Facility Guard",
@@ -3689,11 +3689,11 @@
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "WTS",
             "loyalty": "",
             "artist": "Alex Bosoy",
-            "notes": ""
+            "notes": "!tokens Player Power"
         },
         {
             "card_name": "Blackout Mastermind",
@@ -3707,11 +3707,11 @@
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "WTS",
             "loyalty": "",
             "artist": "Sebastian Szymd",
-            "notes": ""
+            "notes": "!tokens Player Power"
         },
         {
             "card_name": "Shoot",
@@ -3725,11 +3725,11 @@
             "flavor_text": "[i]You aim at their head and pull the trigger.[/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "WTS",
             "loyalty": "",
             "artist": "Anton Valiukonis",
-            "notes": ""
+            "notes": "!tokens Player Power"
         },
         {
             "card_name": "Skull Crush",
@@ -3743,11 +3743,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "WTS",
             "loyalty": "",
             "artist": "Jesus Blones",
-            "notes": ""
+            "notes": "!tokens Player Power"
         },
         {
             "card_name": "Malware Mobilizer",
@@ -3761,11 +3761,11 @@
             "flavor_text": "[i][/i]",
             "pt": "1/2",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "WTS",
             "loyalty": "",
             "artist": "BX Moon",
-            "notes": ""
+            "notes": "!tokens Player Power"
         },
         {
             "card_name": "Tactical Handler",
@@ -3779,11 +3779,11 @@
             "flavor_text": "[i][/i]",
             "pt": "3/4",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "WTS",
             "loyalty": "",
             "artist": "Christina Wu",
-            "notes": ""
+            "notes": "!tokens Player Power"
         },
         {
             "card_name": "Backstreets Boss",
@@ -3797,11 +3797,11 @@
             "flavor_text": "[i]ft[/i]",
             "pt": "4/4",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "WTS",
             "loyalty": "",
             "artist": "Valeriy Vegera",
-            "notes": ""
+            "notes": "!tokens Player Power"
         },
         {
             "card_name": "Awles, Spadefront Protector",
@@ -3833,11 +3833,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "WTS",
             "loyalty": "",
             "artist": "Olesia Hoiko",
-            "notes": ""
+            "notes": "!tokens Player Power"
         },
         {
             "card_name": "Immovable Object",
@@ -3851,11 +3851,11 @@
             "flavor_text": "[i]ft | hearhtsone reference??[/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "WTS",
             "loyalty": "",
             "artist": "eiv Calvis",
-            "notes": ""
+            "notes": "!tokens Player Power"
         },
         {
             "card_name": "Aero-Merai Light Security",
@@ -4009,7 +4009,7 @@
             "number": 6,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "When Backstreets Gourmand enters, create a Food token. [i](It's an artifact with \u201c{2}, {T}, Sacrifice this token: You gain 3 life.\u201d)[/i]\nAt the beginning of your end step, if you gained or lost life this turn, put a +1/+1 counter on Backstreets Gourmand.",
+            "rules_text": "When Backstreets Gourmand enters, create a Food token. [i](It's an artifact with \u201c{2}, {T}, Sacrifice this artifact: You gain 3 life.\u201d)[/i]\nAt the beginning of your end step, if you gained or lost life this turn, put a +1/+1 counter on Backstreets Gourmand.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -4305,7 +4305,7 @@
             "set": "WTS",
             "loyalty": "",
             "artist": "Dave Keenan",
-            "notes": "criminal 3"
+            "notes": "criminal 3\n!tapped"
         },
         {
             "card_name": "Aerial Arsonist",
@@ -4337,11 +4337,11 @@
             "flavor_text": "[i]\u201cYou're a \u2018walker [/i]too[i]? That's wild...\u201d [/i]",
             "pt": "0/2",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "WTS",
             "loyalty": "",
             "artist": "Kan Liu",
-            "notes": ""
+            "notes": "!tokens Player Power"
         },
         {
             "card_name": "One on One",
@@ -4355,11 +4355,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "WTS",
             "loyalty": "",
             "artist": "Patrick Prosik",
-            "notes": ""
+            "notes": "!tokens Player Power"
         },
         {
             "card_name": "Ritual Pit Brawl",
@@ -4550,14 +4550,14 @@
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}: Add {C}.\nWhen you discard this card, you may pay {1} and 2 life. If you do, choose one \u2014\n\u2022 Put it onto the battlefield tapped.\n\u2022 Draw a card.",
-            "flavor_text": "[i]\u201cTo the people of [illegible], lost to the clouds.\u201d\n\u2014Corroded plaque, engravers unknown[/i]",
+            "flavor_text": "[i]\u201cTo the people of [illegible], lost to the clouds.\u201d\n\u2014Corroded plaque[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "WTS",
             "loyalty": "",
             "artist": "Alessandro Paviolo",
-            "notes": ""
+            "notes": "UB"
         },
         {
             "card_name": "Personal Computer",
@@ -4593,7 +4593,7 @@
             "set": "WTS",
             "loyalty": "",
             "artist": "Nick Williams",
-            "notes": ""
+            "notes": "RG"
         },
         {
             "card_name": "Mechanical Masks",
@@ -4668,7 +4668,7 @@
             "notes": ""
         },
         {
-            "card_name": "Mercenary Token",
+            "card_name": "4",
             "color": "",
             "rarity": "common",
             "type": "Token Artifact Creature \u2014 Mercenary",
@@ -4683,7 +4683,7 @@
             "set": "WTS",
             "loyalty": "",
             "artist": "Benedict Slyder",
-            "notes": ""
+            "notes": "!exportname 4"
         },
         {
             "card_name": "Orb Token",
@@ -4715,11 +4715,11 @@
             "flavor_text": "[i]ft\nft[/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "WTS",
             "loyalty": "",
             "artist": "Benjamin Ee",
-            "notes": ""
+            "notes": "!tokens Player Power"
         },
         {
             "card_name": "Argonet Oracle Harness",
@@ -4942,162 +4942,162 @@
             "color": "",
             "rarity": "common",
             "type": "Land",
-            "number": 268,
+            "number": 269,
             "color_identity": "WR",
             "cost": "",
             "rules_text": "Backstreets Marketplace enters tapped.\n{T}: Add {R} or {W}.\n{2}, {T}, Sacrifice Backstreets Marketplace: If it's your turn, you get +3 power until end of turn. [i](As long as a player has power, they may attack and one creature may block them.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "WTS",
             "loyalty": "",
             "artist": "Ron Adrian Balacase",
-            "notes": "landslot"
+            "notes": "landslot\n!tapped\n!tokens Player Power"
         },
         {
             "card_name": "Backstreets Canal",
             "color": "",
             "rarity": "common",
             "type": "Land",
-            "number": 266,
+            "number": 267,
             "color_identity": "UB",
             "cost": "",
             "rules_text": "Backstreets Canal enters tapped.\n{T}: Add {U} or {B}.\n{2}, {T}, Sacrifice Backstreets Canal: If it's your turn, you get +3 power until end of turn. [i](As long as a player has power, they may attack and one creature may block them.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "WTS",
             "loyalty": "",
             "artist": "Jeremy Lim",
-            "notes": "landslot"
+            "notes": "landslot\n!tapped\n!tokens Player Power"
         },
         {
             "card_name": "Aero-Merai Factory",
             "color": "",
             "rarity": "common",
             "type": "Land",
-            "number": 264,
+            "number": 265,
             "color_identity": "BR",
             "cost": "",
             "rules_text": "Aero-Merai Factory enters tapped.\n{T}: Add {B} or {R}.\n{2}, {T}, Sacrifice Aero-Merai Factory: If it's your turn, you get +3 power until end of turn. [i](As long as a player has power, they may attack and one creature may block them.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "WTS",
             "loyalty": "",
             "artist": "Adriano Grasso",
-            "notes": "landslot"
+            "notes": "landslot\n!tapped\n!tokens Player Power"
         },
         {
             "card_name": "Backstreets Generator",
             "color": "",
             "rarity": "common",
             "type": "Land",
-            "number": 267,
+            "number": 268,
             "color_identity": "RG",
             "cost": "",
             "rules_text": "Backstreets Generator enters tapped.\n{T}: Add {R} or {G}.\n{2}, {T}, Sacrifice Backstreets Generator: If it's your turn, you get +3 power until end of turn. [i](As long as a player has power, they may attack and one creature may block them.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "WTS",
             "loyalty": "",
             "artist": "Augustas Krivelas",
-            "notes": "landslot"
+            "notes": "landslot\n!tapped\n!tokens Player Power"
         },
         {
             "card_name": "Twelvepoint Residence Villa",
             "color": "",
             "rarity": "common",
             "type": "Land",
-            "number": 279,
+            "number": 280,
             "color_identity": "WG",
             "cost": "",
             "rules_text": "Twelvepoint Residence Villa enters tapped.\n{T}: Add {G} or {W}.\n{2}, {T}, Sacrifice Twelvepoint Residence Villa: If it's your turn, you get +3 power until end of turn. [i](As long as a player has power, they may attack and one creature may block them.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "WTS",
             "loyalty": "",
             "artist": "Yasmina Roy",
-            "notes": "landslot"
+            "notes": "landslot\n!tapped\n!tokens Player Power"
         },
         {
             "card_name": "Lensqi Megastructure",
             "color": "",
             "rarity": "common",
             "type": "Land",
-            "number": 274,
+            "number": 275,
             "color_identity": "WB",
             "cost": "",
             "rules_text": "Lensqi Megastructure enters tapped.\n{T}: Add {W} or {B}.\n{2}, {T}, Sacrifice Lensqi Megastructure: If it's your turn, you get +3 power until end of turn. [i](As long as a player has power, they may attack and one creature may block them.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "WTS",
             "loyalty": "",
             "artist": "Pengzhen Zhang",
-            "notes": "landslot"
+            "notes": "landslot\n!tapped\n!tokens Player Power"
         },
         {
             "card_name": "Scrap Pit Tenements",
             "color": "",
             "rarity": "common",
             "type": "Land",
-            "number": 276,
+            "number": 277,
             "color_identity": "BG",
             "cost": "",
             "rules_text": "Scrap Pit Tenements enters tapped.\n{T}: Add {B} or {G}.\n{2}, {T}, Sacrifice Scrap Pit Tenements: If it's your turn, you get +3 power until end of turn. [i](As long as a player has power, they may attack and one creature may block them.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "WTS",
             "loyalty": "",
             "artist": "Rostyslav Zagornov",
-            "notes": "landslot"
+            "notes": "landslot\n!tapped\n!tokens Player Power"
         },
         {
             "card_name": "Argonet Headquarters",
             "color": "",
             "rarity": "common",
             "type": "Land",
-            "number": 265,
+            "number": 266,
             "color_identity": "WU",
             "cost": "",
             "rules_text": "Argonet Headquarters enters tapped.\n{T}: Add {W} or {U}.\n{2}, {T}, Sacrifice Argonet Headquarters: If it's your turn, you get +3 power until end of turn. [i](As long as a player has power, they may attack and one creature may block them.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "WTS",
             "loyalty": "",
             "artist": "Job Menting",
-            "notes": "landslot"
+            "notes": "landslot\n!tapped\n!tokens Player Power"
         },
         {
             "card_name": "Edgeside Tyfloport",
             "color": "",
             "rarity": "common",
             "type": "Land",
-            "number": 271,
+            "number": 272,
             "color_identity": "UR",
             "cost": "",
             "rules_text": "Edgeside Tyfloport enters tapped.\n{T}: Add {U} or {R}.\n{2}, {T}, Sacrifice Edgeside Tyfloport: If it's your turn, you get +3 power until end of turn. [i](As long as a player has power, they may attack and one creature may block them.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "WTS",
             "loyalty": "",
             "artist": "Tarmo Juloha",
-            "notes": "landslot"
+            "notes": "landslot\n!tapped\n!tokens Player Power"
         },
         {
             "card_name": "Beloved of Bellabellum",
@@ -5111,18 +5111,18 @@
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "WTS",
             "loyalty": "",
             "artist": "Guillem H. Ponglupi",
-            "notes": ""
+            "notes": "!tokens Player Power"
         },
         {
             "card_name": "Mountain",
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Mountain",
-            "number": 283,
+            "number": 284,
             "color_identity": "R",
             "cost": "",
             "rules_text": "",
@@ -5140,7 +5140,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Plains",
-            "number": 280,
+            "number": 281,
             "color_identity": "W",
             "cost": "",
             "rules_text": "",
@@ -5158,7 +5158,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Island",
-            "number": 281,
+            "number": 282,
             "color_identity": "U",
             "cost": "",
             "rules_text": "",
@@ -5176,7 +5176,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Forest",
-            "number": 284,
+            "number": 285,
             "color_identity": "G",
             "cost": "",
             "rules_text": "",
@@ -5194,7 +5194,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Swamp",
-            "number": 282,
+            "number": 283,
             "color_identity": "B",
             "cost": "",
             "rules_text": "",
@@ -5260,6 +5260,24 @@
             "loyalty": "",
             "artist": "Wei Feng",
             "notes": ""
+        },
+        {
+            "card_name": "Scrap Pit Weapons Assembly",
+            "color": "",
+            "rarity": "uncommon",
+            "type": "Artifact Land",
+            "number": 264,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "{T}: Add {C}.\n{T}, Forage: Put a +1/+1 counter on target creature. Activate only as a sorcery. [i](To forage, exile three cards from your graveyard or sacrifice a Food.)[/i]",
+            "flavor_text": "[i]ft[/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "WTS",
+            "loyalty": "",
+            "artist": "Habib Uddin",
+            "notes": "BG"
         }
     ]
 }
