@@ -5,9 +5,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Bird",
-			"collector_number": "47",
+			"collector_number": "48",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/47_Greater Arctic Gannet.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/48_Greater Arctic Gannet.png"
 			}
 		},
 		{
@@ -15,9 +15,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Fish",
-			"collector_number": "143",
+			"collector_number": "148",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/143_Ever-Growing Carp.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/148_Ever-Growing Carp.png"
 			}
 		},
 		{
@@ -35,9 +35,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Creature — Jellyfish",
-			"collector_number": "68",
+			"collector_number": "69",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/68_Tourmaline Jelly.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/69_Tourmaline Jelly.png"
 			}
 		},
 		{
@@ -45,9 +45,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "116",
+			"collector_number": "117",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/116_Explore the Jagged Shelf.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/117_Explore the Jagged Shelf.png"
 			}
 		},
 		{
@@ -55,9 +55,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Instant",
-			"collector_number": "83",
+			"collector_number": "84",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/83_Explore a Drowned Wreck.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/84_Explore a Drowned Wreck.png"
 			}
 		},
 		{
@@ -65,9 +65,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Instant",
-			"collector_number": "45",
+			"collector_number": "46",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/45_Explore the Rune-Tunnels.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/46_Explore the Rune-Tunnels.png"
 			}
 		},
 		{
@@ -75,9 +75,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Sorcery",
-			"collector_number": "144",
+			"collector_number": "149",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/144_Explore Deeper Waters.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/149_Explore Deeper Waters.png"
 			}
 		},
 		{
@@ -105,9 +105,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Artifact Creature — Robot",
-			"collector_number": "38",
+			"collector_number": "39",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/38_Basalt Hub Sentinel.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/39_Basalt Hub Sentinel.png"
 			}
 		},
 		{
@@ -115,9 +115,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Serpent Fish",
-			"collector_number": "94",
+			"collector_number": "95",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/94_Pheremone Eel.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/95_Pheremone Eel.png"
 			}
 		},
 		{
@@ -135,9 +135,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "92",
+			"collector_number": "93",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/92_Levanthine Contamination.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/93_Levanthine Contamination.png"
 			}
 		},
 		{
@@ -145,9 +145,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "88",
+			"collector_number": "89",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/88_Heaven's Wreck Minesweeper.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/89_Heaven's Wreck Minesweeper.png"
 			}
 		},
 		{
@@ -155,9 +155,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "41",
+			"collector_number": "42",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/41_Cargo Ship.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/42_Cargo Ship.png"
 			}
 		},
 		{
@@ -165,9 +165,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "213",
+			"collector_number": "219",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/213_Desalinizer Flask.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/219_Desalinizer Flask.png"
 			}
 		},
 		{
@@ -175,9 +175,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Artifact Creature — Wraith",
-			"collector_number": "134",
+			"collector_number": "138",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/134_Trench-War Electrolyzer.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/138_Trench-War Electrolyzer.png"
 			}
 		},
 		{
@@ -185,9 +185,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "122",
+			"collector_number": "123",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/122_Lava Coil.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/123_Lava Coil.png"
 			}
 		},
 		{
@@ -195,9 +195,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Instant",
-			"collector_number": "98",
+			"collector_number": "99",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/98_Shark Attack.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/99_Shark Attack.png"
 			}
 		},
 		{
@@ -205,9 +205,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "32",
+			"collector_number": "33",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/32_Sudden Swell.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/33_Sudden Swell.png"
 			}
 		},
 		{
@@ -215,9 +215,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Instant",
-			"collector_number": "149",
+			"collector_number": "154",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/149_Leviathan's Hunger.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/154_Leviathan's Hunger.png"
 			}
 		},
 		{
@@ -225,9 +225,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}",
 			"type": "Creature — Oyster",
-			"collector_number": "56",
+			"collector_number": "57",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/56_Outcropping Oyster.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/57_Outcropping Oyster.png"
 			}
 		},
 		{
@@ -235,9 +235,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "244",
+			"collector_number": "250",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/244_Springside Shrine.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/250_Springside Shrine.png"
 			}
 		},
 		{
@@ -245,9 +245,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Trilobite",
-			"collector_number": "99",
+			"collector_number": "100",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/99_Stinging Artiopod.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/100_Stinging Artiopod.png"
 			}
 		},
 		{
@@ -255,9 +255,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "229",
+			"collector_number": "235",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/229_Heaven's Wreck.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/235_Heaven's Wreck.png"
 			}
 		},
 		{
@@ -265,16 +265,16 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "156",
+			"collector_number": "161",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/156_Scouting Submarine.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/161_Scouting Submarine.png"
 			}
 		},
 		{
 			"name": "Fifth-Generation Rover",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Artifact Creature — Robot Scout",
+			"type": "Artifact Creature — Robot Shrimp",
 			"collector_number": "13",
 			"image_uris": {
 				"en": "https://bancrabs.github.io/sets/WDW-files/img/13_Fifth-Generation Rover.png"
@@ -295,9 +295,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Sorcery",
-			"collector_number": "108",
+			"collector_number": "109",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/108_Conductive Current.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/109_Conductive Current.png"
 			}
 		},
 		{
@@ -305,9 +305,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "158",
+			"collector_number": "163",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/158_Seafloor Colonization.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/163_Seafloor Colonization.png"
 			}
 		},
 		{
@@ -315,9 +315,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
-			"collector_number": "52",
+			"collector_number": "53",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/52_Inclement Weather.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/53_Inclement Weather.png"
 			}
 		},
 		{
@@ -325,9 +325,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "124",
+			"collector_number": "126",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/124_Overwhelming Pressure.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/126_Overwhelming Pressure.png"
 			}
 		},
 		{
@@ -335,9 +335,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "253",
+			"collector_number": "259",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/253_Glassy Lagoon.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/259_Glassy Lagoon.png"
 			}
 		},
 		{
@@ -345,9 +345,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Sorcery",
-			"collector_number": "167",
+			"collector_number": "173",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/167_Whale Watching.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/173_Whale Watching.png"
 			}
 		},
 		{
@@ -355,9 +355,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "95",
+			"collector_number": "96",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/95_Rising Floodwaters.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/96_Rising Floodwaters.png"
 			}
 		},
 		{
@@ -365,9 +365,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Instant",
-			"collector_number": "43",
+			"collector_number": "44",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/43_Encroaching Glaciation.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/44_Encroaching Glaciation.png"
 			}
 		},
 		{
@@ -375,9 +375,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "81",
+			"collector_number": "82",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/81_Disturbing Discovery.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/82_Disturbing Discovery.png"
 			}
 		},
 		{
@@ -385,9 +385,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Artifact Creature — Wraith Soldier",
-			"collector_number": "73",
+			"collector_number": "74",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/73_Basalt Patrolman.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/74_Basalt Patrolman.png"
 			}
 		},
 		{
@@ -395,9 +395,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Scorpion Crab",
-			"collector_number": "163",
+			"collector_number": "168",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/163_Stinging Softshell.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/168_Stinging Softshell.png"
 			}
 		},
 		{
@@ -405,9 +405,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact Creature — Wall",
-			"collector_number": "212",
+			"collector_number": "218",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/212_Defunct Flood Wall.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/218_Defunct Flood Wall.png"
 			}
 		},
 		{
@@ -415,9 +415,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Plains",
-			"collector_number": "238",
+			"collector_number": "244",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/238_Pristine Shore.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/244_Pristine Shore.png"
 			}
 		},
 		{
@@ -425,9 +425,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "232",
+			"collector_number": "238",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/232_Hydrothermal Fissure.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/238_Hydrothermal Fissure.png"
 			}
 		},
 		{
@@ -445,9 +445,9 @@
 			"rarity": "rare",
 			"mana_cost": "{C}{U}",
 			"type": "Legendary Creature — Human Scout",
-			"collector_number": "53",
+			"collector_number": "54",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/53_Ionnea, the Glaciologist.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/54_Ionnea, the Glaciologist.png"
 			}
 		},
 		{
@@ -455,9 +455,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Instant",
-			"collector_number": "146",
+			"collector_number": "151",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/146_Into the First Sea.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/151_Into the First Sea.png"
 			}
 		},
 		{
@@ -465,9 +465,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "142",
+			"collector_number": "147",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/142_Ever Deeper.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/147_Ever Deeper.png"
 			}
 		},
 		{
@@ -475,9 +475,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "135",
+			"collector_number": "139",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/135_Trench-War Furnace Ship.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/139_Trench-War Furnace Ship.png"
 			}
 		},
 		{
@@ -485,9 +485,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "219",
+			"collector_number": "225",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/219_Surveyor's Submersible.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/225_Surveyor's Submersible.png"
 			}
 		},
 		{
@@ -495,9 +495,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "119",
+			"collector_number": "120",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/119_High Firepower.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/120_High Firepower.png"
 			}
 		},
 		{
@@ -505,9 +505,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Plains Swamp",
-			"collector_number": "243",
+			"collector_number": "249",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/243_Shadowy Backstreet.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/249_Shadowy Backstreet.png"
 			}
 		},
 		{
@@ -515,9 +515,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "148",
+			"collector_number": "153",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/148_Levanthine Accumulation.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/153_Levanthine Accumulation.png"
 			}
 		},
 		{
@@ -525,9 +525,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}",
 			"type": "Artifact Creature — Robot",
-			"collector_number": "218",
+			"collector_number": "224",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/218_Seafloor Thresher.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/224_Seafloor Thresher.png"
 			}
 		},
 		{
@@ -535,9 +535,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Leviathan Human",
-			"collector_number": "46",
+			"collector_number": "47",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/46_Fogbank Sovereign.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/47_Fogbank Sovereign.png"
 			}
 		},
 		{
@@ -545,9 +545,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Shrimp",
-			"collector_number": "121",
+			"collector_number": "122",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/121_Implacable Silvershell.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/122_Implacable Silvershell.png"
 			}
 		},
 		{
@@ -555,9 +555,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Lobster",
-			"collector_number": "109",
+			"collector_number": "110",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/109_Coral-Crown Lobster.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/110_Coral-Crown Lobster.png"
 			}
 		},
 		{
@@ -565,9 +565,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Fish",
-			"collector_number": "107",
+			"collector_number": "108",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/107_Cleaner Gobies.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/108_Cleaner Gobies.png"
 			}
 		},
 		{
@@ -585,9 +585,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "217",
+			"collector_number": "223",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/217_Power Conduit.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/223_Power Conduit.png"
 			}
 		},
 		{
@@ -595,9 +595,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Cleric",
-			"collector_number": "30",
+			"collector_number": "31",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/30_Springside Stewards.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/31_Springside Stewards.png"
 			}
 		},
 		{
@@ -605,9 +605,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{W}",
 			"type": "Creature — Bird",
-			"collector_number": "36",
+			"collector_number": "37",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/36_Whale-Eater Eagle.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/37_Whale-Eater Eagle.png"
 			}
 		},
 		{
@@ -665,9 +665,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{W}",
 			"type": "Instant",
-			"collector_number": "35",
+			"collector_number": "36",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/35_Utterly Wreck.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/36_Utterly Wreck.png"
 			}
 		},
 		{
@@ -675,9 +675,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{W}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "33",
+			"collector_number": "34",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/33_Survey Team Ambipod.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/34_Survey Team Ambipod.png"
 			}
 		},
 		{
@@ -685,9 +685,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Scout",
-			"collector_number": "49",
+			"collector_number": "50",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/49_Historical Fleet Veteran.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/50_Historical Fleet Veteran.png"
 			}
 		},
 		{
@@ -695,9 +695,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{U}{U}",
 			"type": "Creature — Leviathan Whale",
-			"collector_number": "64",
+			"collector_number": "65",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/64_Shale-Crowned Leviathan.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/65_Shale-Crowned Leviathan.png"
 			}
 		},
 		{
@@ -705,9 +705,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Instant",
-			"collector_number": "51",
+			"collector_number": "52",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/51_Immerse.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/52_Immerse.png"
 			}
 		},
 		{
@@ -715,9 +715,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "54",
+			"collector_number": "55",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/54_Loss of Contact.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/55_Loss of Contact.png"
 			}
 		},
 		{
@@ -725,9 +725,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{U}",
 			"type": "Sorcery",
-			"collector_number": "59",
+			"collector_number": "60",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/59_Revelation at the Flood Gate.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/60_Revelation at the Flood Gate.png"
 			}
 		},
 		{
@@ -735,9 +735,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Creature — Human Cultist",
-			"collector_number": "78",
+			"collector_number": "79",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/78_Charybdine Devotee.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/79_Charybdine Devotee.png"
 			}
 		},
 		{
@@ -745,9 +745,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Worm",
-			"collector_number": "97",
+			"collector_number": "98",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/97_Scavenging Blindworm.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/98_Scavenging Blindworm.png"
 			}
 		},
 		{
@@ -755,9 +755,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Fish",
-			"collector_number": "84",
+			"collector_number": "85",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/84_First Sea Lanternfish.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/85_First Sea Lanternfish.png"
 			}
 		},
 		{
@@ -765,9 +765,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Serpent",
-			"collector_number": "103",
+			"collector_number": "104",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/103_Territorial Shimmerscale.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/104_Territorial Shimmerscale.png"
 			}
 		},
 		{
@@ -775,9 +775,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{B}",
 			"type": "Creature — Kraken",
-			"collector_number": "85",
+			"collector_number": "86",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/85_Hand of the Deep.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/86_Hand of the Deep.png"
 			}
 		},
 		{
@@ -785,9 +785,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "74",
+			"collector_number": "75",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/74_Beneath Notice.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/75_Beneath Notice.png"
 			}
 		},
 		{
@@ -795,9 +795,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Artificer",
-			"collector_number": "120",
+			"collector_number": "121",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/120_Hobbyist Engineer.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/121_Hobbyist Engineer.png"
 			}
 		},
 		{
@@ -805,9 +805,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Artifact Creature — Robot Merchant",
-			"collector_number": "130",
+			"collector_number": "134",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/130_Sandstone Hub Metatech.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/134_Sandstone Hub Metatech.png"
 			}
 		},
 		{
@@ -815,9 +815,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Leviathan Serpent",
-			"collector_number": "133",
+			"collector_number": "137",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/133_Stormbringer Serpent.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/137_Stormbringer Serpent.png"
 			}
 		},
 		{
@@ -825,9 +825,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact",
-			"collector_number": "115",
+			"collector_number": "116",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/115_Emergency Generator.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/116_Emergency Generator.png"
 			}
 		},
 		{
@@ -835,9 +835,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "112",
+			"collector_number": "113",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/112_Defense Fleet Salvo.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/113_Defense Fleet Salvo.png"
 			}
 		},
 		{
@@ -845,9 +845,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
-			"collector_number": "131",
+			"collector_number": "135",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/131_Seabed Excavation.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/135_Seabed Excavation.png"
 			}
 		},
 		{
@@ -855,9 +855,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
-			"collector_number": "128",
+			"collector_number": "131",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/128_Roar of the First Sea.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/131_Roar of the First Sea.png"
 			}
 		},
 		{
@@ -865,9 +865,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Creature — Plant Fish",
-			"collector_number": "139",
+			"collector_number": "143",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/139_Chlorocuda.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/143_Chlorocuda.png"
 			}
 		},
 		{
@@ -875,9 +875,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Pilot",
-			"collector_number": "136",
+			"collector_number": "140",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/136_Backwater Fishermen.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/140_Backwater Fishermen.png"
 			}
 		},
 		{
@@ -885,9 +885,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Leviathan Human",
-			"collector_number": "161",
+			"collector_number": "166",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/161_Shallows Sovereign.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/166_Shallows Sovereign.png"
 			}
 		},
 		{
@@ -895,9 +895,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{G}{G}",
 			"type": "Creature — Leviathan Dinosaur",
-			"collector_number": "140",
+			"collector_number": "144",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/140_Cyan Plesiosaur.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/144_Cyan Plesiosaur.png"
 			}
 		},
 		{
@@ -905,9 +905,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "145",
+			"collector_number": "150",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/145_Fourth Sea Gunship.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/150_Fourth Sea Gunship.png"
 			}
 		},
 		{
@@ -915,9 +915,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "162",
+			"collector_number": "167",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/162_Shipmaking.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/167_Shipmaking.png"
 			}
 		},
 		{
@@ -925,9 +925,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{U}",
 			"type": "Artifact Creature — Wraith Soldier",
-			"collector_number": "69",
+			"collector_number": "70",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/69_Towering Trenchstalker.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/70_Towering Trenchstalker.png"
 			}
 		},
 		{
@@ -935,9 +935,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "63",
+			"collector_number": "64",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/63_Scrapwork Submersible.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/64_Scrapwork Submersible.png"
 			}
 		},
 		{
@@ -945,9 +945,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Shark",
-			"collector_number": "101",
+			"collector_number": "102",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/101_Surfacing Scavengers.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/102_Surfacing Scavengers.png"
 			}
 		},
 		{
@@ -955,19 +955,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Creature — Fish",
-			"collector_number": "193",
+			"collector_number": "199",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/193_Second Sea Sunfish.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/199_Second Sea Sunfish.png"
 			}
 		},
 		{
 			"name": "Electric Engine",
-			"rarity": "uncommon",
+			"rarity": "rare",
 			"mana_cost": "{R}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "114",
+			"collector_number": "115",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/114_Electric Engine.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/115_Electric Engine.png"
 			}
 		},
 		{
@@ -975,9 +975,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Creature — Human Pilot Advisor",
-			"collector_number": "170",
+			"collector_number": "176",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/170_Amei Fleet Coordinator.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/176_Amei Fleet Coordinator.png"
 			}
 		},
 		{
@@ -985,9 +985,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "117",
+			"collector_number": "118",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/117_Geothermal Explosion.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/118_Geothermal Explosion.png"
 			}
 		},
 		{
@@ -995,9 +995,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Creature — Octopus",
-			"collector_number": "42",
+			"collector_number": "43",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/42_Crafty Cephalopod.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/43_Crafty Cephalopod.png"
 			}
 		},
 		{
@@ -1005,9 +1005,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{R}",
 			"type": "Artifact Creature — Wraith Soldier",
-			"collector_number": "178",
+			"collector_number": "184",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/178_Heavenside Sniper.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/184_Heavenside Sniper.png"
 			}
 		},
 		{
@@ -1015,9 +1015,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Pirate",
-			"collector_number": "93",
+			"collector_number": "94",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/93_Pearl's Hijacker.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/94_Pearl's Hijacker.png"
 			}
 		},
 		{
@@ -1035,9 +1035,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Sorcery",
-			"collector_number": "153",
+			"collector_number": "158",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/153_Navigate.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/158_Navigate.png"
 			}
 		},
 		{
@@ -1045,9 +1045,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "169",
+			"collector_number": "175",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/169_Wisdom of the Ancestors.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/175_Wisdom of the Ancestors.png"
 			}
 		},
 		{
@@ -1055,9 +1055,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Fish Horror",
-			"collector_number": "87",
+			"collector_number": "88",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/87_Heaven's Wreck Angler.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/88_Heaven's Wreck Angler.png"
 			}
 		},
 		{
@@ -1065,9 +1065,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Manticore Fish",
-			"collector_number": "123",
+			"collector_number": "124",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/123_Mantacore.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/124_Mantacore.png"
 			}
 		},
 		{
@@ -1075,9 +1075,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Instant",
-			"collector_number": "62",
+			"collector_number": "63",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/62_Scour the Seafloor.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/63_Scour the Seafloor.png"
 			}
 		},
 		{
@@ -1085,9 +1085,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "82",
+			"collector_number": "83",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/82_Drown in Despair.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/83_Drown in Despair.png"
 			}
 		},
 		{
@@ -1095,9 +1095,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "66",
+			"collector_number": "67",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/66_Terrifying Scale.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/67_Terrifying Scale.png"
 			}
 		},
 		{
@@ -1115,9 +1115,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Creature — Leviathan Turtle",
-			"collector_number": "147",
+			"collector_number": "152",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/147_Juvenile Giant Turtle.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/152_Juvenile Giant Turtle.png"
 			}
 		},
 		{
@@ -1125,9 +1125,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}",
 			"type": "Artifact Creature — Wraith Soldier",
-			"collector_number": "214",
+			"collector_number": "220",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/214_Heaven's Watcher.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/220_Heaven's Watcher.png"
 			}
 		},
 		{
@@ -1135,9 +1135,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "215",
+			"collector_number": "221",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/215_Hyperbaric Chamber.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/221_Hyperbaric Chamber.png"
 			}
 		},
 		{
@@ -1145,9 +1145,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land — Plains",
-			"collector_number": "234",
+			"collector_number": "240",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/234_The Last Sea.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/240_The Last Sea.png"
 			}
 		},
 		{
@@ -1155,9 +1155,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land — Swamp",
-			"collector_number": "242",
+			"collector_number": "248",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/242_The Second Sea.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/248_The Second Sea.png"
 			}
 		},
 		{
@@ -1165,9 +1165,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land — Mountain",
-			"collector_number": "246",
+			"collector_number": "252",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/246_The Third Sea.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/252_The Third Sea.png"
 			}
 		},
 		{
@@ -1185,9 +1185,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "39",
+			"collector_number": "40",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/39_Bioprobe.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/40_Bioprobe.png"
 			}
 		},
 		{
@@ -1195,9 +1195,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "259",
+			"collector_number": "265",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/259_Weathered Spires.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/265_Weathered Spires.png"
 			}
 		},
 		{
@@ -1205,9 +1205,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Forest Plains",
-			"collector_number": "235",
+			"collector_number": "241",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/235_Lush Portico.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/241_Lush Portico.png"
 			}
 		},
 		{
@@ -1215,9 +1215,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Forest",
-			"collector_number": "226",
+			"collector_number": "232",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/226_Flowering Shore.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/232_Flowering Shore.png"
 			}
 		},
 		{
@@ -1225,9 +1225,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "96",
+			"collector_number": "97",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/96_Rusted Reclamation.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/97_Rusted Reclamation.png"
 			}
 		},
 		{
@@ -1235,9 +1235,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "177",
+			"collector_number": "183",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/177_Electrofishery.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/183_Electrofishery.png"
 			}
 		},
 		{
@@ -1245,9 +1245,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{R}",
 			"type": "Creature — Serpent Fish",
-			"collector_number": "198",
+			"collector_number": "204",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/198_Voltaic Eel.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/204_Voltaic Eel.png"
 			}
 		},
 		{
@@ -1255,9 +1255,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{B}{R}",
 			"type": "Creature — Human Pirate Artificer",
-			"collector_number": "190",
+			"collector_number": "196",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/190_Pearl Bay Dockworkers.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/196_Pearl Bay Dockworkers.png"
 			}
 		},
 		{
@@ -1265,9 +1265,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Mountain",
-			"collector_number": "222",
+			"collector_number": "228",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/222_Craggy Shore.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/228_Craggy Shore.png"
 			}
 		},
 		{
@@ -1275,19 +1275,19 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "255",
+			"collector_number": "261",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/255_Igneous Flats.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/261_Igneous Flats.png"
 			}
 		},
 		{
 			"name": "Biocartography Unit",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
-			"type": "Artifact Creature — Spider Robot",
-			"collector_number": "76",
+			"type": "Artifact Creature — Robot Spider",
+			"collector_number": "77",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/76_Biocartography Unit.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/77_Biocartography Unit.png"
 			}
 		},
 		{
@@ -1295,9 +1295,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W}{B}",
 			"type": "Sorcery",
-			"collector_number": "180",
+			"collector_number": "186",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/180_Internal Inversion.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/186_Internal Inversion.png"
 			}
 		},
 		{
@@ -1305,9 +1305,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{C}{B}{R}{G}",
 			"type": "Instant",
-			"collector_number": "197",
+			"collector_number": "203",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/197_Storm of the Century.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/203_Storm of the Century.png"
 			}
 		},
 		{
@@ -1315,9 +1315,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Wraith",
-			"collector_number": "210",
+			"collector_number": "216",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/210_Crumbling Custodian.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/216_Crumbling Custodian.png"
 			}
 		},
 		{
@@ -1325,9 +1325,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "223",
+			"collector_number": "229",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/223_Depleted Seabed.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/229_Depleted Seabed.png"
 			}
 		},
 		{
@@ -1335,9 +1335,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Beast",
-			"collector_number": "150",
+			"collector_number": "155",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/150_Majestic Manatee.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/155_Majestic Manatee.png"
 			}
 		},
 		{
@@ -1345,9 +1345,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U/B}{U/B}",
 			"type": "Sorcery",
-			"collector_number": "204",
+			"collector_number": "210",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/204_Schooling.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/210_Schooling.png"
 			}
 		},
 		{
@@ -1355,9 +1355,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
-			"collector_number": "44",
+			"collector_number": "45",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/44_Esoteric Experiment.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/45_Esoteric Experiment.png"
 			}
 		},
 		{
@@ -1365,9 +1365,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Wall",
-			"collector_number": "165",
+			"collector_number": "171",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/165_Vibrant Reef.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/171_Vibrant Reef.png"
 			}
 		},
 		{
@@ -1375,9 +1375,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "254",
+			"collector_number": "260",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/254_Glimmering Reef.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/260_Glimmering Reef.png"
 			}
 		},
 		{
@@ -1385,9 +1385,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "228",
+			"collector_number": "234",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/228_Fragile Floodwall.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/234_Fragile Floodwall.png"
 			}
 		},
 		{
@@ -1395,9 +1395,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "251",
+			"collector_number": "257",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/251_Boiling Crater.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/257_Boiling Crater.png"
 			}
 		},
 		{
@@ -1405,9 +1405,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Mountain Forest",
-			"collector_number": "221",
+			"collector_number": "227",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/221_Commercial District.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/227_Commercial District.png"
 			}
 		},
 		{
@@ -1415,9 +1415,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Creature — Otter",
-			"collector_number": "57",
+			"collector_number": "58",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/57_Prodigious Pups.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/58_Prodigious Pups.png"
 			}
 		},
 		{
@@ -1425,9 +1425,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{C}{U}{R}",
 			"type": "Legendary Creature — Leviathan",
-			"collector_number": "199",
+			"collector_number": "205",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/199_Zarei, Lightning-Veined.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/205_Zarei, Lightning-Veined.png"
 			}
 		},
 		{
@@ -1445,9 +1445,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "34",
+			"collector_number": "35",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/34_Twin-Turbine Trawler.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/35_Twin-Turbine Trawler.png"
 			}
 		},
 		{
@@ -1455,9 +1455,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "89",
+			"collector_number": "90",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/89_Heavenside Radiation.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/90_Heavenside Radiation.png"
 			}
 		},
 		{
@@ -1465,9 +1465,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "50",
+			"collector_number": "51",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/50_History Repeats.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/51_History Repeats.png"
 			}
 		},
 		{
@@ -1475,9 +1475,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "141",
+			"collector_number": "146",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/141_Environmental Management.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/146_Environmental Management.png"
 			}
 		},
 		{
@@ -1485,9 +1485,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Creature — Octopus Shapeshifter",
-			"collector_number": "55",
+			"collector_number": "56",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/55_Mesmeric Mimic.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/56_Mesmeric Mimic.png"
 			}
 		},
 		{
@@ -1495,9 +1495,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Crab",
-			"collector_number": "106",
+			"collector_number": "107",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/106_City Beachcomber.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/107_City Beachcomber.png"
 			}
 		},
 		{
@@ -1505,9 +1505,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Crab",
-			"collector_number": "77",
+			"collector_number": "78",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/77_Brittleshell Breaker.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/78_Brittleshell Breaker.png"
 			}
 		},
 		{
@@ -1515,9 +1515,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "110",
+			"collector_number": "111",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/110_Dangerous Waters.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/111_Dangerous Waters.png"
 			}
 		},
 		{
@@ -1525,9 +1525,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Artifact Creature — Wraith Berserker",
-			"collector_number": "127",
+			"collector_number": "130",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/127_Plasma Pulverizer.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/130_Plasma Pulverizer.png"
 			}
 		},
 		{
@@ -1535,9 +1535,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Creature — Human Pirate",
-			"collector_number": "79",
+			"collector_number": "80",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/79_Cutlass Murderer.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/80_Cutlass Murderer.png"
 			}
 		},
 		{
@@ -1545,9 +1545,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "80",
+			"collector_number": "81",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/80_Descending into Heaven.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/81_Descending into Heaven.png"
 			}
 		},
 		{
@@ -1555,9 +1555,9 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{G}",
 			"type": "Sorcery",
-			"collector_number": "159",
+			"collector_number": "164",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/159_Seafloor Salvaging.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/164_Seafloor Salvaging.png"
 			}
 		},
 		{
@@ -1565,9 +1565,9 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{U}",
 			"type": "Sorcery",
-			"collector_number": "37",
+			"collector_number": "38",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/37_At the Bottom of the World.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/38_At the Bottom of the World.png"
 			}
 		},
 		{
@@ -1575,9 +1575,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{U}{B}",
 			"type": "Sorcery",
-			"collector_number": "189",
+			"collector_number": "195",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/189_Paean to the Sovereigns.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/195_Paean to the Sovereigns.png"
 			}
 		},
 		{
@@ -1585,9 +1585,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Instant",
-			"collector_number": "188",
+			"collector_number": "194",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/188_Nitrogen Narcosis.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/194_Nitrogen Narcosis.png"
 			}
 		},
 		{
@@ -1595,9 +1595,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{W}{B}",
 			"type": "Legendary Creature — Whale",
-			"collector_number": "175",
+			"collector_number": "181",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/175_Dismemberin' Doris.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/181_Dismemberin' Doris.png"
 			}
 		},
 		{
@@ -1615,9 +1615,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment",
-			"collector_number": "168",
+			"collector_number": "174",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/168_Whalesong Signals.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/174_Whalesong Signals.png"
 			}
 		},
 		{
@@ -1625,9 +1625,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Creature — Bird",
-			"collector_number": "185",
+			"collector_number": "191",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/185_Migratory Mallards.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/191_Migratory Mallards.png"
 			}
 		},
 		{
@@ -1635,9 +1635,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{X}{G}{U}",
 			"type": "Creature — Salamander Hydra",
-			"collector_number": "192",
+			"collector_number": "198",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/192_Reef-Frilled Polyphon.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/198_Reef-Frilled Polyphon.png"
 			}
 		},
 		{
@@ -1645,9 +1645,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{C/R}",
 			"type": "Creature — Human Scout",
-			"collector_number": "132",
+			"collector_number": "136",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/132_Seabed Minerologist.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/136_Seabed Minerologist.png"
 			}
 		},
 		{
@@ -1665,9 +1665,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "252",
+			"collector_number": "258",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/252_Glacial Valley.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/258_Glacial Valley.png"
 			}
 		},
 		{
@@ -1675,9 +1675,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "237",
+			"collector_number": "243",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/237_Open Ocean.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/243_Open Ocean.png"
 			}
 		},
 		{
@@ -1685,9 +1685,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "257",
+			"collector_number": "263",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/257_Saline Pools.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/263_Saline Pools.png"
 			}
 		},
 		{
@@ -1695,9 +1695,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "258",
+			"collector_number": "264",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/258_Seagrass Shallows.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/264_Seagrass Shallows.png"
 			}
 		},
 		{
@@ -1705,9 +1705,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "256",
+			"collector_number": "262",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/256_Old-Growth Mangal.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/262_Old-Growth Mangal.png"
 			}
 		},
 		{
@@ -1715,9 +1715,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "250",
+			"collector_number": "256",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/250_Alpine Lakeside.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/256_Alpine Lakeside.png"
 			}
 		},
 		{
@@ -1725,9 +1725,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Creature — Human Scientist",
-			"collector_number": "58",
+			"collector_number": "59",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/58_Professor Paula Needler.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/59_Professor Paula Needler.png"
 			}
 		},
 		{
@@ -1745,9 +1745,9 @@
 			"rarity": "rare",
 			"mana_cost": "{C}{G}",
 			"type": "Legendary Creature — Human Cultist",
-			"collector_number": "166",
+			"collector_number": "172",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/166_Walais, the Charybdine Gate.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/172_Walais, the Charybdine Gate.png"
 			}
 		},
 		{
@@ -1765,9 +1765,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Artificer",
-			"collector_number": "105",
+			"collector_number": "106",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/105_Boiler Maintenance Tech.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/106_Boiler Maintenance Tech.png"
 			}
 		},
 		{
@@ -1775,9 +1775,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Artifact Creature — Wraith Cleric",
-			"collector_number": "75",
+			"collector_number": "76",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/75_Bioaugur.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/76_Bioaugur.png"
 			}
 		},
 		{
@@ -1785,9 +1785,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{C}{G}{U}{R}",
 			"type": "Legendary Creature — Leviathan Serpent",
-			"collector_number": "187",
+			"collector_number": "193",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/187_Nebula, the Siltseeder.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/193_Nebula, the Siltseeder.png"
 			}
 		},
 		{
@@ -1805,9 +1805,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{U}",
 			"type": "Instant",
-			"collector_number": "48",
+			"collector_number": "49",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/48_Harbor-Breaker Wave.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/49_Harbor-Breaker Wave.png"
 			}
 		},
 		{
@@ -1815,9 +1815,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "91",
+			"collector_number": "92",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/91_Invoke Insignificance.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/92_Invoke Insignificance.png"
 			}
 		},
 		{
@@ -1835,9 +1835,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{C}{B}",
 			"type": "Creature — Squid",
-			"collector_number": "71",
+			"collector_number": "72",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/71_Abyssal Inkwinder.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/72_Abyssal Inkwinder.png"
 			}
 		},
 		{
@@ -1845,9 +1845,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Creature — Human Pirate",
-			"collector_number": "152",
+			"collector_number": "157",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/152_Munitions Scavenger.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/157_Munitions Scavenger.png"
 			}
 		},
 		{
@@ -1855,9 +1855,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Island",
-			"collector_number": "233",
+			"collector_number": "239",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/233_Islet Shore.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/239_Islet Shore.png"
 			}
 		},
 		{
@@ -1865,9 +1865,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Swamp",
-			"collector_number": "240",
+			"collector_number": "246",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/240_Ruined Shore.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/246_Ruined Shore.png"
 			}
 		},
 		{
@@ -1875,9 +1875,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}",
 			"type": "Legendary Artifact",
-			"collector_number": "216",
+			"collector_number": "222",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/216_Martis, Weaver of the Network.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/222_Martis, Weaver of the Network.png"
 			}
 		},
 		{
@@ -1885,9 +1885,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Scout",
-			"collector_number": "67",
+			"collector_number": "68",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/67_Third Sea Salvagers.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/68_Third Sea Salvagers.png"
 			}
 		},
 		{
@@ -1895,9 +1895,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Enchantment",
-			"collector_number": "60",
+			"collector_number": "61",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/60_Ruinous Tides.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/61_Ruinous Tides.png"
 			}
 		},
 		{
@@ -1905,9 +1905,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Artifact Creature — Robot Starfish",
-			"collector_number": "126",
+			"collector_number": "128",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/126_Pearlite Processor.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/128_Pearlite Processor.png"
 			}
 		},
 		{
@@ -1915,9 +1915,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B/G}{B/G}",
 			"type": "Instant",
-			"collector_number": "207",
+			"collector_number": "213",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/207_Thorough Dissection.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/213_Thorough Dissection.png"
 			}
 		},
 		{
@@ -1935,9 +1935,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Fish",
-			"collector_number": "157",
+			"collector_number": "162",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/157_Sea Bass.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/162_Sea Bass.png"
 			}
 		},
 		{
@@ -1945,9 +1945,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G/U}{G/U}",
 			"type": "Creature — Merfolk Druid",
-			"collector_number": "200",
+			"collector_number": "206",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/200_Emissary of the Far Sea.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/206_Emissary of the Far Sea.png"
 			}
 		},
 		{
@@ -1955,9 +1955,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Beaver",
-			"collector_number": "40",
+			"collector_number": "41",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/40_Busy Beaver.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/41_Busy Beaver.png"
 			}
 		},
 		{
@@ -1965,9 +1965,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Artifact",
-			"collector_number": "65",
+			"collector_number": "66",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/65_Terraformer's Globe.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/66_Terraformer's Globe.png"
 			}
 		},
 		{
@@ -1975,9 +1975,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U/R}{U/R}",
 			"type": "Instant",
-			"collector_number": "203",
+			"collector_number": "209",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/203_Reproducible Experiment.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/209_Reproducible Experiment.png"
 			}
 		},
 		{
@@ -1985,9 +1985,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W/U}{W/U}",
 			"type": "Creature — Bird",
-			"collector_number": "202",
+			"collector_number": "208",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/202_Flock of Seagulls.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/208_Flock of Seagulls.png"
 			}
 		},
 		{
@@ -1995,9 +1995,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R/G}{R/G}",
 			"type": "Creature — Leviathan Shark",
-			"collector_number": "201",
+			"collector_number": "207",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/201_Filter Feeder.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/207_Filter Feeder.png"
 			}
 		},
 		{
@@ -2005,9 +2005,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{U}{U}",
 			"type": "Creature — Leviathan Serpent Fish",
-			"collector_number": "70",
+			"collector_number": "71",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/70_Twenty-Mile Moray.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/71_Twenty-Mile Moray.png"
 			}
 		},
 		{
@@ -2015,9 +2015,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Creature — Human Survivor",
-			"collector_number": "195",
+			"collector_number": "201",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/195_Stalwart of the Final Sea.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/201_Stalwart of the Final Sea.png"
 			}
 		},
 		{
@@ -2025,9 +2025,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W/B}{W/B}",
 			"type": "Creature — Leviathan Human",
-			"collector_number": "208",
+			"collector_number": "214",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/208_View-of-Above.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/214_View-of-Above.png"
 			}
 		},
 		{
@@ -2035,9 +2035,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "86",
+			"collector_number": "87",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/86_Harrowing Escape.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/87_Harrowing Escape.png"
 			}
 		},
 		{
@@ -2045,9 +2045,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}{G}",
 			"type": "Sorcery",
-			"collector_number": "173",
+			"collector_number": "179",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/173_Danger Close.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/179_Danger Close.png"
 			}
 		},
 		{
@@ -2055,16 +2055,16 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Legendary Creature — Merfolk Noble",
-			"collector_number": "182",
+			"collector_number": "188",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://bancrabs.github.io/sets/WDW-files/img/182_Kiora, Far-Sea Tempest_back.png"
+					"en": "https://bancrabs.github.io/sets/WDW-files/img/188_Kiora, Far-Sea Tempest_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/182_Kiora, Far-Sea Tempest_front.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/188_Kiora, Far-Sea Tempest_front.png"
 			}
 		},
 		{
@@ -2072,9 +2072,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{C/G}",
 			"type": "Legendary Enchantment",
-			"collector_number": "154",
+			"collector_number": "159",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/154_Oblivion Sanctuary.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/159_Oblivion Sanctuary.png"
 			}
 		},
 		{
@@ -2082,9 +2082,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment",
-			"collector_number": "155",
+			"collector_number": "160",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/155_Oceanography.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/160_Oceanography.png"
 			}
 		},
 		{
@@ -2092,9 +2092,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Forest Island",
-			"collector_number": "230",
+			"collector_number": "236",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/230_Hedge Maze.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/236_Hedge Maze.png"
 			}
 		},
 		{
@@ -2102,9 +2102,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Island Mountain",
-			"collector_number": "247",
+			"collector_number": "253",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/247_Thundering Falls.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/253_Thundering Falls.png"
 			}
 		},
 		{
@@ -2112,9 +2112,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Swamp Mountain",
-			"collector_number": "239",
+			"collector_number": "245",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/239_Raucous Theater.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/245_Raucous Theater.png"
 			}
 		},
 		{
@@ -2122,9 +2122,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Plains Island",
-			"collector_number": "236",
+			"collector_number": "242",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/236_Meticulous Archive.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/242_Meticulous Archive.png"
 			}
 		},
 		{
@@ -2132,9 +2132,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Mountain Plains",
-			"collector_number": "224",
+			"collector_number": "230",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/224_Elegant Parlor.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/230_Elegant Parlor.png"
 			}
 		},
 		{
@@ -2142,9 +2142,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Island Swamp",
-			"collector_number": "248",
+			"collector_number": "254",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/248_Undercity Sewers.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/254_Undercity Sewers.png"
 			}
 		},
 		{
@@ -2152,9 +2152,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Swamp Forest",
-			"collector_number": "249",
+			"collector_number": "255",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/249_Underground Mortuary.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/255_Underground Mortuary.png"
 			}
 		},
 		{
@@ -2162,9 +2162,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Human Advisor",
-			"collector_number": "102",
+			"collector_number": "103",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/102_Terraforming Overseer.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/103_Terraforming Overseer.png"
 			}
 		},
 		{
@@ -2172,9 +2172,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}{U}",
 			"type": "Creature — Leviathan Bear",
-			"collector_number": "172",
+			"collector_number": "178",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/172_Cliffclimber.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/178_Cliffclimber.png"
 			}
 		},
 		{
@@ -2202,9 +2202,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "125",
+			"collector_number": "127",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/125_Pearl Bay Torpedo Thrower.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/127_Pearl Bay Torpedo Thrower.png"
 			}
 		},
 		{
@@ -2212,9 +2212,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{B}",
 			"type": "Enchantment",
-			"collector_number": "72",
+			"collector_number": "73",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/72_Barotrauma.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/73_Barotrauma.png"
 			}
 		},
 		{
@@ -2222,9 +2222,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{X}{G}",
 			"type": "Creature — Leviathan Snake Hydra",
-			"collector_number": "164",
+			"collector_number": "169",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/164_Tree-of-the-Sea.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/169_Tree-of-the-Sea.png"
 			}
 		},
 		{
@@ -2232,9 +2232,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{B}{B}",
 			"type": "Creature — Leviathan Octopus",
-			"collector_number": "100",
+			"collector_number": "101",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/100_Submarine Snapper.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/101_Submarine Snapper.png"
 			}
 		},
 		{
@@ -2252,9 +2252,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{W}{W}",
 			"type": "Creature — Leviathan Whale",
-			"collector_number": "31",
+			"collector_number": "32",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/31_Starfall Narwhal.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/32_Starfall Narwhal.png"
 			}
 		},
 		{
@@ -2262,9 +2262,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{C}{U}{R}",
 			"type": "Legendary Planeswalker — Manuela",
-			"collector_number": "184",
+			"collector_number": "190",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/184_Manuela, Seeking Deeper.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/190_Manuela, Seeking Deeper.png"
 			}
 		},
 		{
@@ -2272,9 +2272,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{6}{G}{G}",
 			"type": "Creature — Leviathan Human",
-			"collector_number": "138",
+			"collector_number": "142",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/138_Charybdine City-Breaker.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/142_Charybdine City-Breaker.png"
 			}
 		},
 		{
@@ -2282,9 +2282,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{6}{R}{R}",
 			"type": "Creature — Leviathan Snake",
-			"collector_number": "104",
+			"collector_number": "105",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/104_Architecture Winder.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/105_Architecture Winder.png"
 			}
 		},
 		{
@@ -2292,9 +2292,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B/R}",
 			"type": "Creature — Fish",
-			"collector_number": "205",
+			"collector_number": "211",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/205_Spawning Salmon.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/211_Spawning Salmon.png"
 			}
 		},
 		{
@@ -2302,9 +2302,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G/W}{G/W}",
 			"type": "Creature — Walrus",
-			"collector_number": "209",
+			"collector_number": "215",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/209_Walrus Huddle.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/215_Walrus Huddle.png"
 			}
 		},
 		{
@@ -2312,9 +2312,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}",
 			"type": "Artifact — Food",
-			"collector_number": "196",
+			"collector_number": "202",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/196_Steamed Shrimp.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/202_Steamed Shrimp.png"
 			}
 		},
 		{
@@ -2322,9 +2322,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "220",
+			"collector_number": "226",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/220_Abyssal Grotto.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/226_Abyssal Grotto.png"
 			}
 		},
 		{
@@ -2332,9 +2332,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "245",
+			"collector_number": "251",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/245_Sunken City.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/251_Sunken City.png"
 			}
 		},
 		{
@@ -2342,9 +2342,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "241",
+			"collector_number": "247",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/241_Seaweed Forest.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/247_Seaweed Forest.png"
 			}
 		},
 		{
@@ -2352,9 +2352,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R/W}{R/W}",
 			"type": "Artifact Creature — Robot Fish",
-			"collector_number": "206",
+			"collector_number": "212",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/206_Steelseeker.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/212_Steelseeker.png"
 			}
 		},
 		{
@@ -2362,9 +2362,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{W}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "179",
+			"collector_number": "185",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/179_Humble Houseboat.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/185_Humble Houseboat.png"
 			}
 		},
 		{
@@ -2372,9 +2372,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Creature — Human Pirate",
-			"collector_number": "191",
+			"collector_number": "197",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/191_Pearl Bay Exterminator.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/197_Pearl Bay Exterminator.png"
 			}
 		},
 		{
@@ -2382,9 +2382,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{G}",
 			"type": "Sorcery",
-			"collector_number": "174",
+			"collector_number": "180",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/174_Deep-Sea Gigantism.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/180_Deep-Sea Gigantism.png"
 			}
 		},
 		{
@@ -2392,9 +2392,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{G}",
 			"type": "Creature — Mole Frog",
-			"collector_number": "186",
+			"collector_number": "192",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/186_Mole Frog.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/192_Mole Frog.png"
 			}
 		},
 		{
@@ -2402,9 +2402,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Creature — Leviathan Human",
-			"collector_number": "194",
+			"collector_number": "200",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/194_Sovereign in Repose.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/200_Sovereign in Repose.png"
 			}
 		},
 		{
@@ -2412,9 +2412,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}",
 			"type": "Artifact Creature — Robot",
-			"collector_number": "129",
+			"collector_number": "133",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/129_Sandstone Hub Expansionist.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/133_Sandstone Hub Expansionist.png"
 			}
 		},
 		{
@@ -2422,9 +2422,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Artifact Creature — Wraith",
-			"collector_number": "90",
+			"collector_number": "91",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/90_Infested Shell.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/91_Infested Shell.png"
 			}
 		},
 		{
@@ -2452,9 +2452,9 @@
 			"rarity": "rare",
 			"mana_cost": "{7}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "211",
+			"collector_number": "217",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/211_Defense Fleet Flagship.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/217_Defense Fleet Flagship.png"
 			}
 		},
 		{
@@ -2522,9 +2522,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{W}",
 			"type": "Legendary Creature — Human Scout",
-			"collector_number": "181",
+			"collector_number": "187",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/181_Jansette, Wayfinder-Captain.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/187_Jansette, Wayfinder-Captain.png"
 			}
 		},
 		{
@@ -2552,9 +2552,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}",
 			"type": "Artifact Creature — Wraith Soldier",
-			"collector_number": "118",
+			"collector_number": "119",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/118_Hadal Harpoonist.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/119_Hadal Harpoonist.png"
 			}
 		},
 		{
@@ -2562,9 +2562,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Artifact Creature — Robot Dinosaur",
-			"collector_number": "151",
+			"collector_number": "156",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/151_Martis' Ambassador.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/156_Martis' Ambassador.png"
 			}
 		},
 		{
@@ -2572,9 +2572,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land — Island",
-			"collector_number": "227",
+			"collector_number": "233",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/227_The Fourth Sea.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/233_The Fourth Sea.png"
 			}
 		},
 		{
@@ -2582,9 +2582,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land — Forest",
-			"collector_number": "225",
+			"collector_number": "231",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/225_The First Sea.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/231_The First Sea.png"
 			}
 		},
 		{
@@ -2592,9 +2592,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{G}",
 			"type": "Artifact",
-			"collector_number": "137",
+			"collector_number": "141",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/137_Biofuel Processor Facility.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/141_Biofuel Processor Facility.png"
 			}
 		},
 		{
@@ -2602,9 +2602,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Creature — Human Cultist",
-			"collector_number": "176",
+			"collector_number": "182",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/176_Drowner of Coastlines.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/182_Drowner of Coastlines.png"
 			}
 		},
 		{
@@ -2612,9 +2612,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Crab",
-			"collector_number": "61",
+			"collector_number": "62",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/61_Saddled Scuttleback.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/62_Saddled Scuttleback.png"
 			}
 		},
 		{
@@ -2622,9 +2622,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Leviathan Sponge",
-			"collector_number": "160",
+			"collector_number": "165",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/160_Sessile Superstructure.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/165_Sessile Superstructure.png"
 			}
 		},
 		{
@@ -2632,9 +2632,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{G}{W}",
 			"type": "Legendary Creature — Homarid Scout",
-			"collector_number": "183",
+			"collector_number": "189",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/183_Krizkiax, Cryptid Drifter.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/189_Krizkiax, Cryptid Drifter.png"
 			}
 		},
 		{
@@ -2642,9 +2642,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Creature — Leviathan Nautilus",
-			"collector_number": "113",
+			"collector_number": "114",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/113_Diamondshell Nautilus.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/114_Diamondshell Nautilus.png"
 			}
 		},
 		{
@@ -2652,9 +2652,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{C}{R}{G}",
 			"type": "Legendary Creature — Leviathan Shark",
-			"collector_number": "171",
+			"collector_number": "177",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/171_The Burning Maw.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/177_The Burning Maw.png"
 			}
 		},
 		{
@@ -2662,9 +2662,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Artifact Creature — Wraith Soldier",
-			"collector_number": "111",
+			"collector_number": "112",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/111_Defender of the Last Soul.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/112_Defender of the Last Soul.png"
 			}
 		},
 		{
@@ -2672,9 +2672,9 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "231",
+			"collector_number": "237",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/231_Hole in the Bottom of the Ocean.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/237_Hole in the Bottom of the Ocean.png"
 			}
 		},
 		{
@@ -2685,6 +2685,66 @@
 			"collector_number": "9",
 			"image_uris": {
 				"en": "https://bancrabs.github.io/sets/WDW-files/img/9_Trench.png"
+			}
+		},
+		{
+			"name": "Roseus Rex",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Leviathan Salamander",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/132_Roseus Rex.png"
+			}
+		},
+		{
+			"name": "Slippery Seals",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Seal",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/30_Slippery Seals.png"
+			}
+		},
+		{
+			"name": "Pistol Shrimp",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Shrimp",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/129_Pistol Shrimp.png"
+			}
+		},
+		{
+			"name": "Unbothered Crocodile",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Crocodile",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/170_Unbothered Crocodile.png"
+			}
+		},
+		{
+			"name": "Drifting Remora",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Fish",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/145_Drifting Remora.png"
+			}
+		},
+		{
+			"name": "Minefield Navigation",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/125_Minefield Navigation.png"
 			}
 		},
 	]
@@ -2699,6 +2759,7 @@
 	2 Implacable Silvershell
 	2 Fathom-Strand Lacemane
 	2 Surfacing Scavengers
+	2 Electric Engine
 	2 Rustclad Aero-Bomber
 	1 Wisdom of the Ancestors
 	2 Heaven's Wreck Angler
@@ -2758,6 +2819,11 @@
 	2 The Burning Maw
 	1 Defender of the Last Soul
 	1 Hole in the Bottom of the Ocean
+	1 Roseus Rex
+	2 Slippery Seals
+	2 Unbothered Crocodile
+	2 Drifting Remora
+	2 Minefield Navigation
 [uncommon(4)]
 	4 Favor of the Waves
 	4 Cargo Ship
@@ -2774,7 +2840,6 @@
 	4 Levanthine Accumulation
 	4 Gasp for Air
 	4 Second Sea Sunfish
-	4 Electric Engine
 	4 Amei Fleet Coordinator
 	4 Geothermal Explosion
 	4 Crafty Cephalopod
@@ -2859,6 +2924,7 @@
 	4 Infested Shell
 	4 Cloud-Drinker Heron
 	4 Dolphin Diver
+	4 Pistol Shrimp
 [common(7)]
 	8 Greater Arctic Gannet
 	8 Ever-Growing Carp
@@ -3048,7 +3114,7 @@
 	6 Scrapwork Submersible
 	7 Surfacing Scavengers
 	15 Second Sea Sunfish
-	15 Electric Engine
+	7 Electric Engine
 	15 Amei Fleet Coordinator
 	15 Geothermal Explosion
 	15 Crafty Cephalopod
@@ -3211,3 +3277,9 @@
 	7 The Burning Maw
 	4 Defender of the Last Soul
 	4 Hole in the Bottom of the Ocean
+	4 Roseus Rex
+	7 Slippery Seals
+	15 Pistol Shrimp
+	7 Unbothered Crocodile
+	7 Drifting Remora
+	7 Minefield Navigation
