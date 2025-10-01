@@ -185,9 +185,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "125",
+			"collector_number": "126",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/125_Lava Coil.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/126_Lava Coil.png"
 			}
 		},
 		{
@@ -235,9 +235,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "255",
+			"collector_number": "257",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/255_Springside Shrine.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/257_Springside Shrine.png"
 			}
 		},
 		{
@@ -255,9 +255,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "240",
+			"collector_number": "242",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/240_Heaven's Wreck.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/242_Heaven's Wreck.png"
 			}
 		},
 		{
@@ -325,9 +325,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "128",
+			"collector_number": "129",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/128_Overwhelming Pressure.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/129_Overwhelming Pressure.png"
 			}
 		},
 		{
@@ -335,9 +335,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "264",
+			"collector_number": "265",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/264_Glassy Lagoon.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/265_Glassy Lagoon.png"
 			}
 		},
 		{
@@ -415,9 +415,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Plains",
-			"collector_number": "249",
+			"collector_number": "251",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/249_Pristine Shore.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/251_Pristine Shore.png"
 			}
 		},
 		{
@@ -425,9 +425,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "243",
+			"collector_number": "245",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/243_Hydrothermal Fissure.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/245_Hydrothermal Fissure.png"
 			}
 		},
 		{
@@ -485,9 +485,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "230",
+			"collector_number": "231",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/230_Surveyor's Submersible.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/231_Surveyor's Submersible.png"
 			}
 		},
 		{
@@ -505,9 +505,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Plains Swamp",
-			"collector_number": "254",
+			"collector_number": "256",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/254_Shadowy Backstreet.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/256_Shadowy Backstreet.png"
 			}
 		},
 		{
@@ -1065,9 +1065,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Manticore Fish",
-			"collector_number": "126",
+			"collector_number": "127",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/126_Mantacore.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/127_Mantacore.png"
 			}
 		},
 		{
@@ -1145,9 +1145,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land — Plains",
-			"collector_number": "245",
+			"collector_number": "247",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/245_The Last Sea.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/247_The Last Sea.png"
 			}
 		},
 		{
@@ -1155,9 +1155,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land — Swamp",
-			"collector_number": "253",
+			"collector_number": "255",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/253_The Second Sea.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/255_The Second Sea.png"
 			}
 		},
 		{
@@ -1165,9 +1165,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land — Mountain",
-			"collector_number": "257",
+			"collector_number": "258",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/257_The Third Sea.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/258_The Third Sea.png"
 			}
 		},
 		{
@@ -1195,9 +1195,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "270",
+			"collector_number": "271",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/270_Weathered Spires.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/271_Weathered Spires.png"
 			}
 		},
 		{
@@ -1205,9 +1205,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Forest Plains",
-			"collector_number": "246",
+			"collector_number": "248",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/246_Lush Portico.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/248_Lush Portico.png"
 			}
 		},
 		{
@@ -1215,9 +1215,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Forest",
-			"collector_number": "237",
+			"collector_number": "239",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/237_Flowering Shore.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/239_Flowering Shore.png"
 			}
 		},
 		{
@@ -1265,9 +1265,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Mountain",
-			"collector_number": "233",
+			"collector_number": "234",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/233_Craggy Shore.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/234_Craggy Shore.png"
 			}
 		},
 		{
@@ -1275,9 +1275,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "266",
+			"collector_number": "267",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/266_Igneous Flats.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/267_Igneous Flats.png"
 			}
 		},
 		{
@@ -1325,9 +1325,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "234",
+			"collector_number": "235",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/234_Depleted Seabed.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/235_Depleted Seabed.png"
 			}
 		},
 		{
@@ -1375,9 +1375,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "265",
+			"collector_number": "266",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/265_Glimmering Reef.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/266_Glimmering Reef.png"
 			}
 		},
 		{
@@ -1385,9 +1385,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "239",
+			"collector_number": "241",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/239_Fragile Floodwall.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/241_Fragile Floodwall.png"
 			}
 		},
 		{
@@ -1395,9 +1395,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "262",
+			"collector_number": "263",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/262_Boiling Crater.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/263_Boiling Crater.png"
 			}
 		},
 		{
@@ -1405,9 +1405,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Mountain Forest",
-			"collector_number": "232",
+			"collector_number": "233",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/232_Commercial District.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/233_Commercial District.png"
 			}
 		},
 		{
@@ -1665,9 +1665,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "263",
+			"collector_number": "264",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/263_Glacial Valley.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/264_Glacial Valley.png"
 			}
 		},
 		{
@@ -1675,9 +1675,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "248",
+			"collector_number": "250",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/248_Open Ocean.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/250_Open Ocean.png"
 			}
 		},
 		{
@@ -1685,9 +1685,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "268",
+			"collector_number": "269",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/268_Saline Pools.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/269_Saline Pools.png"
 			}
 		},
 		{
@@ -1695,9 +1695,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "269",
+			"collector_number": "270",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/269_Seagrass Shallows.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/270_Seagrass Shallows.png"
 			}
 		},
 		{
@@ -1705,9 +1705,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "267",
+			"collector_number": "268",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/267_Old-Growth Mangal.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/268_Old-Growth Mangal.png"
 			}
 		},
 		{
@@ -1715,9 +1715,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "261",
+			"collector_number": "262",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/261_Alpine Lakeside.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/262_Alpine Lakeside.png"
 			}
 		},
 		{
@@ -1855,9 +1855,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Island",
-			"collector_number": "244",
+			"collector_number": "246",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/244_Islet Shore.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/246_Islet Shore.png"
 			}
 		},
 		{
@@ -1865,9 +1865,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Swamp",
-			"collector_number": "251",
+			"collector_number": "253",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/251_Ruined Shore.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/253_Ruined Shore.png"
 			}
 		},
 		{
@@ -1901,13 +1901,13 @@
 			}
 		},
 		{
-			"name": "Pearlite Processor",
+			"name": "Interaction Module",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
-			"type": "Artifact Creature — Robot Starfish",
-			"collector_number": "130",
+			"type": "Artifact Creature — Robot Octopus",
+			"collector_number": "125",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/130_Pearlite Processor.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/125_Interaction Module.png"
 			}
 		},
 		{
@@ -2092,9 +2092,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Forest Island",
-			"collector_number": "241",
+			"collector_number": "243",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/241_Hedge Maze.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/243_Hedge Maze.png"
 			}
 		},
 		{
@@ -2102,9 +2102,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Island Mountain",
-			"collector_number": "258",
+			"collector_number": "259",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/258_Thundering Falls.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/259_Thundering Falls.png"
 			}
 		},
 		{
@@ -2112,9 +2112,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Swamp Mountain",
-			"collector_number": "250",
+			"collector_number": "252",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/250_Raucous Theater.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/252_Raucous Theater.png"
 			}
 		},
 		{
@@ -2122,9 +2122,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Plains Island",
-			"collector_number": "247",
+			"collector_number": "249",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/247_Meticulous Archive.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/249_Meticulous Archive.png"
 			}
 		},
 		{
@@ -2132,9 +2132,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Mountain Plains",
-			"collector_number": "235",
+			"collector_number": "237",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/235_Elegant Parlor.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/237_Elegant Parlor.png"
 			}
 		},
 		{
@@ -2142,9 +2142,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Island Swamp",
-			"collector_number": "259",
+			"collector_number": "260",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/259_Undercity Sewers.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/260_Undercity Sewers.png"
 			}
 		},
 		{
@@ -2152,9 +2152,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Swamp Forest",
-			"collector_number": "260",
+			"collector_number": "261",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/260_Underground Mortuary.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/261_Underground Mortuary.png"
 			}
 		},
 		{
@@ -2202,9 +2202,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "129",
+			"collector_number": "130",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/129_Pearl Bay Torpedo Thrower.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/130_Pearl Bay Torpedo Thrower.png"
 			}
 		},
 		{
@@ -2322,19 +2322,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "231",
+			"collector_number": "232",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/231_Abyssal Grotto.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/232_Abyssal Grotto.png"
 			}
 		},
 		{
-			"name": "Sunken City",
+			"name": "Drowned City",
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "256",
+			"collector_number": "236",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/256_Sunken City.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/236_Drowned City.png"
 			}
 		},
 		{
@@ -2342,9 +2342,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "252",
+			"collector_number": "254",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/252_Seaweed Forest.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/254_Seaweed Forest.png"
 			}
 		},
 		{
@@ -2572,9 +2572,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land — Island",
-			"collector_number": "238",
+			"collector_number": "240",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/238_The Fourth Sea.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/240_The Fourth Sea.png"
 			}
 		},
 		{
@@ -2582,9 +2582,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land — Forest",
-			"collector_number": "236",
+			"collector_number": "238",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/236_The First Sea.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/238_The First Sea.png"
 			}
 		},
 		{
@@ -2662,9 +2662,9 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "242",
+			"collector_number": "244",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/242_Hole in the Bottom of the Ocean.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/244_Hole in the Bottom of the Ocean.png"
 			}
 		},
 		{
@@ -2722,9 +2722,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}",
 			"type": "Sorcery",
-			"collector_number": "127",
+			"collector_number": "128",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/127_Minefield Navigation.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/128_Minefield Navigation.png"
 			}
 		},
 		{
@@ -2749,7 +2749,7 @@
 		},
 		{
 			"name": "Corroded Opus",
-			"rarity": "rare",
+			"rarity": "mythic",
 			"mana_cost": "{4}",
 			"type": "Artifact Creature — Wraith Juggernaut",
 			"collector_number": "220",
@@ -2795,6 +2795,16 @@
 			"collector_number": "201",
 			"image_uris": {
 				"en": "https://bancrabs.github.io/sets/WDW-files/img/201_Pearl, the Last Pirate.png"
+			}
+		},
+		{
+			"name": "Sediment Reaper",
+			"rarity": "rare",
+			"mana_cost": "{7}",
+			"type": "Artifact Creature — Robot Starfish",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/230_Sediment Reaper.png"
 			}
 		},
 	]
@@ -2874,11 +2884,12 @@
 	2 Minefield Navigation
 	1 Encounter with the Vast
 	2 Isotron
-	2 Corroded Opus
+	1 Corroded Opus
 	1 Anthromorph Anomaly
 	1 INS Attica, Built and Rebuilt
 	1 Charybdis, the Lone
 	1 Pearl, the Last Pirate
+	2 Sediment Reaper
 [uncommon(4)]
 	4 Favor of the Waves
 	4 Cargo Ship
@@ -2934,7 +2945,7 @@
 	4 Spatial Contortion
 	4 Munitions Scavenger
 	4 Third Sea Salvagers
-	4 Pearlite Processor
+	4 Interaction Module
 	4 Thorough Dissection
 	4 Hydrocyclist
 	4 Sea Bass
@@ -2968,7 +2979,7 @@
 	4 Walrus Huddle
 	4 Steamed Shrimp
 	4 Abyssal Grotto
-	4 Sunken City
+	4 Drowned City
 	4 Seaweed Forest
 	4 Steelseeker
 	4 Humble Houseboat
@@ -3263,7 +3274,7 @@
 	7 Martis, Weaver of the Network
 	15 Third Sea Salvagers
 	4 Ruinous Tides
-	15 Pearlite Processor
+	15 Interaction Module
 	15 Thorough Dissection
 	15 Hydrocyclist
 	15 Sea Bass
@@ -3305,7 +3316,7 @@
 	15 Walrus Huddle
 	15 Steamed Shrimp
 	15 Abyssal Grotto
-	15 Sunken City
+	15 Drowned City
 	15 Seaweed Forest
 	15 Steelseeker
 	15 Humble Houseboat
@@ -3338,8 +3349,9 @@
 	7 Minefield Navigation
 	4 Encounter with the Vast
 	7 Isotron
-	7 Corroded Opus
+	4 Corroded Opus
 	4 Anthromorph Anomaly
 	4 INS Attica, Built and Rebuilt
 	4 Charybdis, the Lone
 	4 Pearl, the Last Pirate
+	7 Sediment Reaper
