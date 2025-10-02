@@ -372,8 +372,8 @@
             "type": "Instant",
             "number": 34,
             "color_identity": "W",
-            "cost": "{W}",
-            "rules_text": "Choose one \u2014\n\u2022 Sudden Swell deals 2 damage to target tapped creature.\n\u2022 Pressurize target nonland permanent you control. [i](Sacrifices it, then create a token copy of it.)[/i]",
+            "cost": "{1}{W}",
+            "rules_text": "Choose one \u2014\n\u2022 Sudden Swell deals 4 damage to target tapped creature.\n\u2022 Pressurize target nonland permanent you control. [i](Sacrifices it, then create a token copy of it.)[/i]",
             "flavor_text": "[i]There's only one way through a wave that big.[/i]",
             "pt": "",
             "special_text": "",
@@ -481,7 +481,7 @@
             "number": 161,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "You may play an additional land on each of your turns.\nScouting Submarine's power is equal to the number of lands you control.\nCrew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]",
+            "rules_text": "You may play an additional land on each of your turns.\nScouting Submarine's power is equal to the number of lands you control.\nCrew 2 [i](Tap creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "*/6",
             "special_text": "",
@@ -859,7 +859,7 @@
             "number": 140,
             "color_identity": "R",
             "cost": "{3}{R}",
-            "rules_text": "When Trench-War Furnace Ship enters, return target instant or sorcery card from your graveyard to your hand.\nCrew 3 [i](Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]",
+            "rules_text": "When Trench-War Furnace Ship enters, return target instant or sorcery card from your graveyard to your hand.\nCrew 3 [i](Tap creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]",
             "flavor_text": "[i]A hulking relic, it remains in the Amei fleet for its ability to pierce arctic ice.[/i]",
             "pt": "6/5",
             "special_text": "",
@@ -877,7 +877,7 @@
             "number": 231,
             "color_identity": "C",
             "cost": "{2}",
-            "rules_text": "Whenever Surveyor's Submersible enters or attacks, draw a card, then discard a card.\nCrew 4 [i](Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]",
+            "rules_text": "Whenever Surveyor's Submersible enters or attacks, draw a card, then discard a card.\nCrew 4 [i](Tap creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]",
             "flavor_text": "[i]\u201cive heard of turtle ships, but this is ridiculous\u201d\n\u2014yi sun sin, planeswalker[/i]",
             "pt": "6/6",
             "special_text": "",
@@ -1633,7 +1633,7 @@
             "number": 150,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "When Fourth Sea Gunship enters, it deals damage equal to the greatest power among creatures you control to target creature you don't control.\nCrew 3 [i](Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]",
+            "rules_text": "When Fourth Sea Gunship enters, it deals damage equal to the greatest power among creatures you control to target creature you don't control.\nCrew 3 [i](Tap creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "6/6",
             "special_text": "",
@@ -2137,7 +2137,7 @@
             "number": 41,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "When Bioprobe enters, create a 1/1 blue Fish creature token with \u201cWhen this creature dies, if it wasn't blocking, draw a card.\u201d\nBioprobe can't be blocked except by tokens.\nCrew 3 [i](Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]",
+            "rules_text": "When Bioprobe enters, create a 1/1 blue Fish creature token with \u201cWhen this creature dies, if it wasn't blocking, draw a card.\u201d\nBioprobe can't be blocked except by tokens.\nCrew 3 [i](Tap creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
@@ -3235,9 +3235,9 @@
             "number": 12,
             "color_identity": "W",
             "cost": "{C}{W}",
-            "rules_text": "Whenever a player casts a spell, if two or more mana of the same color was spent to cast it, exile it. At the beginning of its controller's next upkeep, they may cast it without paying its mana cost.",
+            "rules_text": "Whenever a player casts a spell, if two or more mana of the same color was spent to cast it, counter that spell unless its controller pays {1}. When they do, put a +1/+1 counter on Eye-Eater Parasitoids.",
             "flavor_text": "[i]\u201cLeviathan meat? Bad idea. Trust me.\u201d\n\u2014Jansette, to Manuela[/i]",
-            "pt": "1/4",
+            "pt": "1/3",
             "special_text": "",
             "shape": "normal",
             "set": "WDW",
@@ -3253,7 +3253,7 @@
             "number": 50,
             "color_identity": "U",
             "cost": "{U}{U}",
-            "rules_text": "Draw a card, then discard a card, then you may exile X cards from your graveyard. When you do, counter target spell unless its controller pays {X}.",
+            "rules_text": "Mill a card, then you may exile X cards from your graveyard. When you do, counter target spell unless its controller pays {X}.",
             "flavor_text": "[i]ft\nft\nft [/i]",
             "pt": "",
             "special_text": "",
@@ -3703,7 +3703,7 @@
             "number": 191,
             "color_identity": "UG",
             "cost": "{2}{G}{U}",
-            "rules_text": "When Kiora enters, mill ten cards. You may put a creature card and/or a land card from among them into your hand.\nAt the beginning of your upkeep, you may transform Kiora. If you do, put X loyalty counters on her, where X is the total power among Merfolk and Leviathan creatures you control.",
+            "rules_text": "When Kiora enters, mill six cards. You may put a creature card and/or a land card from among the milled cards into your hand.\nAt the beginning of your upkeep, you may transform Kiora. If you do, put X loyalty counters on her, where X is the total power among Merfolk and Leviathan creatures you control.",
             "flavor_text": "[i][/i]",
             "pt": "2/7",
             "special_text": "",
@@ -3718,7 +3718,7 @@
             "rules_text2": "",
             "flavor_text2": "[i][/i]",
             "pt2": "",
-            "special_text2": "[+3]: Shuffle up to ten target cards from your graveyard into your library. Draw a card.\n[-5]: Create a 6/6 green Leviathan creature token with \u201cThis creature can't block tokens or be blocked by tokens.\u201d\n[-12]: Put twenty thousand +1/+1 counters and a hexproof counter on target creature.",
+            "special_text2": "[+3]: Shuffle up to six target cards from your graveyard into your library. Draw a card.\n[-6]: Create a 6/6 green Leviathan creature token with \u201cThis creature can't block tokens or be blocked by tokens.\u201d\n[-12]: Put twenty thousand +1/+1 counters and a hexproof counter on target creature.",
             "loyalty2": "",
             "artist2": "Vadim Sadovski",
             "notes": ""
@@ -3748,9 +3748,9 @@
             "type": "Enchantment",
             "number": 160,
             "color_identity": "G",
-            "cost": "{1}{G}",
-            "rules_text": "When Oceanography enters, surveil 2, then you may play an additional land this turn.\nLands you control enter untapped.",
-            "flavor_text": "[i]ft\nft\nft\nft[/i]",
+            "cost": "{2}{G}",
+            "rules_text": "When Oceanography enters, draw a card, then you may play an additional land this turn.\nLands you control enter untapped.",
+            "flavor_text": "[i]ft\nft[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -4037,8 +4037,8 @@
             "number": 8,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Destroy target nonland permanent. If that permanent wasn't a tapped creature, its controller creates a 4/4 Vehicle artifact token with crew 2.",
-            "flavor_text": "[i]ft\nft\nft[/i]",
+            "rules_text": "Destroy target nonland permanent. Its controller creates a 4/4 Vehicle artifact token with crew 2.",
+            "flavor_text": "[i]ft\nft\nft\nft[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -4430,7 +4430,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Artifact Creature \u2014 Wraith",
-            "number": 8,
+            "number": 9,
             "color_identity": "C",
             "cost": "",
             "rules_text": "",
@@ -4441,14 +4441,14 @@
             "set": "WDW",
             "loyalty": "",
             "artist": "Maarten Verhoeven",
-            "notes": ""
+            "notes": "!related Heaven's Wreck;Descending into Heaven;Minefield Navigation;Progressive Degeneration"
         },
         {
             "card_name": "Vehicle Token",
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2014 Vehicle",
-            "number": 7,
+            "number": 8,
             "color_identity": "C",
             "cost": "",
             "rules_text": "Crew 2 [i](Tap creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]",
@@ -4459,7 +4459,7 @@
             "set": "WDW",
             "loyalty": "",
             "artist": "Rene Aigner",
-            "notes": ""
+            "notes": "!related Emergency Generator;Twin-Turbine Trawler;Boiler Maintenance Tech;Amei Fleet Coordinator;Pearl's Hijacker;Novice Crewmate;Defense Fleet Salvo;Disappear at Sea;Disturbing Discovery;Explore a Drowned Wreck;Shipmaking;The Fleet Must Grow;The Last Sea"
         },
         {
             "card_name": "Bird Token",
@@ -4477,7 +4477,7 @@
             "set": "WDW",
             "loyalty": "",
             "artist": "Julien Lepelletier",
-            "notes": ""
+            "notes": "!related Puffin Sighting;Flock of Seagulls"
         },
         {
             "card_name": "Shark Token",
@@ -4495,7 +4495,7 @@
             "set": "WDW",
             "loyalty": "",
             "artist": "Tom Lopez",
-            "notes": ""
+            "notes": "!related Cleaner Gobies;Shark Attack;Dangerous Waters;Explore the Jagged Shelf"
         },
         {
             "card_name": "Crab Token",
@@ -4513,7 +4513,7 @@
             "set": "WDW",
             "loyalty": "",
             "artist": "Grace Liu",
-            "notes": ""
+            "notes": "!related Crab Pot;Twin-Turbine Trawler;Nesting Calcicrux"
         },
         {
             "card_name": "Fish Token",
@@ -4531,7 +4531,7 @@
             "set": "WDW",
             "loyalty": "",
             "artist": "Lua Marques",
-            "notes": ""
+            "notes": "!related Bioprobe;Electrofishery;Mole Frog;Pheremone Eel;Schooling"
         },
         {
             "card_name": "Jansette, Wayfinder-Captain",
@@ -4567,7 +4567,7 @@
             "set": "WDW",
             "loyalty": "",
             "artist": "Massimo Righi",
-            "notes": ""
+            "notes": "!related Whalesong Signals;Explore the Rune-Tunnels;Whale Watching"
         },
         {
             "card_name": "Leviathan Token",
@@ -4585,7 +4585,7 @@
             "set": "WDW",
             "loyalty": "",
             "artist": "Cameron Suter",
-            "notes": ""
+            "notes": "!related Storm of the Century;Kiora, Far-Sea Tempest // Hurricane Kiora;The First Sea;Explore Deeper Waters;Paean to the Sovereigns"
         },
         {
             "card_name": "Hadal Harpoonist",
@@ -4703,9 +4703,9 @@
             "number": 165,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "Defender, ward {4}\nAt the beginning of your upkeep, you may look at the top X cards of your library, where X is the number of lands you control. If you do, put one of those cards back on top of your library and the rest into your graveyard.",
+            "rules_text": "Defender, ward {2}\nAt the beginning of your upkeep, you may look at the top X cards of your library, where X is the number of lands you control. If you do, put one of those cards back on top of your library and the rest into your graveyard.",
             "flavor_text": "[i][/i]",
-            "pt": "0/10",
+            "pt": "2/10",
             "special_text": "",
             "shape": "normal",
             "set": "WDW",
@@ -4775,7 +4775,7 @@
             "number": 114,
             "color_identity": "R",
             "cost": "{1}{R}{R}",
-            "rules_text": "Double strike\nDeluge \u2014 {7}: Untap Defender of the Last Soul. Put a +1/+1 counter on it. After this phase, there is an additional combat phase. [i](Each card you exile from your graveyard while activating this ability pays for {1}.)[/i]",
+            "rules_text": "Double strike\nDeluge \u2014 {7}: Untap Defender of the Last Soul. Put a +1/+1 counter on it. If it's your combat phase, there is an additional combat phase after this phase. [i](Each card you exile from your graveyard while activating this ability pays for {1}.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -4808,7 +4808,7 @@
             "color": "",
             "rarity": "common",
             "type": "Land \u2014 Trench",
-            "number": 9,
+            "number": 10,
             "color_identity": "C",
             "cost": "",
             "rules_text": "[i]You can cover a face-down card with sunken with this reminder card.[/i]\n{T}: Add {C}.",
@@ -4819,7 +4819,7 @@
             "set": "WDW",
             "loyalty": "",
             "artist": "Nathan Chen",
-            "notes": ""
+            "notes": "!related Martis' Ambassador;Fifth-Generation Rover;Sediment Reaper;Defunct Flood Wall;Plasma Pulverizer;Basalt Patrolman;Hadal Harpoonist;Crumbling Custodian;Trench-War Electrolyzer;Majestic Manatee;City Beachcomber;Anthromorph Anomaly;Tourmaline Jelly;Stinging Softshell;Abyssal Inkwinder;Extreme Caution;Loss of Contact;Encroaching Glaciation;Esoteric Experiment;Favor of the Waves;Seabed Excavation;Oblivion Sanctuary;Encounter with the Vast;Great Flood;Heavenside Radiation;Seafloor Colonization"
         },
         {
             "card_name": "Roseus Rex",
@@ -5054,6 +5054,24 @@
             "loyalty": "",
             "artist": "David Chapura",
             "notes": ""
+        },
+        {
+            "card_name": "Sol Ring",
+            "color": "",
+            "rarity": "common",
+            "type": "Token Artifact",
+            "number": 7,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "{T}: Add {C}{C}.",
+            "flavor_text": "[i]\u201cHEAVEN SHINES WITH THE POWER OF THE SUN\u201d\n\u2014Corroded inscription[/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "WDW",
+            "loyalty": "",
+            "artist": "Aditya Vora",
+            "notes": "!related Heaven's Wreck"
         }
     ]
 }

@@ -203,7 +203,7 @@
 		{
 			"name": "Sudden Swell",
 			"rarity": "common",
-			"mana_cost": "{W}",
+			"mana_cost": "{1}{W}",
 			"type": "Instant",
 			"collector_number": "34",
 			"image_uris": {
@@ -2080,7 +2080,7 @@
 		{
 			"name": "Oceanography",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{G}",
+			"mana_cost": "{2}{G}",
 			"type": "Enchantment",
 			"collector_number": "160",
 			"image_uris": {
@@ -2462,9 +2462,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Wraith",
-			"collector_number": "8",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/8_Wraith Token.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/9_Wraith Token.png"
 			}
 		},
 		{
@@ -2472,9 +2472,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Vehicle",
-			"collector_number": "7",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/7_Vehicle Token.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/8_Vehicle Token.png"
 			}
 		},
 		{
@@ -2672,9 +2672,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Trench",
-			"collector_number": "9",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/9_Trench.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/10_Trench.png"
 			}
 		},
 		{
@@ -2805,6 +2805,16 @@
 			"collector_number": "230",
 			"image_uris": {
 				"en": "https://bancrabs.github.io/sets/WDW-files/img/230_Sediment Reaper.png"
+			}
+		},
+		{
+			"name": "Sol Ring",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/7_Sol Ring.png"
 			}
 		},
 	]
