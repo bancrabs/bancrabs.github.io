@@ -1,0 +1,3510 @@
+[CustomCards]
+	[
+		{
+			"name": "Throw Through",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/148_Throw Through.png"
+			}
+		},
+		{
+			"name": "Backstreets Brutalizer",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Ogre Mercenary",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/117_Backstreets Brutalizer.png"
+			}
+		},
+		{
+			"name": "Ear to the Streets",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/48_Ear to the Streets.png"
+			}
+		},
+		{
+			"name": "Schmooze",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/107_Schmooze.png"
+			}
+		},
+		{
+			"name": "Gensus Laboratory District",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/276_Gensus Laboratory District.png"
+			}
+		},
+		{
+			"name": "Leaping Ambusher",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Aetherborn Rogue",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/66_Leaping Ambusher.png"
+			}
+		},
+		{
+			"name": "Tyfloport Captain",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Human Merchant",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/39_Tyfloport Captain.png"
+			}
+		},
+		{
+			"name": "Slice",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/147_Slice.png"
+			}
+		},
+		{
+			"name": "Altimuth Archives",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/257_Altimuth Archives.png"
+			}
+		},
+		{
+			"name": "Ermetico Plasma Physicist",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Viashino Scientist Soldier",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/127_Ermetico Plasma Physicist.png"
+			}
+		},
+		{
+			"name": "Ductwork Deathmacht",
+			"rarity": "common",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Zombie Mercenary",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/240_Ductwork Deathmacht.png"
+			}
+		},
+		{
+			"name": "Dependable Deathmacht",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Zombie Mercenary",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/239_Dependable Deathmacht.png"
+			}
+		},
+		{
+			"name": "Buried Reactor Terminal",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Artifact",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/85_Buried Reactor Terminal.png"
+			}
+		},
+		{
+			"name": "Navigate",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/173_Navigate.png"
+			}
+		},
+		{
+			"name": "Prehistoric Pocket Knife",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W/B}",
+			"type": "Artifact",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/223_Prehistoric Pocket Knife.png"
+			}
+		},
+		{
+			"name": "Stare Down",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/110_Stare Down.png"
+			}
+		},
+		{
+			"name": "Burner Phone",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/232_Burner Phone.png"
+			}
+		},
+		{
+			"name": "Twilight Street Fare",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Food",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/254_Twilight Street Fare.png"
+			}
+		},
+		{
+			"name": "Ironskull Opportunist",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Kor Mercenary",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/31_Ironskull Opportunist.png"
+			}
+		},
+		{
+			"name": "Backstreets Hot Pot",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact — Food",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/79_Backstreets Hot Pot.png"
+			}
+		},
+		{
+			"name": "Environmental Engineer",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf Citizen Scientist",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/160_Environmental Engineer.png"
+			}
+		},
+		{
+			"name": "Hidden-Brick Style Mentor",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Kor Monk",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/28_Hidden-Brick Style Mentor.png"
+			}
+		},
+		{
+			"name": "Ace Operator",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/40_Ace Operator.png"
+			}
+		},
+		{
+			"name": "Call In Contractors",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/121_Call In Contractors.png"
+			}
+		},
+		{
+			"name": "Dispositron",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Artifact Creature — Food Drone",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/17_Dispositron.png"
+			}
+		},
+		{
+			"name": "Buy More Guns",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/157_Buy More Guns.png"
+			}
+		},
+		{
+			"name": "Bellatrine Initiate",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/82_Bellatrine Initiate.png"
+			}
+		},
+		{
+			"name": "Heaped Harvest",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact — Food",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/163_Heaped Harvest.png"
+			}
+		},
+		{
+			"name": "Scrap Pit Sledgehammer",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact — Equipment",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/251_Scrap Pit Sledgehammer.png"
+			}
+		},
+		{
+			"name": "Thriving Scrapper",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/185_Thriving Scrapper.png"
+			}
+		},
+		{
+			"name": "Tyflonaut Mattermaster",
+			"rarity": "uncommon",
+			"mana_cost": "{U/R}{W}",
+			"type": "Artifact Creature — Kor Scientist",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/225_Tyflonaut Mattermaster.png"
+			}
+		},
+		{
+			"name": "Wiry Wiretap",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Robot Mercenary",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/76_Wiry Wiretap.png"
+			}
+		},
+		{
+			"name": "Makeshift Repairs",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/33_Makeshift Repairs.png"
+			}
+		},
+		{
+			"name": "Cybernetic Installation",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/91_Cybernetic Installation.png"
+			}
+		},
+		{
+			"name": "Demagoguery",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/122_Demagoguery.png"
+			}
+		},
+		{
+			"name": "Demolisher Deathmacht",
+			"rarity": "common",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Zombie Mercenary",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/238_Demolisher Deathmacht.png"
+			}
+		},
+		{
+			"name": "Deafening Deathmacht",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Zombie Mercenary",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/237_Deafening Deathmacht.png"
+			}
+		},
+		{
+			"name": "Iceware Specialist",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Kor Assassin",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/60_Iceware Specialist.png"
+			}
+		},
+		{
+			"name": "Preemptive Strike",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/70_Preemptive Strike.png"
+			}
+		},
+		{
+			"name": "Organ Entrepreneur",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact Creature — Kor Rogue",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/101_Organ Entrepreneur.png"
+			}
+		},
+		{
+			"name": "Coordination Processor",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Robot Advisor",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/14_Coordination Processor.png"
+			}
+		},
+		{
+			"name": "Blast Door",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Artifact",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/9_Blast Door.png"
+			}
+		},
+		{
+			"name": "Cling to Survival",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Sorcery",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/88_Cling to Survival.png"
+			}
+		},
+		{
+			"name": "Work Nights",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/113_Work Nights.png"
+			}
+		},
+		{
+			"name": "Suppressive Fire",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/73_Suppressive Fire.png"
+			}
+		},
+		{
+			"name": "Soleil Queen, the Superstar",
+			"rarity": "uncommon",
+			"mana_cost": "{R/W}{R/W}",
+			"type": "Legendary Creature — Wolf Performer",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/224_Soleil Queen, the Superstar.png"
+			}
+		},
+		{
+			"name": "Lunging Lych",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Wolf Gymbro",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/168_Lunging Lych.png"
+			}
+		},
+		{
+			"name": "Self-Perfectionist",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Artifact Creature — Human Citizen",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/146_Self-Perfectionist.png"
+			}
+		},
+		{
+			"name": "Indiscriminate Fire",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Instant",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/135_Indiscriminate Fire.png"
+			}
+		},
+		{
+			"name": "Emptying Vessel",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Aetherborn",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/241_Emptying Vessel.png"
+			}
+		},
+		{
+			"name": "Twelvepoint Servitor",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Artifact Creature — Robot Employee",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/186_Twelvepoint Servitor.png"
+			}
+		},
+		{
+			"name": "Hacker's Headset",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Artifact",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/56_Hacker's Headset.png"
+			}
+		},
+		{
+			"name": "Callous Cratermaker",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Assassin",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/86_Callous Cratermaker.png"
+			}
+		},
+		{
+			"name": "Return to Service",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/106_Return to Service.png"
+			}
+		},
+		{
+			"name": "Prosthetic Eye",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/245_Prosthetic Eye.png"
+			}
+		},
+		{
+			"name": "Prosthetic Heart",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/247_Prosthetic Heart.png"
+			}
+		},
+		{
+			"name": "Ride-or-Die",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Kobold Mercenary",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/143_Ride-or-Die.png"
+			}
+		},
+		{
+			"name": "Concuss",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/89_Concuss.png"
+			}
+		},
+		{
+			"name": "Prosthetic Arm",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/244_Prosthetic Arm.png"
+			}
+		},
+		{
+			"name": "Prosthetic Spine",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/248_Prosthetic Spine.png"
+			}
+		},
+		{
+			"name": "Prosthetic Face",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/246_Prosthetic Face.png"
+			}
+		},
+		{
+			"name": "Automation Engineering",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/43_Automation Engineering.png"
+			}
+		},
+		{
+			"name": "Hack the Mainframe",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/55_Hack the Mainframe.png"
+			}
+		},
+		{
+			"name": "Convince to Surrender",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Instant",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/13_Convince to Surrender.png"
+			}
+		},
+		{
+			"name": "Electrical Plant",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/260_Electrical Plant.png"
+			}
+		},
+		{
+			"name": "Mealtime Ambush",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/169_Mealtime Ambush.png"
+			}
+		},
+		{
+			"name": "Argonet Ultrabright Flare",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/6_Argonet Ultrabright Flare.png"
+			}
+		},
+		{
+			"name": "Autodirigible",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Artifact Creature — Balloon Drone",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/7_Autodirigible.png"
+			}
+		},
+		{
+			"name": "Demand Answers",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/123_Demand Answers.png"
+			}
+		},
+		{
+			"name": "Destructive Duel",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/92_Destructive Duel.png"
+			}
+		},
+		{
+			"name": "Gensus Turretoma",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Human Germ Soldier",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/129_Gensus Turretoma.png"
+			}
+		},
+		{
+			"name": "Arlington Knifefight",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R/G}{R/G}",
+			"type": "Legendary Creature — Wolf Mercenary",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/210_Arlington Knifefight.png"
+			}
+		},
+		{
+			"name": "The Bellatrine Bomb",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/230_The Bellatrine Bomb.png"
+			}
+		},
+		{
+			"name": "Covert Recorder",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Drone",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/46_Covert Recorder.png"
+			}
+		},
+		{
+			"name": "Bellabellum",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}{B}",
+			"type": "Legendary Enchantment Creature — God",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/81_Bellabellum.png"
+			}
+		},
+		{
+			"name": "Lensqi Cleanup Team",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G/U}{B}",
+			"type": "Artifact Creature — Soldier",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/219_Lensqi Cleanup Team.png"
+			}
+		},
+		{
+			"name": "Hidden-Brick Champion",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Ogre Monk",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/27_Hidden-Brick Champion.png"
+			}
+		},
+		{
+			"name": "Subway Station",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/266_Subway Station.png"
+			}
+		},
+		{
+			"name": "Corporate Security Chief",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Elf Soldier",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/159_Corporate Security Chief.png"
+			}
+		},
+		{
+			"name": "Maintenance Technician",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Citizen Rigger",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/68_Maintenance Technician.png"
+			}
+		},
+		{
+			"name": "Information Monitor",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Robot Soldier",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/63_Information Monitor.png"
+			}
+		},
+		{
+			"name": "Infamous Freelancer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Elf Mercenary",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/136_Infamous Freelancer.png"
+			}
+		},
+		{
+			"name": "Perpetrate",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/103_Perpetrate.png"
+			}
+		},
+		{
+			"name": "Field Repairs",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/94_Field Repairs.png"
+			}
+		},
+		{
+			"name": "Overclocked Debtor",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Artifact Creature — Human Drone",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/102_Overclocked Debtor.png"
+			}
+		},
+		{
+			"name": "Lensqi Repossession Team",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact Creature — Human Soldier",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/98_Lensqi Repossession Team.png"
+			}
+		},
+		{
+			"name": "Unburied Uraniac",
+			"rarity": "uncommon",
+			"mana_cost": "{G/W}{B}",
+			"type": "Artifact Creature — Mutant Survivor",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/226_Unburied Uraniac.png"
+			}
+		},
+		{
+			"name": "Anaïs, Scrap Pit Heavy",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B/G}{B/G}",
+			"type": "Legendary Creature — Ogre Mercenary",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/208_Anaïs, Scrap Pit Heavy.png"
+			}
+		},
+		{
+			"name": "Patient Headhunter",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact Creature — Elf Mercenary",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/177_Patient Headhunter.png"
+			}
+		},
+		{
+			"name": "Multifunction Hand",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/171_Multifunction Hand.png"
+			}
+		},
+		{
+			"name": "Backup Battery",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G/U}",
+			"type": "Artifact",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/211_Backup Battery.png"
+			}
+		},
+		{
+			"name": "Spadefront Henchman",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Rebel",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/181_Spadefront Henchman.png"
+			}
+		},
+		{
+			"name": "Burned-Out Visionary",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elf Rebel",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/120_Burned-Out Visionary.png"
+			}
+		},
+		{
+			"name": "Industrial Sabotage",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/166_Industrial Sabotage.png"
+			}
+		},
+		{
+			"name": "Ideological Discourse",
+			"rarity": "uncommon",
+			"mana_cost": "{R/G}{U}",
+			"type": "Instant",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/218_Ideological Discourse.png"
+			}
+		},
+		{
+			"name": "Wire Worker",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Human Assembly-Worker",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/256_Wire Worker.png"
+			}
+		},
+		{
+			"name": "Implantation Rig",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Artifact",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/61_Implantation Rig.png"
+			}
+		},
+		{
+			"name": "Anonymous Assailant",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Mercenary",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/152_Anonymous Assailant.png"
+			}
+		},
+		{
+			"name": "Versatile Terminator",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Mercenary",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/150_Versatile Terminator.png"
+			}
+		},
+		{
+			"name": "Money Engineer",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Merchant Advisor",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/137_Money Engineer.png"
+			}
+		},
+		{
+			"name": "Hard-Light Holography",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/132_Hard-Light Holography.png"
+			}
+		},
+		{
+			"name": "Fight Dirty",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Sorcery",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/95_Fight Dirty.png"
+			}
+		},
+		{
+			"name": "Ironskull Debt Collector",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact Creature — Aetherborn Mercenary",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/97_Ironskull Debt Collector.png"
+			}
+		},
+		{
+			"name": "Ironskull Tactician",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Artifact Creature — Ogre Mercenary",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/64_Ironskull Tactician.png"
+			}
+		},
+		{
+			"name": "Holographic Designer",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Employee",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/58_Holographic Designer.png"
+			}
+		},
+		{
+			"name": "Tyflonaut Wings",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/38_Tyflonaut Wings.png"
+			}
+		},
+		{
+			"name": "Energy Beam",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/22_Energy Beam.png"
+			}
+		},
+		{
+			"name": "Corporate Sponsorship",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/15_Corporate Sponsorship.png"
+			}
+		},
+		{
+			"name": "Delivery Driver",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Employee Pilot",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/16_Delivery Driver.png"
+			}
+		},
+		{
+			"name": "Smoking Gun",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/252_Smoking Gun.png"
+			}
+		},
+		{
+			"name": "Stalking Scavenger",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Wolf Rogue",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/109_Stalking Scavenger.png"
+			}
+		},
+		{
+			"name": "Power Distributor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Human Merchant Rigger",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/202_Power Distributor.png"
+			}
+		},
+		{
+			"name": "Cryogen Canister",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Artifact",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/47_Cryogen Canister.png"
+			}
+		},
+		{
+			"name": "Experimental Sparkdrain",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U/B}{U/B}",
+			"type": "Artifact",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/214_Experimental Sparkdrain.png"
+			}
+		},
+		{
+			"name": "Embrace the Unknown",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/126_Embrace the Unknown.png"
+			}
+		},
+		{
+			"name": "Empty Calories",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Artifact — Food",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/21_Empty Calories.png"
+			}
+		},
+		{
+			"name": "Sofia, the Last Electrotank",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Legendary Artifact Creature — Juggernaut",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/205_Sofia, the Last Electrotank.png"
+			}
+		},
+		{
+			"name": "Interminable Instrument",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Artifact Creature — Elf Warlock Assassin",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/196_Interminable Instrument.png"
+			}
+		},
+		{
+			"name": "Saturation Bombing",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/203_Saturation Bombing.png"
+			}
+		},
+		{
+			"name": "Claim New Turf",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Battle — Mission",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/1_Claim New Turf.png"
+			}
+		},
+		{
+			"name": "Climactic Firefight",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Battle — Mission",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/11_Climactic Firefight.png"
+			}
+		},
+		{
+			"name": "Trillion-Credit Bank Account",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/253_Trillion-Credit Bank Account.png"
+			}
+		},
+		{
+			"name": "Phish",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U/B}{R}",
+			"type": "Sorcery",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/221_Phish.png"
+			}
+		},
+		{
+			"name": "Morelyn, Social Engineer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U/R}{U/R}",
+			"type": "Legendary Creature — Human Merchant",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/220_Morelyn, Social Engineer.png"
+			}
+		},
+		{
+			"name": "Missile Massacre",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/170_Missile Massacre.png"
+			}
+		},
+		{
+			"name": "Window Wiper",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Ogre Employee Rogue",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/75_Window Wiper.png"
+			}
+		},
+		{
+			"name": "Artisanal Arms Dealer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Elf Merchant",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/42_Artisanal Arms Dealer.png"
+			}
+		},
+		{
+			"name": "Terrestrial Whiskey",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact — Food",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/112_Terrestrial Whiskey.png"
+			}
+		},
+		{
+			"name": "Edge of the Sky",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/259_Edge of the Sky.png"
+			}
+		},
+		{
+			"name": "Eavesdrop",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/49_Eavesdrop.png"
+			}
+		},
+		{
+			"name": "Ultraheavy Factory Walker",
+			"rarity": "uncommon",
+			"mana_cost": "{10}",
+			"type": "Artifact Creature — Assembly-Worker",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/255_Ultraheavy Factory Walker.png"
+			}
+		},
+		{
+			"name": "Luxury Fabricator",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Assembly-Worker",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/243_Luxury Fabricator.png"
+			}
+		},
+		{
+			"name": "Fortified Apartment",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/275_Fortified Apartment.png"
+			}
+		},
+		{
+			"name": "Basement Apartment",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/272_Basement Apartment.png"
+			}
+		},
+		{
+			"name": "Raven, Untouchable Killer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Human Assassin",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/105_Raven, Untouchable Killer.png"
+			}
+		},
+		{
+			"name": "Overheat",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/139_Overheat.png"
+			}
+		},
+		{
+			"name": "An Interested Scientist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Planeswalker — Eteres",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/167_An Interested Scientist.png"
+			}
+		},
+		{
+			"name": "Corporate Takeover",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Battle — Mission",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/90_Corporate Takeover.png"
+			}
+		},
+		{
+			"name": "Revival Hyperspecialist",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Artifact Creature — Aetherborn Doctor",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/178_Revival Hyperspecialist.png"
+			}
+		},
+		{
+			"name": "Iceware Cryogenician",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W/B}{U}",
+			"type": "Artifact Creature — Aetherborn Assassin",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/217_Iceware Cryogenician.png"
+			}
+		},
+		{
+			"name": "Delta-Wave Deathmacht",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W/U}{W/U}",
+			"type": "Artifact Creature — Zombie Mercenary",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/213_Delta-Wave Deathmacht.png"
+			}
+		},
+		{
+			"name": "Exultation of Rushing Blood",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/93_Exultation of Rushing Blood.png"
+			}
+		},
+		{
+			"name": "Crowded Apartment",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/273_Crowded Apartment.png"
+			}
+		},
+		{
+			"name": "Customized Sidearm",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/235_Customized Sidearm.png"
+			}
+		},
+		{
+			"name": "Electric Knuckleduster",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/125_Electric Knuckleduster.png"
+			}
+		},
+		{
+			"name": "Argonet Remote Explosive",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/116_Argonet Remote Explosive.png"
+			}
+		},
+		{
+			"name": "Cyber Kitty",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Cat",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/236_Cyber Kitty.png"
+			}
+		},
+		{
+			"name": "Overthrow",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Instant",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/176_Overthrow.png"
+			}
+		},
+		{
+			"name": "Reload",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/72_Reload.png"
+			}
+		},
+		{
+			"name": "Hypercomputer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/59_Hypercomputer.png"
+			}
+		},
+		{
+			"name": "Aero-Merai Artillery",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/114_Aero-Merai Artillery.png"
+			}
+		},
+		{
+			"name": "Adrenal Irregulator",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/151_Adrenal Irregulator.png"
+			}
+		},
+		{
+			"name": "Hurried Hitman",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B/G}{R}",
+			"type": "Creature — Elf Assassin",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/216_Hurried Hitman.png"
+			}
+		},
+		{
+			"name": "Good Night's Sleep",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/25_Good Night's Sleep.png"
+			}
+		},
+		{
+			"name": "Backstreets Chop-Shop",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/258_Backstreets Chop-Shop.png"
+			}
+		},
+		{
+			"name": "Grapple with the Future",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/53_Grapple with the Future.png"
+			}
+		},
+		{
+			"name": "Meet over Lunch",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/34_Meet over Lunch.png"
+			}
+		},
+		{
+			"name": "Heavy Kinetic Gunner",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Artifact Creature — Human Mercenary",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/134_Heavy Kinetic Gunner.png"
+			}
+		},
+		{
+			"name": "Fayot, the Financier",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G/W}{G/W}",
+			"type": "Legendary Creature — Human Merchant",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/215_Fayot, the Financier.png"
+			}
+		},
+		{
+			"name": "Recurve Renegade",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Aetherborn Archer",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/250_Recurve Renegade.png"
+			}
+		},
+		{
+			"name": "Aetherbirth",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{B}",
+			"type": "Sorcery",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/77_Aetherbirth.png"
+			}
+		},
+		{
+			"name": "Combat Streamer",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Artifact Creature — Human Performer",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/12_Combat Streamer.png"
+			}
+		},
+		{
+			"name": "Civic Architect",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Noble Scientist",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/44_Civic Architect.png"
+			}
+		},
+		{
+			"name": "Blackout Bandit",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Rogue",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/155_Blackout Bandit.png"
+			}
+		},
+		{
+			"name": "Skyline Apartment",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/280_Skyline Apartment.png"
+			}
+		},
+		{
+			"name": "Penthouse Apartment",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/278_Penthouse Apartment.png"
+			}
+		},
+		{
+			"name": "Gas Leak",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Instant",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/96_Gas Leak.png"
+			}
+		},
+		{
+			"name": "Gensus Somatoid",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Elf Germ Assassin",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/128_Gensus Somatoid.png"
+			}
+		},
+		{
+			"name": "Aether Flare",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{W}{W}",
+			"type": "Legendary Enchantment",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/4_Aether Flare.png"
+			}
+		},
+		{
+			"name": "Important Interview",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/29_Important Interview.png"
+			}
+		},
+		{
+			"name": "Current Siphoner",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Artifact",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/192_Current Siphoner.png"
+			}
+		},
+		{
+			"name": "Argonet Special Operative",
+			"rarity": "uncommon",
+			"mana_cost": "{W/U}{G}",
+			"type": "Artifact Creature — Elf Soldier",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/209_Argonet Special Operative.png"
+			}
+		},
+		{
+			"name": "Shop for Supplies",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Sorcery",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/204_Shop for Supplies.png"
+			}
+		},
+		{
+			"name": "Networking Expert",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Artifact Creature — Human Scientist",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/199_Networking Expert.png"
+			}
+		},
+		{
+			"name": "Ascendant Packleader",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Wolf",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/154_Ascendant Packleader.png"
+			}
+		},
+		{
+			"name": "In Your Clutches",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}{U}",
+			"type": "Legendary Enchantment — Aura",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/62_In Your Clutches.png"
+			}
+		},
+		{
+			"name": "Hydroponics Technician",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Employee",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/165_Hydroponics Technician.png"
+			}
+		},
+		{
+			"name": "Poxwalkers",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/104_Poxwalkers.png"
+			}
+		},
+		{
+			"name": "Food",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Food",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/5_Food.png"
+			}
+		},
+		{
+			"name": "War in the Streets",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B/R}{B/R}",
+			"type": "Sorcery",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/227_War in the Streets.png"
+			}
+		},
+		{
+			"name": "Scrap Pit Gastronomist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact Creature — Ogre Merchant",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/180_Scrap Pit Gastronomist.png"
+			}
+		},
+		{
+			"name": "Big Data Trawler",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Human Employee Scientist",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/188_Big Data Trawler.png"
+			}
+		},
+		{
+			"name": "Vacuum-Sealed Reliquary",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Artifact",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/207_Vacuum-Sealed Reliquary.png"
+			}
+		},
+		{
+			"name": "Face in the Crowd",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Artifact Creature — Shapeshifter Citizen",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/51_Face in the Crowd.png"
+			}
+		},
+		{
+			"name": "Rooftop Contact",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Rebel",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/179_Rooftop Contact.png"
+			}
+		},
+		{
+			"name": "Restless Vandal",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Rebel Artist",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/142_Restless Vandal.png"
+			}
+		},
+		{
+			"name": "Unstoppable Force",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/149_Unstoppable Force.png"
+			}
+		},
+		{
+			"name": "Dynamic Tactics",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/124_Dynamic Tactics.png"
+			}
+		},
+		{
+			"name": "Dual-Wielding Duelist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Human Mercenary",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/18_Dual-Wielding Duelist.png"
+			}
+		},
+		{
+			"name": "Bar Brawl",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B/R}{W}",
+			"type": "Sorcery",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/212_Bar Brawl.png"
+			}
+		},
+		{
+			"name": "Piston Fist Prizefighter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R/W}{G}",
+			"type": "Artifact Creature — Human Performer",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/222_Piston Fist Prizefighter.png"
+			}
+		},
+		{
+			"name": "Adventurous Investor",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Human Noble Merchant",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/3_Adventurous Investor.png"
+			}
+		},
+		{
+			"name": "Aether's Edge Investigation",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Battle — Mission",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/41_Aether's Edge Investigation.png"
+			}
+		},
+		{
+			"name": "Unite the Revolutionaries",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Battle — Mission",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/187_Unite the Revolutionaries.png"
+			}
+		},
+		{
+			"name": "Ambitious Biohacker",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Elf Scientist",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/78_Ambitious Biohacker.png"
+			}
+		},
+		{
+			"name": "Aero-Merai Pinnacle",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Human Dragon",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/229_Aero-Merai Pinnacle.png"
+			}
+		},
+		{
+			"name": "Overzealous Nitrochemist",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Elf Rebel Scientist",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/140_Overzealous Nitrochemist.png"
+			}
+		},
+		{
+			"name": "Baltrice, Between Jobs",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Planeswalker — Baltrice",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/118_Baltrice, Between Jobs.png"
+			}
+		},
+		{
+			"name": "Skyline Sniper",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Assassin",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/36_Skyline Sniper.png"
+			}
+		},
+		{
+			"name": "Handheld Railcannon",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/26_Handheld Railcannon.png"
+			}
+		},
+		{
+			"name": "Electrosword",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Artifact",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/20_Electrosword.png"
+			}
+		},
+		{
+			"name": "Ermetico Facility Guard",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Ogre Soldier",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/50_Ermetico Facility Guard.png"
+			}
+		},
+		{
+			"name": "Countercultural Icon",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Rebel Performer",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/45_Countercultural Icon.png"
+			}
+		},
+		{
+			"name": "Shoot",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/108_Shoot.png"
+			}
+		},
+		{
+			"name": "Malware Mobilizer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact Creature — Elf Scientist",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/99_Malware Mobilizer.png"
+			}
+		},
+		{
+			"name": "Backstreets Landlord",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Noble",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/80_Backstreets Landlord.png"
+			}
+		},
+		{
+			"name": "Spadefront Stir-Fry",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Artifact — Food",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/182_Spadefront Stir-Fry.png"
+			}
+		},
+		{
+			"name": "The Biggest Gun You Can Carry",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/231_The Biggest Gun You Can Carry.png"
+			}
+		},
+		{
+			"name": "Form of the Colossus",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/242_Form of the Colossus.png"
+			}
+		},
+		{
+			"name": "Aero-Merai Light Security",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Ogre Soldier",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/228_Aero-Merai Light Security.png"
+			}
+		},
+		{
+			"name": "Glass Casket",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/24_Glass Casket.png"
+			}
+		},
+		{
+			"name": "Magnetics Magnate",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Kor Merchant Noble",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/32_Magnetics Magnate.png"
+			}
+		},
+		{
+			"name": "Moment of Weakness",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Instant",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/69_Moment of Weakness.png"
+			}
+		},
+		{
+			"name": "Hidden-Brick Operative",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Artifact Creature — Ogre Monk",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/57_Hidden-Brick Operative.png"
+			}
+		},
+		{
+			"name": "Whir of Invention",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{U}{U}{U}",
+			"type": "Instant",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/74_Whir of Invention.png"
+			}
+		},
+		{
+			"name": "Subway Squatter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/183_Subway Squatter.png"
+			}
+		},
+		{
+			"name": "Backstreets Gourmand",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/8_Backstreets Gourmand.png"
+			}
+		},
+		{
+			"name": "Messy Accident",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/35_Messy Accident.png"
+			}
+		},
+		{
+			"name": "Napolese, Ol' Reliable",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Viashino Mercenary",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/172_Napolese, Ol' Reliable.png"
+			}
+		},
+		{
+			"name": "Intricate Construction",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/30_Intricate Construction.png"
+			}
+		},
+		{
+			"name": "Gang Recruitment",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/23_Gang Recruitment.png"
+			}
+		},
+		{
+			"name": "Twelvepoint Luxury",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Artifact Creature — Kor Germ Employee",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/37_Twelvepoint Luxury.png"
+			}
+		},
+		{
+			"name": "Edgeside Repair Tech",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Rigger",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/19_Edgeside Repair Tech.png"
+			}
+		},
+		{
+			"name": "Bulletproofing Peddler",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Artifact Creature — Elf Merchant",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/10_Bulletproofing Peddler.png"
+			}
+		},
+		{
+			"name": "Reflection in the Aether",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/71_Reflection in the Aether.png"
+			}
+		},
+		{
+			"name": "Fundamental Analyst",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Artifact Creature — Merchant Advisor",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/52_Fundamental Analyst.png"
+			}
+		},
+		{
+			"name": "Gravitational Manipulator",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/54_Gravitational Manipulator.png"
+			}
+		},
+		{
+			"name": "Street Rat",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Artifact Creature — Elf Rogue",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/111_Street Rat.png"
+			}
+		},
+		{
+			"name": "Blesser of Homes",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact Creature — Ogre Warlock",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/83_Blesser of Homes.png"
+			}
+		},
+		{
+			"name": "Bodiless Bodyguard",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Artifact Creature — Elf Mercenary",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/84_Bodiless Bodyguard.png"
+			}
+		},
+		{
+			"name": "Chloryn, Criminal Empress",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Artifact Creature — Human Rogue",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/87_Chloryn, Criminal Empress.png"
+			}
+		},
+		{
+			"name": "Rocket-Propelled Grenadier",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact Creature — Elf Rebel",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/145_Rocket-Propelled Grenadier.png"
+			}
+		},
+		{
+			"name": "Planebound Enthusiast",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Citizen Fan",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/141_Planebound Enthusiast.png"
+			}
+		},
+		{
+			"name": "One on One",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}{R}",
+			"type": "Legendary Enchantment",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/138_One on One.png"
+			}
+		},
+		{
+			"name": "Ritual Pit Brawl",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Battle — Mission",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/144_Ritual Pit Brawl.png"
+			}
+		},
+		{
+			"name": "Grease Gang",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Artifact Creature — Elf Rogue",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/130_Grease Gang.png"
+			}
+		},
+		{
+			"name": "Hearse Company Patrol",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact Creature — Human Soldier",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/164_Hearse Company Patrol.png"
+			}
+		},
+		{
+			"name": "Systems Specialist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Wolf Rogue Scientist",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/184_Systems Specialist.png"
+			}
+		},
+		{
+			"name": "Collective Occupation",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{G}{G}",
+			"type": "Legendary Enchantment — Aura",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/158_Collective Occupation.png"
+			}
+		},
+		{
+			"name": "Argonet Extraction Agent",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact Creature — Viashino Soldier",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/153_Argonet Extraction Agent.png"
+			}
+		},
+		{
+			"name": "Cosmetic Implants",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/234_Cosmetic Implants.png"
+			}
+		},
+		{
+			"name": "Night on the Town",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{G}",
+			"type": "Sorcery",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/174_Night on the Town.png"
+			}
+		},
+		{
+			"name": "Nutrient Solution Tank",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Artifact — Food",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/175_Nutrient Solution Tank.png"
+			}
+		},
+		{
+			"name": "Rusting Monument",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/264_Rusting Monument.png"
+			}
+		},
+		{
+			"name": "Ermetico Sealed Facility",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/262_Ermetico Sealed Facility.png"
+			}
+		},
+		{
+			"name": "Rampaging Reconstruction",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Elephant",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/249_Rampaging Reconstruction.png"
+			}
+		},
+		{
+			"name": "Mission",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Battle — Mission",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/2_Mission.png"
+			}
+		},
+		{
+			"name": "Distraction",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Distraction",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/4_Distraction.png"
+			}
+		},
+		{
+			"name": "Mercenary Token",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Mercenary",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/6_Mercenary Token.png"
+			}
+		},
+		{
+			"name": "Assassin Token",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Assassin",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/3_Assassin Token.png"
+			}
+		},
+		{
+			"name": "Orb Token",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Orb",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/7_Orb Token.png"
+			}
+		},
+		{
+			"name": "Bludgeon",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/156_Bludgeon.png"
+			}
+		},
+		{
+			"name": "La Facilitadora",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Artifact Creature — Assassin",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/65_La Facilitadora.png"
+			}
+		},
+		{
+			"name": "Oris, Manumeya Strategist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Legendary Creature — Viashino Rebel",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/201_Oris, Manumeya Strategist.png"
+			}
+		},
+		{
+			"name": "Gensus Stimulant Booster",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/194_Gensus Stimulant Booster.png"
+			}
+		},
+		{
+			"name": "Corporate Luncheon",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Instant",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/191_Corporate Luncheon.png"
+			}
+		},
+		{
+			"name": "Cheri, Silicon Socialite",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Artifact Creature — Noble",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/189_Cheri, Silicon Socialite.png"
+			}
+		},
+		{
+			"name": "Tyfloshuttle",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{W}{U}",
+			"type": "Artifact Creature — Drone",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/206_Tyfloshuttle.png"
+			}
+		},
+		{
+			"name": "Neon Mirage",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Instant",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/198_Neon Mirage.png"
+			}
+		},
+		{
+			"name": "Lensqi Operation Director",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Artifact Creature — Elf Soldier",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/197_Lensqi Operation Director.png"
+			}
+		},
+		{
+			"name": "Indecisive Accessorizer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Artifact Creature — Kor Noble Citizen",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/195_Indecisive Accessorizer.png"
+			}
+		},
+		{
+			"name": "Constant Sabotage",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Instant",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/190_Constant Sabotage.png"
+			}
+		},
+		{
+			"name": "Nightlife Locals",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Citizen",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/200_Nightlife Locals.png"
+			}
+		},
+		{
+			"name": "Backstreets Marketplace",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/271_Backstreets Marketplace.png"
+			}
+		},
+		{
+			"name": "Backstreets Canal",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/269_Backstreets Canal.png"
+			}
+		},
+		{
+			"name": "Aero-Merai Foundry",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/267_Aero-Merai Foundry.png"
+			}
+		},
+		{
+			"name": "Backstreets Generator",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/270_Backstreets Generator.png"
+			}
+		},
+		{
+			"name": "Twelvepoint Residence Villa",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/281_Twelvepoint Residence Villa.png"
+			}
+		},
+		{
+			"name": "Lensqi Megastructure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/277_Lensqi Megastructure.png"
+			}
+		},
+		{
+			"name": "Scrap Pit Tenements",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/279_Scrap Pit Tenements.png"
+			}
+		},
+		{
+			"name": "Argonet Headquarters",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/268_Argonet Headquarters.png"
+			}
+		},
+		{
+			"name": "Edgeside Tyfloport",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/274_Edgeside Tyfloport.png"
+			}
+		},
+		{
+			"name": "Beloved of Bellabellum",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Elf Warlock",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/119_Beloved of Bellabellum.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/285_Mountain.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/282_Plains.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/283_Island.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/286_Forest.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/284_Swamp.png"
+			}
+		},
+		{
+			"name": "Heat of Battle",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Sorcery",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/133_Heat of Battle.png"
+			}
+		},
+		{
+			"name": "Player Power",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/1_Player Power.png"
+			}
+		},
+		{
+			"name": "Copy",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/1_Copy.png"
+			}
+		},
+		{
+			"name": "Scrap Pit Weapons Assembly",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/265_Scrap Pit Weapons Assembly.png"
+			}
+		},
+		{
+			"name": "Entertainment Multiplex",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/261_Entertainment Multiplex.png"
+			}
+		},
+		{
+			"name": "Ironskulls Safe House",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/263_Ironskulls Safe House.png"
+			}
+		},
+		{
+			"name": "Interstitial Rectifier",
+			"rarity": "uncommon",
+			"mana_cost": "{6}",
+			"type": "Creature — Eldrazi",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/2_Interstitial Rectifier.png"
+			}
+		},
+		{
+			"name": "Gensus Apoptogen",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}{G}",
+			"type": "Artifact Creature — Germ Soldier",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/162_Gensus Apoptogen.png"
+			}
+		},
+		{
+			"name": "Aero-Merai Supermech",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}{R}",
+			"type": "Artifact Creature — Dreadnought",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/115_Aero-Merai Supermech.png"
+			}
+		},
+		{
+			"name": "Lensqi Operators' Web",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}{U}",
+			"type": "Artifact",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/67_Lensqi Operators' Web.png"
+			}
+		},
+		{
+			"name": "Argonet Neutralizer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}{W}",
+			"type": "Artifact Creature — Human Assassin",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/5_Argonet Neutralizer.png"
+			}
+		},
+		{
+			"name": "Objet D'Art",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}{B}",
+			"type": "Artifact Creature — Warlock Sculpture",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/100_Objet D'Art.png"
+			}
+		},
+		{
+			"name": "Elusive Cyberdracula",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Artifact Creature — Vampire",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/193_Elusive Cyberdracula.png"
+			}
+		},
+		{
+			"name": "Force Engine",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Artifact",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/161_Force Engine.png"
+			}
+		},
+		{
+			"name": "Contract-Bound Coilgun",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/233_Contract-Bound Coilgun.png"
+			}
+		},
+		{
+			"name": "Hangout Session",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{R}",
+			"type": "Sorcery",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WTS-files/img/131_Hangout Session.png"
+			}
+		},
+	]
+
+[rare(1)]
+[uncommon(4)]
+	4 Schmooze
+	4 Buried Reactor Terminal
+	4 Prehistoric Pocket Knife
+	4 Stare Down
+	4 Tyflonaut Mattermaster
+	4 Wiry Wiretap
+	4 Blast Door
+	4 Cling to Survival
+	4 Work Nights
+	4 Soleil Queen, the Superstar
+	4 Emptying Vessel
+	4 Prosthetic Eye
+	4 Prosthetic Heart
+	4 Ride-or-Die
+	4 Prosthetic Arm
+	4 Prosthetic Spine
+	4 Prosthetic Face
+	4 Electrical Plant
+	4 Arlington Knifefight
+	4 The Bellatrine Bomb
+	4 Bellabellum
+	4 Lensqi Cleanup Team
+	4 Hidden-Brick Champion
+	4 Infamous Freelancer
+	4 Unburied Uraniac
+	4 Anaïs, Scrap Pit Heavy
+	4 Backup Battery
+	4 Ideological Discourse
+	4 Implantation Rig
+	4 Ironskull Debt Collector
+	4 Power Distributor
+	4 Cryogen Canister
+	4 Experimental Sparkdrain
+	4 Embrace the Unknown
+	4 Empty Calories
+	4 Sofia, the Last Electrotank
+	4 Interminable Instrument
+	4 Saturation Bombing
+	4 Claim New Turf
+	4 Climactic Firefight
+	4 Trillion-Credit Bank Account
+	4 Phish
+	4 Morelyn, Social Engineer
+	4 Missile Massacre
+	4 Window Wiper
+	4 Artisanal Arms Dealer
+	4 Terrestrial Whiskey
+	4 Edge of the Sky
+	4 Eavesdrop
+	4 Ultraheavy Factory Walker
+	4 Luxury Fabricator
+	4 Raven, Untouchable Killer
+	4 Overheat
+	4 An Interested Scientist
+	4 Corporate Takeover
+	4 Revival Hyperspecialist
+	4 Iceware Cryogenician
+	4 Delta-Wave Deathmacht
+	4 Exultation of Rushing Blood
+	4 Customized Sidearm
+	4 Electric Knuckleduster
+	4 Argonet Remote Explosive
+	4 Cyber Kitty
+	4 Overthrow
+	4 Reload
+	4 Hypercomputer
+	4 Aero-Merai Artillery
+	4 Adrenal Irregulator
+	4 Hurried Hitman
+	4 Good Night's Sleep
+	4 Backstreets Chop-Shop
+	4 Grapple with the Future
+	4 Meet over Lunch
+	4 Heavy Kinetic Gunner
+	4 Fayot, the Financier
+	4 Recurve Renegade
+	4 Aetherbirth
+	4 Combat Streamer
+	4 Civic Architect
+	4 Blackout Bandit
+	4 Gas Leak
+	4 Gensus Somatoid
+	4 Aether Flare
+	4 Important Interview
+	4 Current Siphoner
+	4 Argonet Special Operative
+	4 Shop for Supplies
+	4 Networking Expert
+	4 Ascendant Packleader
+	4 In Your Clutches
+	4 Hydroponics Technician
+	4 Poxwalkers
+	4 War in the Streets
+	4 Scrap Pit Gastronomist
+	4 Big Data Trawler
+	4 Vacuum-Sealed Reliquary
+	4 Face in the Crowd
+	4 Rooftop Contact
+	4 Restless Vandal
+	4 Unstoppable Force
+	4 Dynamic Tactics
+	4 Dual-Wielding Duelist
+	4 Bar Brawl
+	4 Piston Fist Prizefighter
+	4 Adventurous Investor
+	4 Aether's Edge Investigation
+	4 Unite the Revolutionaries
+	4 Ambitious Biohacker
+	4 Aero-Merai Pinnacle
+	4 Overzealous Nitrochemist
+	4 Baltrice, Between Jobs
+	4 Skyline Sniper
+	4 Handheld Railcannon
+	4 Electrosword
+	4 Ermetico Facility Guard
+	4 Countercultural Icon
+	4 Shoot
+	4 Malware Mobilizer
+	4 Backstreets Landlord
+	4 Spadefront Stir-Fry
+	4 The Biggest Gun You Can Carry
+	4 Form of the Colossus
+	4 Aero-Merai Light Security
+	4 Magnetics Magnate
+	4 Moment of Weakness
+	4 Hidden-Brick Operative
+	4 Whir of Invention
+	4 Subway Squatter
+	4 Backstreets Gourmand
+	4 Messy Accident
+	4 Napolese, Ol' Reliable
+	4 Intricate Construction
+	4 Gang Recruitment
+	4 Twelvepoint Luxury
+	4 Edgeside Repair Tech
+	4 Bulletproofing Peddler
+	4 Reflection in the Aether
+	4 Fundamental Analyst
+	4 Gravitational Manipulator
+	4 Street Rat
+	4 Blesser of Homes
+	4 Bodiless Bodyguard
+	4 Chloryn, Criminal Empress
+	4 Rocket-Propelled Grenadier
+	4 Planebound Enthusiast
+	4 One on One
+	4 Ritual Pit Brawl
+	4 Grease Gang
+	4 Hearse Company Patrol
+	4 Systems Specialist
+	4 Collective Occupation
+	4 Argonet Extraction Agent
+	4 Cosmetic Implants
+	4 Night on the Town
+	4 Nutrient Solution Tank
+	4 Rusting Monument
+	4 Ermetico Sealed Facility
+	4 Rampaging Reconstruction
+	4 Bludgeon
+	4 La Facilitadora
+	4 Oris, Manumeya Strategist
+	4 Gensus Stimulant Booster
+	4 Corporate Luncheon
+	4 Cheri, Silicon Socialite
+	4 Tyfloshuttle
+	4 Neon Mirage
+	4 Lensqi Operation Director
+	4 Indecisive Accessorizer
+	4 Constant Sabotage
+	4 Nightlife Locals
+	4 Beloved of Bellabellum
+	4 Heat of Battle
+	4 Scrap Pit Weapons Assembly
+	4 Entertainment Multiplex
+	4 Ironskulls Safe House
+	4 Interstitial Rectifier
+	4 Gensus Apoptogen
+	4 Aero-Merai Supermech
+	4 Lensqi Operators' Web
+	4 Argonet Neutralizer
+	4 Objet D'Art
+	4 Elusive Cyberdracula
+	4 Force Engine
+	4 Contract-Bound Coilgun
+	4 Hangout Session
+[common(7)]
+	8 Throw Through
+	8 Backstreets Brutalizer
+	8 Ear to the Streets
+	8 Gensus Laboratory District
+	8 Leaping Ambusher
+	8 Tyfloport Captain
+	8 Slice
+	8 Altimuth Archives
+	8 Ermetico Plasma Physicist
+	8 Ductwork Deathmacht
+	8 Dependable Deathmacht
+	8 Navigate
+	8 Burner Phone
+	8 Twilight Street Fare
+	8 Ironskull Opportunist
+	8 Backstreets Hot Pot
+	8 Environmental Engineer
+	8 Hidden-Brick Style Mentor
+	8 Ace Operator
+	8 Call In Contractors
+	8 Dispositron
+	8 Buy More Guns
+	8 Bellatrine Initiate
+	8 Heaped Harvest
+	8 Scrap Pit Sledgehammer
+	8 Thriving Scrapper
+	8 Makeshift Repairs
+	8 Cybernetic Installation
+	8 Demagoguery
+	8 Demolisher Deathmacht
+	8 Deafening Deathmacht
+	8 Iceware Specialist
+	8 Preemptive Strike
+	8 Organ Entrepreneur
+	8 Coordination Processor
+	8 Suppressive Fire
+	8 Lunging Lych
+	8 Self-Perfectionist
+	8 Indiscriminate Fire
+	8 Twelvepoint Servitor
+	8 Hacker's Headset
+	8 Callous Cratermaker
+	8 Return to Service
+	8 Concuss
+	8 Automation Engineering
+	8 Hack the Mainframe
+	8 Convince to Surrender
+	8 Mealtime Ambush
+	8 Argonet Ultrabright Flare
+	8 Autodirigible
+	8 Demand Answers
+	8 Destructive Duel
+	8 Gensus Turretoma
+	8 Covert Recorder
+	8 Subway Station
+	8 Corporate Security Chief
+	8 Maintenance Technician
+	8 Information Monitor
+	8 Perpetrate
+	8 Field Repairs
+	8 Overclocked Debtor
+	8 Lensqi Repossession Team
+	8 Patient Headhunter
+	8 Multifunction Hand
+	8 Spadefront Henchman
+	8 Burned-Out Visionary
+	8 Industrial Sabotage
+	8 Wire Worker
+	8 Anonymous Assailant
+	8 Versatile Terminator
+	8 Money Engineer
+	8 Hard-Light Holography
+	8 Fight Dirty
+	8 Ironskull Tactician
+	8 Holographic Designer
+	8 Tyflonaut Wings
+	8 Energy Beam
+	8 Corporate Sponsorship
+	8 Delivery Driver
+	8 Smoking Gun
+	8 Stalking Scavenger
+	8 Fortified Apartment
+	8 Basement Apartment
+	8 Crowded Apartment
+	8 Skyline Apartment
+	8 Penthouse Apartment
+	8 Glass Casket
+	8 Backstreets Marketplace
+	8 Backstreets Canal
+	8 Aero-Merai Foundry
+	8 Backstreets Generator
+	8 Twelvepoint Residence Villa
+	8 Lensqi Megastructure
+	8 Scrap Pit Tenements
+	8 Argonet Headquarters
+	8 Edgeside Tyfloport
+[wildcard(2)]
+	6 Throw Through
+	6 Backstreets Brutalizer
+	6 Ear to the Streets
+	15 Schmooze
+	6 Gensus Laboratory District
+	6 Leaping Ambusher
+	6 Tyfloport Captain
+	6 Slice
+	6 Altimuth Archives
+	6 Ermetico Plasma Physicist
+	6 Ductwork Deathmacht
+	6 Dependable Deathmacht
+	15 Buried Reactor Terminal
+	6 Navigate
+	15 Prehistoric Pocket Knife
+	15 Stare Down
+	6 Burner Phone
+	6 Twilight Street Fare
+	6 Ironskull Opportunist
+	6 Backstreets Hot Pot
+	6 Environmental Engineer
+	6 Hidden-Brick Style Mentor
+	6 Ace Operator
+	6 Call In Contractors
+	6 Dispositron
+	6 Buy More Guns
+	6 Bellatrine Initiate
+	6 Heaped Harvest
+	6 Scrap Pit Sledgehammer
+	6 Thriving Scrapper
+	15 Tyflonaut Mattermaster
+	15 Wiry Wiretap
+	6 Makeshift Repairs
+	6 Cybernetic Installation
+	6 Demagoguery
+	6 Demolisher Deathmacht
+	6 Deafening Deathmacht
+	6 Iceware Specialist
+	6 Preemptive Strike
+	6 Organ Entrepreneur
+	6 Coordination Processor
+	15 Blast Door
+	15 Cling to Survival
+	15 Work Nights
+	6 Suppressive Fire
+	15 Soleil Queen, the Superstar
+	6 Lunging Lych
+	6 Self-Perfectionist
+	6 Indiscriminate Fire
+	15 Emptying Vessel
+	6 Twelvepoint Servitor
+	6 Hacker's Headset
+	6 Callous Cratermaker
+	6 Return to Service
+	15 Prosthetic Eye
+	15 Prosthetic Heart
+	15 Ride-or-Die
+	6 Concuss
+	15 Prosthetic Arm
+	15 Prosthetic Spine
+	15 Prosthetic Face
+	6 Automation Engineering
+	6 Hack the Mainframe
+	6 Convince to Surrender
+	15 Electrical Plant
+	6 Mealtime Ambush
+	6 Argonet Ultrabright Flare
+	6 Autodirigible
+	6 Demand Answers
+	6 Destructive Duel
+	6 Gensus Turretoma
+	15 Arlington Knifefight
+	15 The Bellatrine Bomb
+	6 Covert Recorder
+	15 Bellabellum
+	15 Lensqi Cleanup Team
+	15 Hidden-Brick Champion
+	6 Subway Station
+	6 Corporate Security Chief
+	6 Maintenance Technician
+	6 Information Monitor
+	15 Infamous Freelancer
+	6 Perpetrate
+	6 Field Repairs
+	6 Overclocked Debtor
+	6 Lensqi Repossession Team
+	15 Unburied Uraniac
+	15 Anaïs, Scrap Pit Heavy
+	6 Patient Headhunter
+	6 Multifunction Hand
+	15 Backup Battery
+	6 Spadefront Henchman
+	6 Burned-Out Visionary
+	6 Industrial Sabotage
+	15 Ideological Discourse
+	6 Wire Worker
+	15 Implantation Rig
+	6 Anonymous Assailant
+	6 Versatile Terminator
+	6 Money Engineer
+	6 Hard-Light Holography
+	6 Fight Dirty
+	15 Ironskull Debt Collector
+	6 Ironskull Tactician
+	6 Holographic Designer
+	6 Tyflonaut Wings
+	6 Energy Beam
+	6 Corporate Sponsorship
+	6 Delivery Driver
+	6 Smoking Gun
+	6 Stalking Scavenger
+	15 Power Distributor
+	15 Cryogen Canister
+	15 Experimental Sparkdrain
+	15 Embrace the Unknown
+	15 Empty Calories
+	15 Sofia, the Last Electrotank
+	15 Interminable Instrument
+	15 Saturation Bombing
+	15 Claim New Turf
+	15 Climactic Firefight
+	15 Trillion-Credit Bank Account
+	15 Phish
+	15 Morelyn, Social Engineer
+	15 Missile Massacre
+	15 Window Wiper
+	15 Artisanal Arms Dealer
+	15 Terrestrial Whiskey
+	15 Edge of the Sky
+	15 Eavesdrop
+	15 Ultraheavy Factory Walker
+	15 Luxury Fabricator
+	6 Fortified Apartment
+	6 Basement Apartment
+	15 Raven, Untouchable Killer
+	15 Overheat
+	15 An Interested Scientist
+	15 Corporate Takeover
+	15 Revival Hyperspecialist
+	15 Iceware Cryogenician
+	15 Delta-Wave Deathmacht
+	15 Exultation of Rushing Blood
+	6 Crowded Apartment
+	15 Customized Sidearm
+	15 Electric Knuckleduster
+	15 Argonet Remote Explosive
+	15 Cyber Kitty
+	15 Overthrow
+	15 Reload
+	15 Hypercomputer
+	15 Aero-Merai Artillery
+	15 Adrenal Irregulator
+	15 Hurried Hitman
+	15 Good Night's Sleep
+	15 Backstreets Chop-Shop
+	15 Grapple with the Future
+	15 Meet over Lunch
+	15 Heavy Kinetic Gunner
+	15 Fayot, the Financier
+	15 Recurve Renegade
+	15 Aetherbirth
+	15 Combat Streamer
+	15 Civic Architect
+	15 Blackout Bandit
+	6 Skyline Apartment
+	6 Penthouse Apartment
+	15 Gas Leak
+	15 Gensus Somatoid
+	15 Aether Flare
+	15 Important Interview
+	15 Current Siphoner
+	15 Argonet Special Operative
+	15 Shop for Supplies
+	15 Networking Expert
+	15 Ascendant Packleader
+	15 In Your Clutches
+	15 Hydroponics Technician
+	15 Poxwalkers
+	15 War in the Streets
+	15 Scrap Pit Gastronomist
+	15 Big Data Trawler
+	15 Vacuum-Sealed Reliquary
+	15 Face in the Crowd
+	15 Rooftop Contact
+	15 Restless Vandal
+	15 Unstoppable Force
+	15 Dynamic Tactics
+	15 Dual-Wielding Duelist
+	15 Bar Brawl
+	15 Piston Fist Prizefighter
+	15 Adventurous Investor
+	15 Aether's Edge Investigation
+	15 Unite the Revolutionaries
+	15 Ambitious Biohacker
+	15 Aero-Merai Pinnacle
+	15 Overzealous Nitrochemist
+	15 Baltrice, Between Jobs
+	15 Skyline Sniper
+	15 Handheld Railcannon
+	15 Electrosword
+	15 Ermetico Facility Guard
+	15 Countercultural Icon
+	15 Shoot
+	15 Malware Mobilizer
+	15 Backstreets Landlord
+	15 Spadefront Stir-Fry
+	15 The Biggest Gun You Can Carry
+	15 Form of the Colossus
+	15 Aero-Merai Light Security
+	6 Glass Casket
+	15 Magnetics Magnate
+	15 Moment of Weakness
+	15 Hidden-Brick Operative
+	15 Whir of Invention
+	15 Subway Squatter
+	15 Backstreets Gourmand
+	15 Messy Accident
+	15 Napolese, Ol' Reliable
+	15 Intricate Construction
+	15 Gang Recruitment
+	15 Twelvepoint Luxury
+	15 Edgeside Repair Tech
+	15 Bulletproofing Peddler
+	15 Reflection in the Aether
+	15 Fundamental Analyst
+	15 Gravitational Manipulator
+	15 Street Rat
+	15 Blesser of Homes
+	15 Bodiless Bodyguard
+	15 Chloryn, Criminal Empress
+	15 Rocket-Propelled Grenadier
+	15 Planebound Enthusiast
+	15 One on One
+	15 Ritual Pit Brawl
+	15 Grease Gang
+	15 Hearse Company Patrol
+	15 Systems Specialist
+	15 Collective Occupation
+	15 Argonet Extraction Agent
+	15 Cosmetic Implants
+	15 Night on the Town
+	15 Nutrient Solution Tank
+	15 Rusting Monument
+	15 Ermetico Sealed Facility
+	15 Rampaging Reconstruction
+	15 Bludgeon
+	15 La Facilitadora
+	15 Oris, Manumeya Strategist
+	15 Gensus Stimulant Booster
+	15 Corporate Luncheon
+	15 Cheri, Silicon Socialite
+	15 Tyfloshuttle
+	15 Neon Mirage
+	15 Lensqi Operation Director
+	15 Indecisive Accessorizer
+	15 Constant Sabotage
+	15 Nightlife Locals
+	6 Backstreets Marketplace
+	6 Backstreets Canal
+	6 Aero-Merai Foundry
+	6 Backstreets Generator
+	6 Twelvepoint Residence Villa
+	6 Lensqi Megastructure
+	6 Scrap Pit Tenements
+	6 Argonet Headquarters
+	6 Edgeside Tyfloport
+	15 Beloved of Bellabellum
+	15 Heat of Battle
+	15 Scrap Pit Weapons Assembly
+	15 Entertainment Multiplex
+	15 Ironskulls Safe House
+	15 Interstitial Rectifier
+	15 Gensus Apoptogen
+	15 Aero-Merai Supermech
+	15 Lensqi Operators' Web
+	15 Argonet Neutralizer
+	15 Objet D'Art
+	15 Elusive Cyberdracula
+	15 Force Engine
+	15 Contract-Bound Coilgun
+	15 Hangout Session
