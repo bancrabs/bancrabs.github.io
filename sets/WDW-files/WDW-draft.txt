@@ -283,7 +283,7 @@
 		{
 			"name": "Floating Fishery",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{W}",
+			"mana_cost": "{W}",
 			"type": "Artifact — Vehicle",
 			"collector_number": "16",
 			"image_uris": {
@@ -491,13 +491,13 @@
 			}
 		},
 		{
-			"name": "High Firepower",
+			"name": "High Caliber",
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
 			"collector_number": "122",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/122_High Firepower.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/122_High Caliber.png"
 			}
 		},
 		{
@@ -695,9 +695,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{U}{U}",
 			"type": "Creature — Leviathan Whale",
-			"collector_number": "66",
+			"collector_number": "67",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/66_Shale-Crowned Leviathan.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/67_Shale-Crowned Leviathan.png"
 			}
 		},
 		{
@@ -951,13 +951,13 @@
 			}
 		},
 		{
-			"name": "Second Sea Sunfish",
+			"name": "Third Sea Sunfish",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Creature — Fish",
-			"collector_number": "203",
+			"collector_number": "207",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/203_Second Sea Sunfish.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/207_Third Sea Sunfish.png"
 			}
 		},
 		{
@@ -1095,9 +1095,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "68",
+			"collector_number": "69",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/68_Terrifying Scale.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/69_Terrifying Scale.png"
 			}
 		},
 		{
@@ -1151,23 +1151,23 @@
 			}
 		},
 		{
-			"name": "The Second Sea",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Legendary Land — Swamp",
-			"collector_number": "255",
-			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/255_The Second Sea.png"
-			}
-		},
-		{
 			"name": "The Third Sea",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Legendary Land — Mountain",
+			"type": "Legendary Land — Swamp",
 			"collector_number": "258",
 			"image_uris": {
 				"en": "https://bancrabs.github.io/sets/WDW-files/img/258_The Third Sea.png"
+			}
+		},
+		{
+			"name": "The Second Sea",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land — Mountain",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/255_The Second Sea.png"
 			}
 		},
 		{
@@ -1305,9 +1305,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{C}{B}{R}{G}",
 			"type": "Instant",
-			"collector_number": "207",
+			"collector_number": "206",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/207_Storm of the Century.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/206_Storm of the Century.png"
 			}
 		},
 		{
@@ -1881,13 +1881,13 @@
 			}
 		},
 		{
-			"name": "Third Sea Salvagers",
+			"name": "Second Sea Salvagers",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Scout",
-			"collector_number": "69",
+			"collector_number": "66",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/69_Third Sea Salvagers.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/66_Second Sea Salvagers.png"
 			}
 		},
 		{
@@ -1965,9 +1965,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Artifact",
-			"collector_number": "67",
+			"collector_number": "68",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/67_Terraformer's Globe.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/68_Terraformer's Globe.png"
 			}
 		},
 		{
@@ -2015,9 +2015,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Creature — Human Survivor",
-			"collector_number": "205",
+			"collector_number": "204",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/205_Stalwart of the Final Sea.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/204_Stalwart of the Final Sea.png"
 			}
 		},
 		{
@@ -2312,9 +2312,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}",
 			"type": "Artifact — Food",
-			"collector_number": "206",
+			"collector_number": "205",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/206_Steamed Shrimp.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/205_Steamed Shrimp.png"
 			}
 		},
 		{
@@ -2402,9 +2402,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Creature — Leviathan Human",
-			"collector_number": "204",
+			"collector_number": "203",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/204_Sovereign in Repose.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/203_Sovereign in Repose.png"
 			}
 		},
 		{
@@ -2825,7 +2825,7 @@
 	2 Heaven's Wreck
 	2 INS Tiresias, the Township
 	2 Ionnea, the Glaciologist
-	2 High Firepower
+	2 High Caliber
 	2 Implacable Silvershell
 	2 Fathom-Strand Lacemane
 	2 Surfacing Scavengers
@@ -2834,8 +2834,8 @@
 	2 Heaven's Wreck Angler
 	2 Great Flood
 	2 The Last Sea
-	2 The Second Sea
 	2 The Third Sea
+	2 The Second Sea
 	2 Pearl Bay Dockworkers
 	1 Storm of the Century
 	2 Fragile Floodwall
@@ -2915,7 +2915,7 @@
 	4 Shadowy Backstreet
 	4 Levanthine Accumulation
 	4 Gasp for Air
-	4 Second Sea Sunfish
+	4 Third Sea Sunfish
 	4 Electric Engine
 	4 Amei Fleet Coordinator
 	4 Geothermal Explosion
@@ -2954,7 +2954,7 @@
 	4 Open Ocean
 	4 Spatial Contortion
 	4 Munitions Scavenger
-	4 Third Sea Salvagers
+	4 Second Sea Salvagers
 	4 Interaction Module
 	4 Thorough Dissection
 	4 Hydrocyclist
@@ -3143,7 +3143,7 @@
 	6 Ever Deeper
 	6 Trench-War Furnace Ship
 	15 Surveyor's Submersible
-	7 High Firepower
+	7 High Caliber
 	15 Shadowy Backstreet
 	15 Levanthine Accumulation
 	6 Seafloor Thresher
@@ -3189,7 +3189,7 @@
 	6 Towering Trenchstalker
 	6 Scrapwork Submersible
 	7 Surfacing Scavengers
-	15 Second Sea Sunfish
+	15 Third Sea Sunfish
 	15 Electric Engine
 	15 Amei Fleet Coordinator
 	15 Geothermal Explosion
@@ -3209,8 +3209,8 @@
 	6 Heaven's Watcher
 	15 Hyperbaric Chamber
 	7 The Last Sea
-	7 The Second Sea
 	7 The Third Sea
+	7 The Second Sea
 	6 Puffin Sighting
 	15 Bioprobe
 	6 Weathered Spires
@@ -3282,7 +3282,7 @@
 	6 Islet Shore
 	6 Ruined Shore
 	4 Martis, Weaver of the Network
-	15 Third Sea Salvagers
+	15 Second Sea Salvagers
 	4 Ruinous Tides
 	15 Interaction Module
 	15 Thorough Dissection
