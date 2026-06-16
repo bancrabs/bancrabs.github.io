@@ -1137,7 +1137,7 @@
             "set": "WDW",
             "loyalty": "",
             "artist": "Christopher Hemsworth",
-            "notes": ""
+            "notes": "changed"
         },
         {
             "card_name": "Gyrocaptor",
@@ -2227,7 +2227,7 @@
             "number": 197,
             "color_identity": "RG",
             "cost": "{1}{R}{G}",
-            "rules_text": "Deathtouch, haste\nWhenever a creature you control with power 6 or greater attacks, you may put Pablo from your hand or graveyard onto the battlefield tapped and attacking.",
+            "rules_text": "Deathtouch, haste\nWhenever a creature you control with power 6 or greater attacks, you may return Pablo from your graveyard to the battlefield tapped and attacking.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -2829,7 +2829,7 @@
             "set": "WDW",
             "loyalty": "",
             "artist": "Arvind T R",
-            "notes": ""
+            "notes": "changed"
         },
         {
             "card_name": "Whalesong Signals",
@@ -3585,7 +3585,7 @@
             "set": "WDW",
             "loyalty": "",
             "artist": "Meric Dere",
-            "notes": ""
+            "notes": "changed"
         },
         {
             "card_name": "Danger Close",
@@ -4181,7 +4181,7 @@
             "number": 193,
             "color_identity": "BG",
             "cost": "{B}{G}",
-            "rules_text": "Menace\nWhenever Mole Frog attacks, you may deluge {X}. If you do, mill X cards. [i](While paying a deluge cost, each card exiled from your graveyard pays for {1}.)[/i]",
+            "rules_text": "Menace\nWhenever Mole Frog attacks, you may deluge {X}. If you do, mill X cards. X can't be more than 7. [i](While paying this cost, each card exiled from your graveyard pays for {1}.)[/i]",
             "flavor_text": "[i]It moves through soil as easily as it moves through water.[/i]",
             "pt": "2/3",
             "special_text": "",
@@ -4577,7 +4577,7 @@
             "number": 159,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "Defender\nDeluge {6}{G}{G}: Until end of turn, Sessile Superstructure has base power 6 and loses defender. [i](While paying this cost, each card exiled from your graveyard pays for {1}.)[/i]\nWhenever a land card leaves your graveyard, you may create a tapped token that's a copy of it.",
+            "rules_text": "Defender\nDeluge {6}{G}{G}: Until end of turn, Sessile Superstructure has base power 6 and loses defender. [i](While paying this cost, each card exiled from your graveyard pays for {1}.)[/i]\nWhenever one or more land cards leave your graveyard, you may create a tapped token that's a copy of one of those cards.",
             "flavor_text": "[i][/i]",
             "pt": "0/6",
             "special_text": "",
