@@ -1215,19 +1215,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "176",
+			"collector_number": "175",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/176_Electrofishery.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/175_Electrofishery.png"
 			}
 		},
 		{
-			"name": "Electric Eel",
+			"name": "High-Voltage Eel",
 			"rarity": "uncommon",
 			"mana_cost": "{U}{R}",
 			"type": "Creature — Serpent Fish",
-			"collector_number": "175",
+			"collector_number": "177",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/175_Electric Eel.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/177_High-Voltage Eel.png"
 			}
 		},
 		{
@@ -2122,9 +2122,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}",
 			"type": "Creature — Bear",
-			"collector_number": "177",
+			"collector_number": "176",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/177_Glacial Goliath.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/176_Glacial Goliath.png"
 			}
 		},
 		{
@@ -2978,7 +2978,7 @@
 	4 Bioprobe
 	4 Concentrated Housing
 	4 Electrofishery
-	4 Electric Eel
+	4 High-Voltage Eel
 	4 Biocartography Unit
 	4 Internal Inversion
 	4 Crumbling Custodian
@@ -3266,7 +3266,7 @@
 	6 Flowering Shore
 	6 Heavenside Reclamation
 	15 Electrofishery
-	15 Electric Eel
+	15 High-Voltage Eel
 	7 Pablo, Creature Collector
 	6 Craggy Shore
 	6 Igneous Flats
