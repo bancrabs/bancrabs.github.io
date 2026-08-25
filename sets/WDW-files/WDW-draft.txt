@@ -425,9 +425,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Legendary Artifact — Vehicle",
-			"collector_number": "180",
+			"collector_number": "181",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/180_INS Tiresias, the Township.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/181_INS Tiresias, the Township.png"
 			}
 		},
 		{
@@ -833,7 +833,7 @@
 		{
 			"name": "Darkening Skies",
 			"rarity": "common",
-			"mana_cost": "{2}{R}",
+			"mana_cost": "{3}{R}",
 			"type": "Instant",
 			"collector_number": "108",
 			"image_uris": {
@@ -945,9 +945,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{R}",
 			"type": "Legendary Creature — Human Pirate",
-			"collector_number": "193",
+			"collector_number": "194",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/193_Ogee, Extinction Profiteer.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/194_Ogee, Extinction Profiteer.png"
 			}
 		},
 		{
@@ -955,9 +955,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Creature — Human Officer",
-			"collector_number": "181",
+			"collector_number": "182",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/181_Interfleet Coordinator.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/182_Interfleet Coordinator.png"
 			}
 		},
 		{
@@ -1225,9 +1225,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{R}",
 			"type": "Creature — Serpent Fish",
-			"collector_number": "177",
+			"collector_number": "178",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/177_High-Voltage Eel.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/178_High-Voltage Eel.png"
 			}
 		},
 		{
@@ -1235,9 +1235,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Legendary Creature — Human Scout",
-			"collector_number": "194",
+			"collector_number": "195",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/194_Pablo, Creature Collector.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/195_Pablo, Creature Collector.png"
 			}
 		},
 		{
@@ -1275,9 +1275,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W}{B}",
 			"type": "Sorcery",
-			"collector_number": "182",
+			"collector_number": "183",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/182_Internal Inversion.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/183_Internal Inversion.png"
 			}
 		},
 		{
@@ -1285,9 +1285,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{C}{B}{R}{G}",
 			"type": "Instant",
-			"collector_number": "204",
+			"collector_number": "205",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/204_Storm of the Century.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/205_Storm of the Century.png"
 			}
 		},
 		{
@@ -1395,9 +1395,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Creature — Otter",
-			"collector_number": "198",
+			"collector_number": "199",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/198_Prodigal Pups.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/199_Prodigal Pups.png"
 			}
 		},
 		{
@@ -1535,9 +1535,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{U}{B}",
 			"type": "Sorcery",
-			"collector_number": "195",
+			"collector_number": "196",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/195_Paean to the Sovereigns.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/196_Paean to the Sovereigns.png"
 			}
 		},
 		{
@@ -1545,9 +1545,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Instant",
-			"collector_number": "192",
+			"collector_number": "193",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/192_Nitrogen Narcosis.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/193_Nitrogen Narcosis.png"
 			}
 		},
 		{
@@ -1585,9 +1585,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Creature — Bird",
-			"collector_number": "189",
+			"collector_number": "190",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/189_Migratory Mallards.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/190_Migratory Mallards.png"
 			}
 		},
 		{
@@ -1595,9 +1595,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{X}{G}{U}",
 			"type": "Creature — Salamander Hydra",
-			"collector_number": "200",
+			"collector_number": "201",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/200_Reef-Frilled Polyphon.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/201_Reef-Frilled Polyphon.png"
 			}
 		},
 		{
@@ -1745,9 +1745,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{C}{G}{U}{R}",
 			"type": "Legendary Creature — Leviathan Wurm",
-			"collector_number": "191",
+			"collector_number": "192",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/191_Nebula, the Siltseeder.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/192_Nebula, the Siltseeder.png"
 			}
 		},
 		{
@@ -1775,9 +1775,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Sorcery",
-			"collector_number": "183",
+			"collector_number": "184",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/183_Invoke Insignificance.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/184_Invoke Insignificance.png"
 			}
 		},
 		{
@@ -1835,9 +1835,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{C}{U}{R}{W}",
 			"type": "Legendary Artifact",
-			"collector_number": "188",
+			"collector_number": "189",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/188_Martis, Network Weaver.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/189_Martis, Network Weaver.png"
 			}
 		},
 		{
@@ -1965,9 +1965,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Creature — Human Survivor",
-			"collector_number": "203",
+			"collector_number": "204",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/203_Stalwart of the Last Sea.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/204_Stalwart of the Last Sea.png"
 			}
 		},
 		{
@@ -2005,16 +2005,16 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Legendary Creature — Merfolk Noble",
-			"collector_number": "185",
+			"collector_number": "186",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://bancrabs.github.io/sets/WDW-files/img/185_Kiora, Far-Sea Tempest_back.png"
+					"en": "https://bancrabs.github.io/sets/WDW-files/img/186_Kiora, Far-Sea Tempest_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/185_Kiora, Far-Sea Tempest_front.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/186_Kiora, Far-Sea Tempest_front.png"
 			}
 		},
 		{
@@ -2108,13 +2108,13 @@
 			}
 		},
 		{
-			"name": "Terraforming Overseer",
+			"name": "Eos Port Infiltrator",
 			"rarity": "rare",
 			"mana_cost": "{B}{G}{U}",
-			"type": "Creature — Human Advisor",
-			"collector_number": "205",
+			"type": "Creature — Human Cultist Advisor",
+			"collector_number": "176",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/205_Terraforming Overseer.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/176_Eos Port Infiltrator.png"
 			}
 		},
 		{
@@ -2122,9 +2122,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}",
 			"type": "Creature — Bear",
-			"collector_number": "176",
+			"collector_number": "177",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/176_Glacial Goliath.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/177_Glacial Goliath.png"
 			}
 		},
 		{
@@ -2190,7 +2190,7 @@
 		{
 			"name": "Starfall Narwhal",
 			"rarity": "uncommon",
-			"mana_cost": "{5}{W}{W}",
+			"mana_cost": "{5}{W}",
 			"type": "Creature — Leviathan Whale",
 			"collector_number": "33",
 			"image_uris": {
@@ -2202,9 +2202,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{C}{U}{R}",
 			"type": "Legendary Planeswalker — Manuela",
-			"collector_number": "187",
+			"collector_number": "188",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/187_Manuela, Seeking Deeper.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/188_Manuela, Seeking Deeper.png"
 			}
 		},
 		{
@@ -2292,9 +2292,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{W}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "178",
+			"collector_number": "179",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/178_Humble Houseboat.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/179_Humble Houseboat.png"
 			}
 		},
 		{
@@ -2302,9 +2302,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Creature — Human Pirate",
-			"collector_number": "196",
+			"collector_number": "197",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/196_Pearl Bay Dockworkers.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/197_Pearl Bay Dockworkers.png"
 			}
 		},
 		{
@@ -2322,9 +2322,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{G}",
 			"type": "Creature — Mole Frog",
-			"collector_number": "190",
+			"collector_number": "191",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/190_Mole Frog.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/191_Mole Frog.png"
 			}
 		},
 		{
@@ -2332,9 +2332,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Creature — Leviathan Human",
-			"collector_number": "202",
+			"collector_number": "203",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/202_Sovereign in Repose.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/203_Sovereign in Repose.png"
 			}
 		},
 		{
@@ -2442,9 +2442,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{U}",
 			"type": "Legendary Creature — Human Scout",
-			"collector_number": "184",
+			"collector_number": "185",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/184_Jansette, Wayfinder-Captain.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/185_Jansette, Wayfinder-Captain.png"
 			}
 		},
 		{
@@ -2542,9 +2542,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{G}{W}",
 			"type": "Legendary Creature — Homarid Scout",
-			"collector_number": "186",
+			"collector_number": "187",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/186_Krizkiax, Cryptid Drifter.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/187_Krizkiax, Cryptid Drifter.png"
 			}
 		},
 		{
@@ -2682,9 +2682,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{B}{R}",
 			"type": "Legendary Artifact — Vehicle",
-			"collector_number": "179",
+			"collector_number": "180",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/179_INS Attica, Built and Rebuilt.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/180_INS Attica, Built and Rebuilt.png"
 			}
 		},
 		{
@@ -2702,9 +2702,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{C}{W}{U}{B}",
 			"type": "Legendary Creature — Human Pirate",
-			"collector_number": "197",
+			"collector_number": "198",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/197_Pearl, the Last Pirate.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/198_Pearl, the Last Pirate.png"
 			}
 		},
 		{
@@ -2712,9 +2712,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Artifact Creature — Robot Starfish",
-			"collector_number": "201",
+			"collector_number": "202",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/201_Sediment Thresher.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/202_Sediment Thresher.png"
 			}
 		},
 		{
@@ -2792,9 +2792,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "199",
+			"collector_number": "200",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WDW-files/img/199_Ramshackle Surfskimmer.png"
+				"en": "https://bancrabs.github.io/sets/WDW-files/img/200_Ramshackle Surfskimmer.png"
 			}
 		},
 		{
@@ -2914,7 +2914,7 @@
 	1 Martis, Network Weaver
 	1 Kiora, Far-Sea Tempest
 	2 Oblivion Sanctuary
-	2 Terraforming Overseer
+	2 Eos Port Infiltrator
 	2 Odd Globster
 	2 Barotrauma
 	1 Tree-of-the-Sea
@@ -3354,7 +3354,7 @@
 	15 Waterfront Edifice
 	15 Wastewater Facility
 	15 Remote Habitation
-	7 Terraforming Overseer
+	7 Eos Port Infiltrator
 	15 Glacial Goliath
 	7 Odd Globster
 	15 Personal Propeller
