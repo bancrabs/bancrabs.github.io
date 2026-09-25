@@ -545,9 +545,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}",
 			"type": "Artifact — Treasure",
-			"collector_number": "277",
+			"collector_number": "282",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/277_Lotus Bud.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/282_Lotus Bud.png"
 			}
 		},
 		{
@@ -1314,7 +1314,7 @@
 			"name": "Agdol, Port Harbor",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Legendary Land — Market",
+			"type": "Land — Market",
 			"collector_number": "240",
 			"image_uris": {
 				"en": "https://bancrabs.github.io/sets/WHL-files/img/240_Agdol, Port Harbor.png"
@@ -1925,9 +1925,9 @@
 			"rarity": "special",
 			"mana_cost": "{W}{U}{B}{R}{G}",
 			"type": "Legendary Creature — Incarnation",
-			"collector_number": "272",
+			"collector_number": "277",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/272_Fortune.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/277_Fortune.png"
 			}
 		},
 		{
@@ -1935,9 +1935,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Enchantment — Aura",
-			"collector_number": "262",
+			"collector_number": "267",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/262_Investment.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/267_Investment.png"
 			}
 		},
 		{
@@ -1945,9 +1945,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "267",
+			"collector_number": "272",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/267_Stolen Grain.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/272_Stolen Grain.png"
 			}
 		},
 		{
@@ -2534,7 +2534,7 @@
 			"name": "Wijay, Captive Chemist",
 			"rarity": "rare",
 			"mana_cost": "{U/B}",
-			"type": "Creature — Human Scientist",
+			"type": "Legendary Creature — Human Scientist",
 			"collector_number": "232",
 			"image_uris": {
 				"en": "https://bancrabs.github.io/sets/WHL-files/img/232_Wijay, Captive Chemist.png"
@@ -2634,7 +2634,7 @@
 			"name": "Iyra-Elai, Colonial Capital",
 			"rarity": "mythic",
 			"mana_cost": "",
-			"type": "Legendary Land",
+			"type": "Legendary Land — Market",
 			"collector_number": "249",
 			"image_uris": {
 				"en": "https://bancrabs.github.io/sets/WHL-files/img/249_Iyra-Elai, Colonial Capital.png"
@@ -2655,9 +2655,9 @@
 			"rarity": "special",
 			"mana_cost": "{0}",
 			"type": "Artifact",
-			"collector_number": "273",
+			"collector_number": "278",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/273_Black Lotus.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/278_Black Lotus.png"
 			}
 		},
 		{
@@ -2665,9 +2665,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "269",
+			"collector_number": "274",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/269_Wheel of Fortune.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/274_Wheel of Fortune.png"
 			}
 		},
 		{
@@ -2675,9 +2675,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "271",
+			"collector_number": "276",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/271_Chatterstorm.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/276_Chatterstorm.png"
 			}
 		},
 		{
@@ -2685,9 +2685,9 @@
 			"rarity": "special",
 			"mana_cost": "{0}",
 			"type": "Artifact Creature — Thopter",
-			"collector_number": "278",
+			"collector_number": "283",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/278_Ornithopter.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/283_Ornithopter.png"
 			}
 		},
 		{
@@ -2695,9 +2695,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Enchantment",
-			"collector_number": "265",
+			"collector_number": "270",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/265_Fateful Discovery.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/270_Fateful Discovery.png"
 			}
 		},
 		{
@@ -2705,9 +2705,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment",
-			"collector_number": "263",
+			"collector_number": "268",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/263_A Tale for the Ages.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/268_A Tale for the Ages.png"
 			}
 		},
 		{
@@ -2715,9 +2715,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Bird",
-			"collector_number": "270",
+			"collector_number": "275",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/270_Birds of Paradise.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/275_Birds of Paradise.png"
 			}
 		},
 		{
@@ -2725,9 +2725,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}",
 			"type": "Artifact",
-			"collector_number": "274",
+			"collector_number": "279",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/274_Coin of Mastery.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/279_Coin of Mastery.png"
 			}
 		},
 		{
@@ -2735,9 +2735,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "275",
+			"collector_number": "280",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/275_Fluctuator.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/280_Fluctuator.png"
 			}
 		},
 		{
@@ -2745,9 +2745,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "279",
+			"collector_number": "284",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/279_The Rack.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/284_The Rack.png"
 			}
 		},
 		{
@@ -2755,9 +2755,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}",
 			"type": "Artifact",
-			"collector_number": "276",
+			"collector_number": "281",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/276_Lich's Tomb.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/281_Lich's Tomb.png"
 			}
 		},
 		{
@@ -2765,9 +2765,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "266",
+			"collector_number": "271",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/266_Shadow of the Grave.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/271_Shadow of the Grave.png"
 			}
 		},
 		{
@@ -2775,9 +2775,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Enchantment",
-			"collector_number": "268",
+			"collector_number": "273",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/268_Rain of Riches.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/273_Rain of Riches.png"
 			}
 		},
 		{
@@ -2785,9 +2785,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "264",
+			"collector_number": "269",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/264_Curiosity.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/269_Curiosity.png"
 			}
 		},
 		{
@@ -2798,6 +2798,56 @@
 			"collector_number": "1",
 			"image_uris": {
 				"en": "https://bancrabs.github.io/sets/WHL-files/img/1_Human Token.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/265_Mountain.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/263_Island.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/264_Swamp.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/266_Forest.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/262_Plains.png"
 			}
 		},
 	]
