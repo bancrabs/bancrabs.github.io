@@ -25,9 +25,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Sorcery",
-			"collector_number": "55",
+			"collector_number": "54",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/55_Iterative Horticulture.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/54_Iterative Horticulture.png"
 			}
 		},
 		{
@@ -185,9 +185,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact",
-			"collector_number": "53",
+			"collector_number": "52",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/53_Intricate Globe.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/52_Intricate Globe.png"
 			}
 		},
 		{
@@ -195,16 +195,16 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{U}",
 			"type": "Creature — Drake",
-			"collector_number": "62",
+			"collector_number": "61",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/62_Moondweller Ghernakon.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/61_Moondweller Ghernakon.png"
 			}
 		},
 		{
 			"name": "The Trefoil Textiles Revenant",
 			"rarity": "rare",
-			"mana_cost": "{3}{B}",
-			"type": "Legendary Creature — Elemental Wraith",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Elemental Shade",
 			"collector_number": "111",
 			"image_uris": {
 				"en": "https://bancrabs.github.io/sets/WHL-files/img/111_The Trefoil Textiles Revenant.png"
@@ -221,13 +221,13 @@
 			}
 		},
 		{
-			"name": "Cautious Settlers",
+			"name": "Shrewd Stockjobber",
 			"rarity": "common",
-			"mana_cost": "{1}{U}",
-			"type": "Creature — Human Sailor",
-			"collector_number": "44",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Merchant",
+			"collector_number": "73",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/44_Cautious Settlers.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/73_Shrewd Stockjobber.png"
 			}
 		},
 		{
@@ -355,9 +355,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Creature — Human Mercenary Pilot",
-			"collector_number": "63",
+			"collector_number": "62",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/63_Occupation Stratonauts.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/62_Occupation Stratonauts.png"
 			}
 		},
 		{
@@ -365,9 +365,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}",
 			"type": "Sorcery",
-			"collector_number": "61",
+			"collector_number": "60",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/61_Mechanical Reproduction.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/60_Mechanical Reproduction.png"
 			}
 		},
 		{
@@ -385,9 +385,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{U}",
 			"type": "Creature — Human Mercenary",
-			"collector_number": "48",
+			"collector_number": "47",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/48_Enforcers of Enclosure.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/47_Enforcers of Enclosure.png"
 			}
 		},
 		{
@@ -395,9 +395,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "145",
+			"collector_number": "146",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/145_Self-Starter.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/146_Self-Starter.png"
 			}
 		},
 		{
@@ -645,9 +645,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "57",
+			"collector_number": "56",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/57_Lancet Co. Blockade.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/56_Lancet Co. Blockade.png"
 			}
 		},
 		{
@@ -815,9 +815,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Creature — Human Mercenary",
-			"collector_number": "59",
+			"collector_number": "58",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/59_Lancet Crackshots.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/58_Lancet Crackshots.png"
 			}
 		},
 		{
@@ -825,9 +825,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Spellshaper",
-			"collector_number": "64",
+			"collector_number": "63",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/64_Perspectivist Performer.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/63_Perspectivist Performer.png"
 			}
 		},
 		{
@@ -845,9 +845,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Instant",
-			"collector_number": "69",
+			"collector_number": "68",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/69_Regulatory Capture.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/68_Regulatory Capture.png"
 			}
 		},
 		{
@@ -855,9 +855,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "51",
+			"collector_number": "50",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/51_Held in the Harbor.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/50_Held in the Harbor.png"
 			}
 		},
 		{
@@ -885,9 +885,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "47",
+			"collector_number": "46",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/47_Dreaming of the Future.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/46_Dreaming of the Future.png"
 			}
 		},
 		{
@@ -915,9 +915,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Human Mercenary",
-			"collector_number": "140",
+			"collector_number": "141",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/140_Remorseless Flower-Hunter.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/141_Remorseless Flower-Hunter.png"
 			}
 		},
 		{
@@ -1035,9 +1035,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "66",
+			"collector_number": "65",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/66_Powered Flight.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/65_Powered Flight.png"
 			}
 		},
 		{
@@ -1075,9 +1075,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Merchant",
-			"collector_number": "45",
+			"collector_number": "44",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/45_Chintz Collector.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/44_Chintz Collector.png"
 			}
 		},
 		{
@@ -1155,9 +1155,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{U}",
 			"type": "Creature — Human Bird Pilot",
-			"collector_number": "58",
+			"collector_number": "57",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/58_Lancet Co. Cartographer.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/57_Lancet Co. Cartographer.png"
 			}
 		},
 		{
@@ -1165,9 +1165,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Creature — Human Spy",
-			"collector_number": "49",
+			"collector_number": "48",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/49_Fort Perianth Informant.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/48_Fort Perianth Informant.png"
 			}
 		},
 		{
@@ -1245,9 +1245,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Enchantment",
-			"collector_number": "144",
+			"collector_number": "145",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/144_The Scramble for Iyra.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/145_The Scramble for Iyra.png"
 			}
 		},
 		{
@@ -1421,13 +1421,13 @@
 			}
 		},
 		{
-			"name": "Storm Herald",
+			"name": "Primary Investor",
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Human Shaman",
-			"collector_number": "146",
+			"type": "Creature — Human Noble",
+			"collector_number": "139",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/146_Storm Herald.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/139_Primary Investor.png"
 			}
 		},
 		{
@@ -1493,7 +1493,7 @@
 		{
 			"name": "Port Agdol Duelist",
 			"rarity": "common",
-			"mana_cost": "{R}",
+			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Rogue",
 			"collector_number": "137",
 			"image_uris": {
@@ -1585,9 +1585,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "142",
+			"collector_number": "143",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/142_Revelation of the Stem.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/143_Revelation of the Stem.png"
 			}
 		},
 		{
@@ -1605,9 +1605,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "60",
+			"collector_number": "59",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/60_Litigate.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/59_Litigate.png"
 			}
 		},
 		{
@@ -1615,9 +1615,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Wizard Merchant",
-			"collector_number": "54",
+			"collector_number": "53",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/54_Inventor of Lenses.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/53_Inventor of Lenses.png"
 			}
 		},
 		{
@@ -1695,9 +1695,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "67",
+			"collector_number": "66",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/67_Preempt.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/66_Preempt.png"
 			}
 		},
 		{
@@ -1705,9 +1705,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "65",
+			"collector_number": "64",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/65_Port Agdol Pilferer.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/64_Port Agdol Pilferer.png"
 			}
 		},
 		{
@@ -1835,9 +1835,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "71",
+			"collector_number": "70",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/71_Risk Aversion.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/70_Risk Aversion.png"
 			}
 		},
 		{
@@ -1955,9 +1955,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Merchant",
-			"collector_number": "73",
+			"collector_number": "72",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/73_Scythe Co. Supplier.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/72_Scythe Co. Supplier.png"
 			}
 		},
 		{
@@ -2065,9 +2065,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Enchantment — Aura",
-			"collector_number": "139",
+			"collector_number": "140",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/139_Pulling Strings.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/140_Pulling Strings.png"
 			}
 		},
 		{
@@ -2125,9 +2125,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Drake",
-			"collector_number": "56",
+			"collector_number": "55",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/56_Juvenile Ghernakon.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/55_Juvenile Ghernakon.png"
 			}
 		},
 		{
@@ -2145,9 +2145,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Instant",
-			"collector_number": "72",
+			"collector_number": "71",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/72_Sabotage Shipment.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/71_Sabotage Shipment.png"
 			}
 		},
 		{
@@ -2345,9 +2345,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "52",
+			"collector_number": "51",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/52_In for a Penny.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/51_In for a Penny.png"
 			}
 		},
 		{
@@ -2465,9 +2465,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Creature — Drake",
-			"collector_number": "46",
+			"collector_number": "45",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/46_Dazzle-Scale Ghernakon.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/45_Dazzle-Scale Ghernakon.png"
 			}
 		},
 		{
@@ -2484,10 +2484,10 @@
 			"name": "The Future Reaching Back",
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}",
-			"type": "Enchantment",
-			"collector_number": "50",
+			"type": "Legendary Enchantment",
+			"collector_number": "49",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/50_The Future Reaching Back.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/49_The Future Reaching Back.png"
 			}
 		},
 		{
@@ -2495,9 +2495,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "70",
+			"collector_number": "69",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/70_Resplendent's Gatekeeper.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/69_Resplendent's Gatekeeper.png"
 			}
 		},
 		{
@@ -2545,9 +2545,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Artifact Creature — Sculpture",
-			"collector_number": "143",
+			"collector_number": "144",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/143_Rising from the Earth.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/144_Rising from the Earth.png"
 			}
 		},
 		{
@@ -2575,9 +2575,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact",
-			"collector_number": "68",
+			"collector_number": "67",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/68_Price Manipulator.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/67_Price Manipulator.png"
 			}
 		},
 		{
@@ -2615,9 +2615,9 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{R}",
 			"type": "Sorcery",
-			"collector_number": "141",
+			"collector_number": "142",
 			"image_uris": {
-				"en": "https://bancrabs.github.io/sets/WHL-files/img/141_Retributive Destruction.png"
+				"en": "https://bancrabs.github.io/sets/WHL-files/img/142_Retributive Destruction.png"
 			}
 		},
 		{
@@ -2885,7 +2885,7 @@
 	2 Fort Perianth, Colonial Office
 	2 The Stem, Seat of the Verdant
 	2 Agdol, Port Harbor
-	2 Storm Herald
+	2 Primary Investor
 	1 The Beloved Baroness Bellet
 	1 Strategic Command
 	2 Inventor of Lenses
@@ -3046,7 +3046,7 @@
 	8 Vitriol Vendor
 	8 Knives in the Night
 	8 Intricate Globe
-	8 Cautious Settlers
+	8 Shrewd Stockjobber
 	8 Come to Nothing
 	8 Change in the Air
 	8 Lucky Shot
@@ -3139,7 +3139,7 @@
 	15 Moondweller Ghernakon
 	7 The Trefoil Textiles Revenant
 	4 Corner the Market
-	6 Cautious Settlers
+	6 Shrewd Stockjobber
 	15 Missionaries of the Root
 	15 Fires of Industry
 	6 Come to Nothing
@@ -3258,7 +3258,7 @@
 	6 Gated Community
 	6 Cardinal of Conscription
 	15 Mass Conscription
-	7 Storm Herald
+	7 Primary Investor
 	6 Foreign Creditor
 	6 Conquest Festival
 	15 Port of Call
